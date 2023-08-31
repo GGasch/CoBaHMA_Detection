@@ -1,16 +1,20 @@
-from Bio import PDB
-from Bio import AlignIO
-from Bio import SeqIO
+
 
 import difflib
 import statistics as stat
 import os
 import sys
-import pandas as pd
-import numpy as np
-import plotly.express as px
 import re
+import glob
+
+import numpy as np
+import pandas as pd
 import tqdm
+import plotly.express as px
+
+from Bio import PDB
+from Bio import AlignIO
+from Bio import SeqIO
 
 #Convention : FULL_MAJ = Function, Majthenmin = Global_Variable, full_min = local variable
 
@@ -19,10 +23,14 @@ d3to1 = {'CYS': 'C', 'ASP': 'D', 'SER': 'S', 'GLN': 'Q', 'LYS': 'K','ILE': 'I', 
 
 
 ####pLDDT Computation zone####
-def EXTRACT_PLDDT (pdb_name, pdb_file) :
+def EXTRACT_STRUCTURE(pdb_file):
+	id = os.path.basename(pdb_file)
+	parser = PDB.PDBParser(id)
+	structure =parser.get_structure(id, pdb_file)
+	return structure
+
+def EXTRACT_PLDDT (structure) :
 	'''Extract pLDDT value as a list from pdb_file. pdb_name is a variable that we don't really care about, but is needed for the parser'''
-	parser = PDB.PDBParser(pdb_name)
-	structure =parser.get_structure(pdb_name, pdb_file)
 	plddt=[]
 	seq=[]
 	for model in structure :
@@ -32,7 +40,7 @@ def EXTRACT_PLDDT (pdb_name, pdb_file) :
 				for atom in residue :
 					plddt.append(atom.get_bfactor()) #The bfactor of Alphafold model has the pLDDT value
 					break #We only need the first b value since every atom of teh residue have the same b value
-	return(''.join(seq),plddt)
+	return ''.join(seq), plddt
 
 def PLDDT_STAT (list_plddt) :
 	'''Take a list of list of pLDDT. Each list of pLDDT is the pLDDT for the structure of one sequence. For every position (hence a list of list) and return mean and standard deviation'''
@@ -58,12 +66,12 @@ def PLDDT_STAT (list_plddt) :
 	return(list_plddt_mean, list_plddt_sd)
 
 ####DSSP Computation zone####
-def DSSP (pdb_name, pdb_file) :
+def DSSP (structure,pdb_file) :
 	'''get DSSP for a 3D model, same inputs has pLDDT'''
-	parser = PDB.PDBParser(pdb_name)
-	structure = parser.get_structure(pdb_name, pdb_file)
+	#parser = PDB.PDBParser(pdb_name)
+	#structure = parser.get_structure(pdb_name, pdb_file)
 	model=structure[0]
-	dssp = PDB.DSSP(model, pdb_file)
+	dssp = PDB.DSSP(model, pdb_file, dssp='mkdssp' )
 	dssp_l =list(dssp)
 	dssp_ll=[]
 	for i in range(len(dssp_l)) :
@@ -210,22 +218,22 @@ def UNIREF2AF (name_seq, af_file):
 	return(AF_name)
 
 ####FIGURE####
-def FIGURE (dssp_stat, name, has_beta0, base_path, has_cxxc) :
+def FIGURE (plot_directory , dssp_stat, name, has_beta0, has_cxxc) :
 	'''Draw the fig'''
 	if has_beta0 and not has_cxxc: # Save the picture in the correct directory
-		save_path = base_path+'/CoBaHMA/'
+		save_path = os.path.join(plot_directory,'CoBaHMA')
 	elif has_beta0 and has_cxxc:
-		save_path = base_path+'/CxxC/'			
+		save_path = os.path.join(plot_directory,'CxxC')			
 	else :
-		save_path = base_path+'/No_Beta0/'
+		save_path = os.path.join(plot_directory,'No_Beta0')
 	if not os.path.exists(save_path):
-		os.mkdir(save_path)
+		os.makedirs(save_path)
 
-	title = 'DSSP prediction by position for sequence'+name
+	title = 'DSSP prediction by position for sequence '+name
 	dssp_hg, dssp_eg, dssp_cg, dssp_NoData =  DSSP_8to3 (dssp_stat) 
 	df_dssp2 =pd.DataFrame(list(zip(dssp_hg,dssp_eg,dssp_cg,dssp_NoData)), columns=['%Hg','%Eg','%Cg','%NoData'])
 
-	fig = px.bar(df_dssp2,x=df_dssp2.index,y=df_dssp2['%Hg'])
+	fig = px.bar(df_dssp2,x=df_dssp2.index,y=df_dssp2['%Hg'],title=title)
 	#fig.add_bar(name = 'Helix', x=df_dssp2.index,y =df_dssp2['%Hg'], marker_color='lightskyblue')
 	fig.add_bar(name='Extended',x=df_dssp2.index,y =df_dssp2['%Eg'], marker_color='lightsalmon')
 	fig.add_bar(name='Coil',x=df_dssp2.index,y =df_dssp2['%Cg'], marker_color='lightgoldenrodyellow')
@@ -234,80 +242,136 @@ def FIGURE (dssp_stat, name, has_beta0, base_path, has_cxxc) :
 	
 	
 	differenciator = 0
-	while os.path.isfile(save_path+name+'_'+str(differenciator)+".svg"):
+	figpath = os.path.join(save_path,name+'_'+str(differenciator)+".svg")
+	while os.path.isfile(figpath):
 		differenciator = differenciator +1
-	fig.write_image(save_path+name+'_'+str(differenciator)+".svg")
-	return(name+'_'+str(differenciator))
+		figpath = os.path.join(save_path,name+'_'+str(differenciator)+".svg")
+	
+	fig.write_image(figpath)
+	return name+'_'+str(differenciator)
 
 ####WRITING########
 
-def SAVING (base_path, has_beta0, record_clnd, af_model, structure, debut_cob, length_cob, record_id, record_seq, tsv_file, has_cxxc, output_id):
-	'''Writing in the excel file and saving the fasta for beta0 structure'''
-	with open (tsv_file, 'a') as table :
-		if has_beta0 :
-			if has_cxxc :
-				table.write(record_clnd+'\t'+af_model+'\t'+output_id+'\t'+structure+'\tTrue\tTrue\tFalse\t'+str(debut_cob)+'\t'+str(debut_cob+length_cob)+'\n')
-			else :
-				table.write(record_clnd+'\t'+af_model+'\t'+output_id+'\t'+structure+'\tTrue\tFalse\tTrue\t'+str(debut_cob)+'\t'+str(debut_cob+length_cob)+'\n')
-		else :
-			if has_cxxc :
-				table.write(record_clnd+'\t'+af_model+'\t'+output_id+'\t'+structure+'\tFalse\tTrue\tFalse\t'+str(debut_cob)+'\t'+str(debut_cob+length_cob)+'\n')
-			else :
-				table.write(record_clnd+'\t'+af_model+'\t'+output_id+'\t'+structure+'\tFalse\tFalse\tFalse\t'+str(debut_cob)+'\t'+str(debut_cob+length_cob)+'\n')
-	if has_beta0 and not has_cxxc : # Save the fasta of sequence that are CoBaHMA
-		save_path = base_path+'/CoBaHMA_Fasta/'
-		if not os.path.exists(save_path):
-			os.mkdir(save_path)
-		with open (save_path+output_id+'.fasta', 'w') as fasta_file :
-			fasta_file.write ('>'+str(record_id)+'\n'+str(record_seq))
+def parse_uniprot_id(id):
+	id = id.strip().replace('>','').split()[0] # remove description and '>' if any
+	if '|' in id: #UniProt case
+		return id.split('|')[1]
+	elif id.startswith('UPI'): #UniParc case - note that UniParc sequences are not avalaible in alphafold.
+		return id
+	else: #UniRef_case
+		return id.split('_')[-1]
 
-	if has_beta0 and has_cxxc : # Let's keep them on the side, just in case
-		save_path = base_path+'/CxxC_Fasta/'
-		if not os.path.exists(save_path):
-			os.mkdir(save_path)
-		with open (save_path+output_id+'.fasta', 'w') as fasta_file :
-			fasta_file.write ('>'+str(record_id)+'\n'+str(record_seq))
 
+def glob_3D_models(model_dir):
+	l = glob.glob(os.path.join(model_dir,'*.pdb'))
+	return { _.split('-')[1] : os.path.abspath(_)  for _ in l }
 ############################################################Core Code################################################################
 #Input : directory with every msa, each labelled Cxxx.fasta and tsv file that make the connection between a Uniref100 and its AF identifier
 
-Fasta_File = sys.argv[1]
-Connector_File = sys.argv[2]
-Tsv_File = sys.argv[3]
 
-Base_Path = os.getcwd()
-with open (Tsv_File, 'w') as Table :
-	Table.write('Uniref_ID\tModel_Name\tOutput_ID\t2ndary_Structure\tHas_Beta_0_?\tHas_Cxx(x)C_?\tCoBaHMA\tBeginning_Domain\tEnd_Domain\n')
 
-Fasta = SeqIO.parse(Fasta_File,'fasta')
+if __name__=="__main__":
+	a3m_file = sys.argv[1] # fasta file containing UNIPROT sequences
+	model_3D_dir = sys.argv[2]
+	outdir = sys.argv[3]
+	os.makedirs(outdir,exist_ok=True)
+	outfile = os.path.join(outdir,'cobahma_detection_out.tsv')
+	plot_directory = os.path.join(outdir,'pLDDT_figs')
 
-for Record in tqdm.tqdm(Fasta, total = 34688) :
-	Af_Plddt_Cropd_Gapd =''
-	Record_Clnd = Record.id
-	Seq_Clnd = Record.seq.replace('-','').upper()
-	print(Record_Clnd)
-	Af_Model = UNIREF2AF(Record_Clnd, Connector_File) # Retrieve the pdb file for the sequence
-	if Af_Model != 'None' :
-		if os.path.isfile('/run/media/guest-biom/data4/AlphafoldDB/3D_Structures/'+Af_Model+'.pdb') :
-			Af_Seq, Af_Plddt = EXTRACT_PLDDT(Af_Model,'/run/media/guest-biom/data4/AlphafoldDB/3D_Structures/'+Af_Model+'.pdb')
-			Af_Dssp = DSSP(Af_Model, '/run/media/guest-biom/data4/AlphafoldDB/3D_Structures/'+Af_Model+'.pdb')
+	print('\033[92m {}\033[00m'.format('Parse fasta.'))
+	records = SeqIO.parse(a3m_file,'fasta')
+	print('\033[92m {}\033[00m'.format('Done.'))
+	print('\033[92m {}\033[00m'.format('Glob 3D models.'))
+	models  = glob_3D_models(model_3D_dir)  # return a dict with accessions as keys and models' path as values
+	print('\033[92m {}\033[00m'.format('Done.'))
+	
+	output_datas = []
+	cxxc_records = []
+	cobahma_records = []
+	
+	print('\033[92m {}\033[00m'.format('Start CoBaHMA detection...'))
+	for record in tqdm.tqdm(records) :
+		Af_Plddt_Cropd_Gapd =''
+		Record_Clnd = parse_uniprot_id(record.id)
+		Seq_Clnd = record.seq.replace('-','').upper()
+		
+		if Record_Clnd in models:
+			Af_Model = models[Record_Clnd]
+			Af_structure = EXTRACT_STRUCTURE(Af_Model)
+			Af_Seq, Af_Plddt = EXTRACT_PLDDT(Af_structure)
+			Af_Dssp = DSSP(Af_structure, Af_Model)
 
 			Af_Plddt_Cropd_Gapd, Debut_Cob, Length_Cob = ADAPT2MSA (Seq_Clnd, Af_Seq, Af_Plddt) #Legacy line, useful if we want to re run the code and display plDDT on the picture		
 			Af_Dssp_Cropd_Gapd, Debut_Cob, Length_Cob = ADAPT2MSA (Seq_Clnd, Af_Seq, Af_Dssp)
-				
+					
 			if Af_Plddt_Cropd_Gapd:
 				Dssp_Stat = DSSP_STAT(Af_Dssp_Cropd_Gapd)
 				Has_Beta0, Structure = IDENTIFICATION_BETA0 (Dssp_Stat)
 				Has_CxxC = IDENTIFICATION_CxxC(Seq_Clnd)
-				Output_Id = FIGURE(Dssp_Stat, Record_Clnd, Has_Beta0, Base_Path, Has_CxxC)
-				SAVING (Base_Path, Has_Beta0, Record_Clnd, Af_Model, Structure, Debut_Cob, Length_Cob, Record.id, Seq_Clnd, Tsv_File, Has_CxxC, Output_Id)
+				Output_Id = FIGURE(plot_directory, Dssp_Stat, Record_Clnd, Has_Beta0, Has_CxxC)
+
 				
-			else :
-				with open (Tsv_File, 'a') as Table :
-					Table.write(Record_Clnd+'\t\t\tNone\n')
-		else :
-			with open (Tsv_File, 'a') as Table :
-				Table.write(Record_Clnd+'\t'+Af_Model+'\t\tModel_Not_Downloaded\n')
-	else :
-		with open (Tsv_File, 'a') as Table :
-			Table.write(Record_Clnd+'\t'+Af_Model+'\n')
+				Is_True_Cob = Has_Beta0 and not Has_CxxC
+				d = (
+					record.id, #Uniref_ID
+					os.path.basename(Af_Model), #tModel_Name
+					Output_Id,#tOutput_ID
+					Structure, #t2ndary_Structure
+					Has_Beta0, #tHas_Beta_0_
+					Has_CxxC, #tHas_CxxC
+					Is_True_Cob, #CoBaHMA
+					Debut_Cob, #Beginning_Domain
+					Debut_Cob+Length_Cob,  # End_Domain
+					"-" # Comment
+				)
+				output_datas.append(d)
+				if Is_True_Cob:
+					cobahma_records.append((record.id, Seq_Clnd))
+				elif Has_CxxC:
+					cxxc_records.append((record.id, Seq_Clnd))
+				else:					
+					pass
+				continue
+			else:
+				comment = "Af_Plddt_Cropd_Gapd"
+		else: # 
+			comment = "Model unavailable"
+		output_datas.append((
+				record.id, #Uniref_ID
+				None, #tModel_Name
+				None, #tOutput_ID
+				None, #t2ndary_Structure
+				None, #tHas_Beta_0_
+				None, #tHas_CxxC
+				None, #CoBaHMA
+				None, #Beginning_Domain
+				None, # End_Domain
+				comment
+		))
+			
+	print('\033[92m {}\033[00m'.format('Done.'))	
+	#end for loop
+	print('\033[92m {}\033[00m'.format('Write output table ... [{}]'.format(outfile)))
+	df = pd.DataFrame(output_datas)
+	df.columns = ['Uniref_ID','Model_Name','Output_ID','2ndary_Structure','Has_Beta_0_?',
+	       'Has_Cxx(x)C_?','CoBaHMA','Beginning_Domain','End_Domain','Comment']
+	df.set_index('Uniref_ID').to_csv(outfile,sep='\t',header=True,index=True)
+	print('\033[92m {}\033[00m'.format('Done. [{}]'.format(outfile)))
+	# write fastas:
+	print('\033[92m {}\033[00m'.format('Write CoBaHMAs and CxxC fasta files ...'))
+	os.makedirs(outdir + "/CoBaHMA_Fasta",exist_ok=True)
+	for r in cobahma_records:
+		o = os.path.join(outdir , "CoBaHMA_Fasta",'{}.fasta'.format(r[0]))
+		with open(o,'w') as fh:
+			fh.write('>{}\n{}\n'.format(
+				r[0],r[1]
+			))
+	os.makedirs(outdir + "/CxxC_Fasta",exist_ok=True)
+	for r in cxxc_records:
+		o = os.path.join(outdir , "CxxC_Fasta",'{}.fasta'.format(r[0]))
+		with open(o,'w') as fh:
+			fh.write('>{}\n{}\n'.format(
+				r[0],r[1]
+			))
+	print('\033[92m {}\033[00m'.format('Done.'))
+	print('\033[92m {}\033[00m'.format('Bye.'))
