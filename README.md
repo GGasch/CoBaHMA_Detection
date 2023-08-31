@@ -8,3 +8,5 @@ _alphafold_ids.py : a script to find whether or not a list of Uniprot ID has a m
 _alphafold_download.py : a script to download model of protein 3D structure from AlphaFoldDB (https://alphafold.ebi.ac.uk/). This code is made for AlphaFoldDB V4, in case a new version of AlphaFoldDB is released, the code needs to be updated.
 
 _CoBaHMA_Detection.py : Based on the 3D model and the sequence, detect wheter or not a sequence is a CoBaHMA
+This scipt use DSSP as part of the Bio library(https://biopython.org/docs/1.75/api/Bio.PDB.DSSP.html)
+To use this module, you need a local instalation of DSSP, available at https://swift.cmbi.umcn.nl/gv/dssp/ or with conda : https://anaconda.org/salilab/dssp
