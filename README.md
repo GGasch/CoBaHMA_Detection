@@ -70,20 +70,20 @@ Intermediates steps using mmseqs2:
 
 0) convert clustering results into tabular file:
 
-`mmseqs convertalis clustering/clustering_cov_0.97/cluDB clustering/clustering_cov_0.97/cluDB clustering/seqDB clustering/clustering_cov_0.97/clualn.tsv --format-output query,target,evalue,gapopen,pident,fident,nident,qstart,qend,qlen,tstart,tend,tlen,alnlen,raw,bits,cigar,qseq,tseq,qheader,theader,qaln,taln,qframe,tframe,mismatch,qcov,tcov,qset,qsetid,tset,tsetid`
+```mmseqs convertalis clustering/clustering_cov_0.97/cluDB clustering/clustering_cov_0.97/cluDB clustering/seqDB clustering/clustering_cov_0.97/clualn.tsv --format-output query,target,evalue,gapopen,pident,fident,nident,qstart,qend,qlen,tstart,tend,tlen,alnlen,raw,bits,cigar,qseq,tseq,qheader,theader,qaln,taln,qframe,tframe,mismatch,qcov,tcov,qset,qsetid,tset,tsetid```
 
 
 1) extract representative sequences from clustering:
 
-`mmseqs createsubdb clustering/clustering_cov_0.97/cluDB clustering/seqDB clustering/clustering_cov_0.97/repDB`
+```mmseqs createsubdb clustering/clustering_cov_0.97/cluDB clustering/seqDB clustering/clustering_cov_0.97/repDB```
 
 2) perform a self-vs-self search with representative sequences:
 
-`mmseqs search clustering/clustering_cov_0.97/repDB clustering/clustering_cov_0.97/repDB  clustering/clustering_cov_0.97/searchDB tmp -a`
+```mmseqs search clustering/clustering_cov_0.97/repDB clustering/clustering_cov_0.97/repDB  clustering/clustering_cov_0.97/searchDB tmp -a```
 
 3) convert search results in a tabular file:
 
-`mmseqs convertalis clustering/clustering_cov_0.97/repDB clustering/clustering_cov_0.97/repDB clustering/clustering_cov_0.97/searchDB clustering/clustering_cov_0.97/search.tsv --format-output query,target,evalue,gapopen,pident,fident,nident,qstart,qend,qlen,tstart,tend,tlen,alnlen,raw,bits,cigar,qseq,tseq,qheader,theader,qaln,taln,qframe,tframe,mismatch,qcov,tcov,qset,qsetid,tset,tsetid`
+```mmseqs convertalis clustering/clustering_cov_0.97/repDB clustering/clustering_cov_0.97/repDB clustering/clustering_cov_0.97/searchDB clustering/clustering_cov_0.97/search.tsv --format-output query,target,evalue,gapopen,pident,fident,nident,qstart,qend,qlen,tstart,tend,tlen,alnlen,raw,bits,cigar,qseq,tseq,qheader,theader,qaln,taln,qframe,tframe,mismatch,qcov,tcov,qset,qsetid,tset,tsetid```
 
 4) Filter clustering and search alignments.
 ---
