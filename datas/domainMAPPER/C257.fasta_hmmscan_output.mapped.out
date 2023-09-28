@@ -1,0 +1,36 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:00:09.164855
+#  Input HMM: 
+#               C257.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C257.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:     31         Total Domains:       5
+#                                                        NC :   0 (0.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A6P2AA88	2.30e-06	66-115		a+b complex topology	Insertion domain in replication terminator protein (Tus)	Insertion domain in replication terminator protein (Tus)	Ter_2nd	4053.1.1.1	
+UniRef100_A0A1J1JBB2	9.00e-06	43-91		beta duplicates or obligate multimers	beta-Trefoil	beta-Trefoil	EUF07864	6.1.1.28	
+UniRef100_A0A846CVK4	7.60e-06	66-177		mixed a+b and a/b	Ribonuclease H-like	Ribonuclease H-like	Actin_2nd	2484.1.1.510	
+UniRef100_A0A3B8YCC2	3.70e-06	68-160		beta barrels	cradle loop barrel	PUA domain	SAD_SRA	1.1.9.14	
+UniRef100_A0A5Q4HCM4	8.70e-06	134-172		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	

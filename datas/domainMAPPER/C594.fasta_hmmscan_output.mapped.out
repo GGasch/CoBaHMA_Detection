@@ -1,0 +1,34 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:06:48.990652
+#  Input HMM: 
+#               C594.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C594.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:      1         Total Domains:       3
+#                                                        NC :   1 (33.33%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   1 (33.33%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A2K8T897	1.00e-22	227-321		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A2K8T897	1.70e-38	410-424,543-661	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A2K8T897	2.60e-26	423-540	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	

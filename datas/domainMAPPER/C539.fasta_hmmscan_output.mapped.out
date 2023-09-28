@@ -1,0 +1,53 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:05:51.804453
+#  Input HMM: 
+#               C539.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C539.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:     11         Total Domains:      22
+#                                                        NC :   0 (0.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A2M9KQM5	2.80e-45	186-502		alpha bundles	Type II ABC exporter transmembrane domain fold	Type I ABC exporter transmembrane domain fold	ABC_membrane	1075.4.1.1	
+UniRef100_A0A2M9KQM5	1.10e-90	523-761		a/b three-layered sandwiches	P-loop domains-like	P-loop containing nucleoside triphosphate hydrolases	ABC_tran_1	2004.1.1.1405	
+UniRef100_A0A7W9UPX6	3.20e-44	184-500		alpha bundles	Type II ABC exporter transmembrane domain fold	Type I ABC exporter transmembrane domain fold	ABC_membrane	1075.4.1.1	
+UniRef100_A0A7W9UPX6	2.40e-91	521-759		a/b three-layered sandwiches	P-loop domains-like	P-loop containing nucleoside triphosphate hydrolases	ABC_tran_1	2004.1.1.1405	
+UniRef100_A0A6I5DKZ9	1.40e-42	207-526		alpha bundles	Type II ABC exporter transmembrane domain fold	Type I ABC exporter transmembrane domain fold	ABC_membrane	1075.4.1.1	
+UniRef100_A0A6I5DKZ9	6.60e-87	544-782		a/b three-layered sandwiches	P-loop domains-like	P-loop containing nucleoside triphosphate hydrolases	ABC_tran_1	2004.1.1.1405	
+UniRef100_A0A318JWS4	1.90e-45	185-501		alpha bundles	Type II ABC exporter transmembrane domain fold	Type I ABC exporter transmembrane domain fold	ABC_membrane	1075.4.1.1	
+UniRef100_A0A318JWS4	2.20e-84	520-757		a/b three-layered sandwiches	P-loop domains-like	P-loop containing nucleoside triphosphate hydrolases	ABC_tran_1	2004.1.1.1405	
+UniRef100_A0A3N1TC13	7.30e-43	200-516		alpha bundles	Type II ABC exporter transmembrane domain fold	Type I ABC exporter transmembrane domain fold	ABC_membrane	1075.4.1.1	
+UniRef100_A0A3N1TC13	6.50e-92	537-775		a/b three-layered sandwiches	P-loop domains-like	P-loop containing nucleoside triphosphate hydrolases	ABC_tran_1	2004.1.1.1405	
+UniRef100_A0A0F0HUD6	5.60e-44	178-494		alpha bundles	Type II ABC exporter transmembrane domain fold	Type I ABC exporter transmembrane domain fold	ABC_membrane	1075.4.1.1	
+UniRef100_A0A0F0HUD6	3.50e-91	515-753		a/b three-layered sandwiches	P-loop domains-like	P-loop containing nucleoside triphosphate hydrolases	ABC_tran_1	2004.1.1.1405	
+UniRef100_A0A345T3B2	1.50e-41	184-500		alpha bundles	Type II ABC exporter transmembrane domain fold	Type I ABC exporter transmembrane domain fold	ABC_membrane	1075.4.1.1	
+UniRef100_A0A345T3B2	8.60e-91	521-759		a/b three-layered sandwiches	P-loop domains-like	P-loop containing nucleoside triphosphate hydrolases	ABC_tran_1	2004.1.1.1405	
+UniRef100_A0A4Y4K1L3	4.50e-43	187-503		alpha bundles	Type II ABC exporter transmembrane domain fold	Type I ABC exporter transmembrane domain fold	ABC_membrane	1075.4.1.1	
+UniRef100_A0A4Y4K1L3	3.60e-91	524-762		a/b three-layered sandwiches	P-loop domains-like	P-loop containing nucleoside triphosphate hydrolases	ABC_tran_1	2004.1.1.1405	
+UniRef100_A0A6N7KZ84	1.20e-43	183-499		alpha bundles	Type II ABC exporter transmembrane domain fold	Type I ABC exporter transmembrane domain fold	ABC_membrane	1075.4.1.1	
+UniRef100_A0A6N7KZ84	2.00e-91	520-758		a/b three-layered sandwiches	P-loop domains-like	P-loop containing nucleoside triphosphate hydrolases	ABC_tran_1	2004.1.1.1405	
+UniRef100_A0A2W6BRH6	6.80e-46	185-501		alpha bundles	Type II ABC exporter transmembrane domain fold	Type I ABC exporter transmembrane domain fold	ABC_membrane	1075.4.1.1	
+UniRef100_A0A2W6BRH6	8.10e-87	522-760		a/b three-layered sandwiches	P-loop domains-like	P-loop containing nucleoside triphosphate hydrolases	ABC_tran_1	2004.1.1.1405	
+UniRef100_A0A0X3VEB3	6.00e-42	184-497		alpha bundles	Type II ABC exporter transmembrane domain fold	Type I ABC exporter transmembrane domain fold	ABC_membrane	1075.4.1.1	
+UniRef100_A0A0X3VEB3	1.10e-88	518-756		a/b three-layered sandwiches	P-loop domains-like	P-loop containing nucleoside triphosphate hydrolases	ABC_tran_1	2004.1.1.1405	

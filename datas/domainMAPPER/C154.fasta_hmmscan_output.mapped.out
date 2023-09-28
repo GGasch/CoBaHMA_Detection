@@ -1,0 +1,33 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 16:58:19.471733
+#  Input HMM: 
+#               C154.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C154.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:      1         Total Domains:       2
+#                                                        NC :   0 (0.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A1E3X479	2.90e-27	17-142		alpha arrays	HTH	winged	FUR	101.1.2.51	
+UniRef100_A0A1E3X479	2.30e-07	189-243		a+b two layers	Glucose permease domain IIB-like	PH0987 N-terminal domain-like	CT_C_D_N	306.6.1.2	

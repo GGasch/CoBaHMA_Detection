@@ -1,0 +1,46 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:04:37.176174
+#  Input HMM: 
+#               C477.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C477.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:     17         Total Domains:      15
+#                                                        NC :   0 (0.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A5C9CIW9	4.80e-06	37-70		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A0H4WWI4	3.60e-07	10-135		a/b three-layered sandwiches	Rossmann-like	NAD(P)-binding Rossmann-fold domains	KR_1_SDR_x	2003.1.1.69	
+UniRef100_A0A2M6VQQ6	1.70e-06	37-69		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A7C3RP10	1.40e-06	31-62		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A0K1PSQ0	2.40e-07	32-79		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A560LH98	1.50e-07	102-150		beta sandwiches	Immunoglobulin-like beta-sandwich	Common fold of diphtheria toxin/transcription factors/cytochrome f	Antig_Caf1	11.1.5.6	
+UniRef100_A0A560LH98	5.70e-06	132-175		alpha complex topology	Major facilitator superfamily (MFS) general substrate transporter	Major facilitator superfamily (MFS) general substrate transporter	MFS_1	5050.1.1.2	
+UniRef100_A0A1H4MF07	1.50e-06	34-100		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A5B8N6U1	2.30e-07	33-98		a/b barrels	TIM beta/alpha-barrel	TIM barrels	HpcH_HpaI	2002.1.1.109	
+UniRef100_A0A120FJA0	3.90e-06	121-169		beta sandwiches	Immunoglobulin-like beta-sandwich	Common fold of diphtheria toxin/transcription factors/cytochrome f	Antig_Caf1	11.1.5.6	
+UniRef100_A0A1M7UEN5	2.00e-06	31-65		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A1M3N2P1	1.20e-07	40-81		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A7S9CS34	2.40e-06	32-66		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A3S0HJ88	2.50e-06	32-63		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A3S0HJ88	1.00e-06	102-150		beta sandwiches	Immunoglobulin-like beta-sandwich	Common fold of diphtheria toxin/transcription factors/cytochrome f	Antig_Caf1	11.1.5.6	

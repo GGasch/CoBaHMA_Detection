@@ -1,0 +1,58 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:04:49.589615
+#  Input HMM: 
+#               C488.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C488.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:     23         Total Domains:      27
+#                                                        NC :   0 (0.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A2C6WG84	5.90e-29	225-303		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A846H869	5.70e-28	259-343		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A1Z4GNT8	2.30e-30	236-321		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A4V2JN11	2.80e-28	224-307		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A2H2Y967	1.30e-27	234-311		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A1Z4G1J0	9.60e-29	235-309		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_Q8YWA0	2.80e-30	237-313		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A6G9SDU0	1.70e-31	240-314		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A1Z4SGK5	6.40e-29	240-313		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A2N6KF32	3.10e-29	231-321		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A844MAQ5	4.90e-06	94-162		alpha bundles	Calcium ATPase transmembrane domain-related	Calcium ATPase transmembrane domain M	Cation_ATPase_C	5073.1.1.14	
+UniRef100_A0A844MAQ5	2.70e-29	232-317		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A1Z4TLH5	3.00e-28	222-310		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A140K986	7.10e-06	101-148		beta complex topology	triple barrel	TFIID subunits TAF1-TAF7	DUF3591_1st	59.1.4.2	
+UniRef100_A0A140K986	5.00e-29	265-341		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A1Z4L933	1.30e-29	228-305		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A367QH07	2.10e-27	237-313		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A2N6K2S3	3.00e-30	228-315		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A1U7ILD7	4.20e-27	229-304		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A1Q4RFD9	1.70e-27	225-300		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A252CRG6	2.80e-07	100-160		alpha bundles	Calcium ATPase transmembrane domain-related	Calcium ATPase transmembrane domain M	Cation_ATPase_C	5073.1.1.14	
+UniRef100_A0A252CRG6	2.40e-29	236-313		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A3S1IWR7	3.10e-27	227-304		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_K9QRX6	2.90e-06	24-76		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_K9QRX6	3.10e-31	229-306		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_K9Q7B0	9.80e-31	237-321		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	
+UniRef100_A0A2I8A387	1.40e-31	222-302		alpha bundles	Acid phosphatase/Vanadium-dependent haloperoxidase	Acid phosphatase/Vanadium-dependent haloperoxidase	PAP2	180.1.1.1	

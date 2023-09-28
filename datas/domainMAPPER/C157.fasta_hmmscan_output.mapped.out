@@ -1,0 +1,37 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 16:58:22.003582
+#  Input HMM: 
+#               C157.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C157.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:      3         Total Domains:       6
+#                                                        NC :   0 (0.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A839T2H1	5.10e-21	344-424		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A839T2H1	1.40e-08	664-770		a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A6B8M3E9	6.20e-19	339-426		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A6B8M3E9	4.00e-12	663-774		a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_B2ICQ2	1.40e-20	358-446		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_B2ICQ2	2.40e-10	692-802		a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	

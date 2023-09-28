@@ -1,0 +1,42 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 16:57:33.921963
+#  Input HMM: 
+#               C105.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C105.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:      7         Total Domains:      11
+#                                                        NC :   1 (9.09%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A2D2Q2L3	3.80e-14	225-317		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A3S1CNK6	1.30e-19	222-315		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A3S1CNK6	1.90e-11	416-523		a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A2H2Y8W7	3.60e-19	225-318		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A2H2Y8W7	1.90e-06	338-338,418-523	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A5P8WCY8	2.20e-21	217-310		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A5P8WCY8	1.30e-13	413-523		a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_V5V933	4.70e-15	232-324		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_B8HLY0	2.00e-21	226-316		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_B8HLY0	4.90e-16	415-531		a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A7D6EUL7	1.00e-14	232-325		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	

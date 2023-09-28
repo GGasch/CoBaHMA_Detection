@@ -1,0 +1,37 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:09:15.982451
+#  Input HMM: 
+#               C73.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C73.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:      1         Total Domains:       6
+#                                                        NC :   1 (16.67%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A7J9VC74	4.00e-07	57-100		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A7J9VC74	6.50e-30	721-824		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A7J9VC74	2.30e-10	801-902		alpha bundles	Calcium ATPase transmembrane domain-related	Calcium ATPase transmembrane domain M	Cation_ATPase_C	5073.1.1.14	
+UniRef100_A0A7J9VC74	2.30e-09	868-920		N/A	N/A	N/A	Cation_ATPase_C_1	N/A	
+UniRef100_A0A7J9VC74	2.10e-06	921-935,1053-1081	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A7J9VC74	2.60e-25	976-1108		a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	Cation_ATPase	267.1.1.3	

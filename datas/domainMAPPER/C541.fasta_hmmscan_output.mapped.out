@@ -1,0 +1,51 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:06:00.867259
+#  Input HMM: 
+#               C541.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C541.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:     50         Total Domains:      20
+#                                                        NC :   0 (0.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A4R1B578	7.40e-06	106-144		a/b three-layered sandwiches	Macro domain-like	Macro domain-like	Peptidase_M17_N_1	7529.1.1.11	
+UniRef100_Q60AP3	5.00e-07	32-73		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A6J4FXE2	1.00e-06	42-87		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_C7RME4	5.50e-07	38-79		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A658BR49	1.60e-06	36-84		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A849S047	6.60e-06	69-137		alpha arrays	Insertion subdomain in DsbA-like	Insertion subdomain in DsbA-like	DsbA_DsbA_like	3009.1.1.12	
+UniRef100_A0A1G0DQE8	1.50e-06	38-78		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A1W6CQD9	3.60e-06	52-93		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A497X916	1.60e-08	25-75		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A257NBJ3	2.30e-06	44-120		alpha bundles	Myosin VI lever arm	Myosin VI lever arm	KOG0163	3860.1.1.2	
+UniRef100_A0A177N0G5	1.90e-07	64-158		a/b barrels	TIM beta/alpha-barrel	Glycoside hydrolase/deacetylase	Polysacc_deac_2	2002.3.1.8	
+UniRef100_W0SHT6	2.10e-06	34-75		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A524B021	2.30e-08	35-77		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A2P5NAG3	6.00e-06	19-70		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A6L4YH66	1.20e-07	33-78		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A011NFC2	7.80e-06	39-83		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A661FC92	2.20e-06	48-97		a+b two layers	beta-Grasp	Ubiquitin-like	Urm1	221.1.1.45	
+UniRef100_A0A833GQF9	8.30e-08	35-77		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_Q47EZ8	1.00e-06	36-76		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A1V8M3G1	3.40e-06	32-83		alpha arrays	HTH	winged	HTH_1	101.1.2.58	

@@ -1,0 +1,38 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 16:59:46.963942
+#  Input HMM: 
+#               C236.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C236.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:     39         Total Domains:       7
+#                                                        NC :   0 (0.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_H5Y3W9	1.70e-06	26-72		a+b two layers	Glucose permease domain IIB-like	PH0987 N-terminal domain-like	CT_C_D_N	306.6.1.2	
+UniRef100_D4CT74	4.60e-06	186-235		alpha bundles	N-cbl like	Superantigen MAM N-terminal domain	MA-Mit_N	611.5.1.1	
+UniRef100_A0A377GWB3	9.00e-06	184-250		beta sandwiches	Immunoglobulin-like beta-sandwich	Immunoglobulin/Fibronectin type III/E set domains/PapD-like	YfaS_2nd	11.1.1.193	
+UniRef100_A0A133NEV9	1.20e-06	89-170		alpha arrays	BEACH domain	BEACH domain	Beach	535.1.1.1	
+UniRef100_B9E0R5	5.20e-06	25-71		a+b two layers	Glucose permease domain IIB-like	PH0987 N-terminal domain-like	CT_C_D_N	306.6.1.2	
+UniRef100_A0A1G7UH73	6.70e-06	26-71		a+b two layers	Glucose permease domain IIB-like	PH0987 N-terminal domain-like	CT_C_D_N	306.6.1.2	
+UniRef100_U2SKL7	4.50e-06	7-68		a+b two layers	beta-Grasp	Chemotaxis inhibitory protein CHIPS	CHIPS	221.1.5.1	

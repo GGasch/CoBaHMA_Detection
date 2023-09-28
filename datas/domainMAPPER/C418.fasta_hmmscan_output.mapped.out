@@ -1,0 +1,35 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:03:29.961114
+#  Input HMM: 
+#               C418.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C418.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:      1         Total Domains:       4
+#                                                        NC :   2 (50.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   3 (75.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A1U7H9L4	1.74e-74	136-245,768-1011	NC	alpha bundles	Calcium ATPase transmembrane domain-related	Calcium ATPase transmembrane domain M	Cation_ATPase_C	5073.1.1.14	
+UniRef100_A0A1U7H9L4	1.40e-36	248-355	IS	beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A1U7H9L4	5.90e-46	451-466,658-803	NC IS	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A1U7H9L4	1.20e-37	467-659	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	Cation_ATPase	267.1.1.3	

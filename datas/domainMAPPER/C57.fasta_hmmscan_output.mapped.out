@@ -1,0 +1,35 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:06:37.295645
+#  Input HMM: 
+#               C57.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C57.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:      1         Total Domains:       4
+#                                                        NC :   2 (50.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   2 (50.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A1H0DKA2	4.40e-06	222-284,374-447	NC	alpha bundles	Calcium ATPase transmembrane domain-related	Copper efflux ATPase transmembrane domain	E1-E2_ATPase_C	5073.1.2.3	
+UniRef100_A0A1H0DKA2	8.90e-25	320-408	IS	beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A1H0DKA2	1.60e-32	496-511,631-743	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A1H0DKA2	1.40e-26	512-629	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	

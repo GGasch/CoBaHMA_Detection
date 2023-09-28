@@ -1,0 +1,39 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:02:48.045498
+#  Input HMM: 
+#               C382.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C382.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:      2         Total Domains:       8
+#                                                        NC :   0 (0.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A658BRP5	8.70e-07	49-83		a+b two layers	Glucose permease domain IIB-like	PH0987 N-terminal domain-like	CT_C_D_N	306.6.1.2	
+UniRef100_A0A658BRP5	3.50e-17	102-163		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A658BRP5	2.50e-13	195-312		alpha bundles	Calcium ATPase transmembrane domain-related	Copper efflux ATPase transmembrane domain	E1-E2_ATPase_C	5073.1.2.3	
+UniRef100_A0A658BRP5	1.50e-30	314-408		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A522WLG6	1.80e-06	39-75		a+b two layers	Glucose permease domain IIB-like	PH0987 N-terminal domain-like	CT_C_D_N	306.6.1.2	
+UniRef100_A0A522WLG6	6.20e-18	101-162		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A522WLG6	2.00e-15	194-315		alpha bundles	Calcium ATPase transmembrane domain-related	Copper efflux ATPase transmembrane domain	E1-E2_ATPase_C	5073.1.2.3	
+UniRef100_A0A522WLG6	3.60e-24	312-388		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	

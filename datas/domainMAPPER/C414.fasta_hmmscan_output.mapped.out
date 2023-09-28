@@ -1,0 +1,66 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:03:26.095076
+#  Input HMM: 
+#               C414.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C414.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:     11         Total Domains:      35
+#                                                        NC :  13 (37.14%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :  13 (37.14%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_B9E3D5	6.40e-06	132-188,278-331	NC	alpha bundles	Calcium ATPase transmembrane domain-related	Copper efflux ATPase transmembrane domain	E1-E2_ATPase_C	5073.1.2.3	
+UniRef100_B9E3D5	3.00e-13	225-307	IS	beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_B9E3D5	6.90e-23	396-409,549-666	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_B9E3D5	2.30e-16	408-547	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	
+UniRef100_R1CS51	9.30e-10	225-299		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_R1CS51	2.20e-25	395-408,521-637	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_R1CS51	8.90e-17	407-519	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	
+UniRef100_A0A1S8TNC8	1.10e-08	225-309		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A1S8TNC8	2.90e-31	395-409,526-643	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A1S8TNC8	1.30e-16	408-524	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	
+UniRef100_A0A6I0FCT2	1.90e-10	227-301		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A6I0FCT2	4.40e-25	396-408,522-639	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A6I0FCT2	5.60e-13	411-519	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	
+UniRef100_U5MUT6	1.00e-06	128-188,278-348	NC	alpha bundles	Calcium ATPase transmembrane domain-related	Copper efflux ATPase transmembrane domain	E1-E2_ATPase_C	5073.1.2.3	
+UniRef100_U5MUT6	2.80e-12	227-306	IS	beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_U5MUT6	8.80e-31	397-409,526-643	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_U5MUT6	9.30e-18	408-525	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	
+UniRef100_A0A3G1KVK7	8.10e-09	221-307		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A3G1KVK7	1.20e-28	395-409,528-645	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A3G1KVK7	2.50e-25	408-528	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	
+UniRef100_K6TBU3	2.40e-06	229-309		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_K6TBU3	4.60e-31	397-409,526-643	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_K6TBU3	9.60e-18	408-525	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	
+UniRef100_A0A2T0BQR3	4.50e-15	223-300		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A2T0BQR3	1.30e-26	395-408,529-646	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A2T0BQR3	6.40e-11	410-528	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	
+UniRef100_A0A267MLH6	1.80e-12	224-300		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A267MLH6	2.20e-31	393-408,526-643	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A267MLH6	9.10e-21	407-525	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	
+UniRef100_A0A352NUA0	2.20e-13	221-300		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A352NUA0	7.50e-26	397-409,530-647	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A352NUA0	7.30e-10	412-528	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	
+UniRef100_A0A833HLZ9	1.20e-09	226-304		beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A833HLZ9	2.10e-25	396-408,523-640	NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A833HLZ9	1.80e-12	407-520	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	

@@ -1,0 +1,38 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:06:26.108475
+#  Input HMM: 
+#               C571.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C571.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:      1         Total Domains:       7
+#                                                        NC :   2 (28.57%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   4 (57.14%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A6J1EI97	5.50e-27	55-121		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A6J1EI97	8.50e-25	140-203		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A6J1EI97	3.08e-41	333-443,897-986	NC	alpha bundles	Calcium ATPase transmembrane domain-related	Copper efflux ATPase transmembrane domain	E1-E2_ATPase_C	5073.1.2.3	
+UniRef100_A0A6J1EI97	2.20e-26	459-547	IS	beta sandwiches	jelly-roll	Calcium ATPase, transduction domain A	E1-E2_ATPase_N	10.13.1.2	
+UniRef100_A0A6J1EI97	7.70e-40	511-660	IS	alpha bundles	Calcium ATPase transmembrane domain-related	Copper efflux ATPase transmembrane domain	E1-E2_ATPase_C	5073.1.2.3	
+UniRef100_A0A6J1EI97	5.20e-45	656-671,809-925	IS NC	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A6J1EI97	7.90e-37	670-809	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	P-type_ATPase_Cu-like	267.1.1.5	

@@ -1,0 +1,4477 @@
+##gff-version 3
+# UniRef100_K9S008 Length: 347
+# UniRef100_K9S008 Number of predicted TMRs: 0
+UniRef100_K9S008	inside	1	347				
+//
+# UniRef100_A0A552LCK1 Length: 330
+# UniRef100_A0A552LCK1 Number of predicted TMRs: 1
+UniRef100_A0A552LCK1	outside	1	2				
+UniRef100_A0A552LCK1	TMhelix	3	22				
+UniRef100_A0A552LCK1	inside	23	330				
+//
+# UniRef100_A0A0F2J4I4 Length: 123
+# UniRef100_A0A0F2J4I4 Number of predicted TMRs: 0
+UniRef100_A0A0F2J4I4	inside	1	123				
+//
+# UniRef100_A0A1E4FHM4 Length: 119
+# UniRef100_A0A1E4FHM4 Number of predicted TMRs: 0
+UniRef100_A0A1E4FHM4	inside	1	119				
+//
+# UniRef100_A0A1G7Q5M8 Length: 123
+# UniRef100_A0A1G7Q5M8 Number of predicted TMRs: 0
+UniRef100_A0A1G7Q5M8	inside	1	123				
+//
+# UniRef100_A0A1V5D475 Length: 106
+# UniRef100_A0A1V5D475 Number of predicted TMRs: 0
+UniRef100_A0A1V5D475	inside	1	106				
+//
+# UniRef100_A0A2U3JXK8 Length: 123
+# UniRef100_A0A2U3JXK8 Number of predicted TMRs: 0
+UniRef100_A0A2U3JXK8	inside	1	123				
+//
+# UniRef100_A0A3B1D331 Length: 123
+# UniRef100_A0A3B1D331 Number of predicted TMRs: 0
+UniRef100_A0A3B1D331	inside	1	123				
+//
+# UniRef100_A0A3D1BKW8 Length: 123
+# UniRef100_A0A3D1BKW8 Number of predicted TMRs: 0
+UniRef100_A0A3D1BKW8	inside	1	123				
+//
+# UniRef100_A0A419J5L4 Length: 123
+# UniRef100_A0A419J5L4 Number of predicted TMRs: 0
+UniRef100_A0A419J5L4	inside	1	123				
+//
+# UniRef100_A0A4R3MYP0 Length: 117
+# UniRef100_A0A4R3MYP0 Number of predicted TMRs: 0
+UniRef100_A0A4R3MYP0	inside	1	117				
+//
+# UniRef100_A0A5B8N5U1 Length: 116
+# UniRef100_A0A5B8N5U1 Number of predicted TMRs: 0
+UniRef100_A0A5B8N5U1	inside	1	116				
+//
+# UniRef100_A0A6M0JYE8 Length: 119
+# UniRef100_A0A6M0JYE8 Number of predicted TMRs: 0
+UniRef100_A0A6M0JYE8	inside	1	119				
+//
+# UniRef100_A0A7C3Y5Z6 Length: 123
+# UniRef100_A0A7C3Y5Z6 Number of predicted TMRs: 0
+UniRef100_A0A7C3Y5Z6	inside	1	123				
+//
+# UniRef100_A0A7X8CBE8 Length: 123
+# UniRef100_A0A7X8CBE8 Number of predicted TMRs: 0
+UniRef100_A0A7X8CBE8	inside	1	123				
+//
+# UniRef100_A0A800C6Q2 Length: 123
+# UniRef100_A0A800C6Q2 Number of predicted TMRs: 0
+UniRef100_A0A800C6Q2	inside	1	123				
+//
+# UniRef100_D3RV90 Length: 117
+# UniRef100_D3RV90 Number of predicted TMRs: 0
+UniRef100_D3RV90	inside	1	117				
+//
+# UniRef100_I3CBI6 Length: 121
+# UniRef100_I3CBI6 Number of predicted TMRs: 0
+UniRef100_I3CBI6	inside	1	121				
+//
+# UniRef100_L0DTE9 Length: 126
+# UniRef100_L0DTE9 Number of predicted TMRs: 0
+UniRef100_L0DTE9	inside	1	126				
+//
+# UniRef100_A0A120DCI9 Length: 155
+# UniRef100_A0A120DCI9 Number of predicted TMRs: 0
+UniRef100_A0A120DCI9	inside	1	155				
+//
+# UniRef100_A0A1G1H1H8 Length: 163
+# UniRef100_A0A1G1H1H8 Number of predicted TMRs: 0
+UniRef100_A0A1G1H1H8	inside	1	163				
+//
+# UniRef100_A0A318CNJ3 Length: 158
+# UniRef100_A0A318CNJ3 Number of predicted TMRs: 0
+UniRef100_A0A318CNJ3	inside	1	158				
+//
+# UniRef100_A0A3N5SIP1 Length: 169
+# UniRef100_A0A3N5SIP1 Number of predicted TMRs: 2
+UniRef100_A0A3N5SIP1	inside	1	115				
+UniRef100_A0A3N5SIP1	TMhelix	116	131				
+UniRef100_A0A3N5SIP1	outside	132	142				
+UniRef100_A0A3N5SIP1	TMhelix	143	156				
+UniRef100_A0A3N5SIP1	inside	157	169				
+//
+# UniRef100_A0A4Q5L585 Length: 155
+# UniRef100_A0A4Q5L585 Number of predicted TMRs: 2
+UniRef100_A0A4Q5L585	inside	1	118				
+UniRef100_A0A4Q5L585	TMhelix	119	134				
+UniRef100_A0A4Q5L585	outside	135	138				
+UniRef100_A0A4Q5L585	TMhelix	139	154				
+UniRef100_A0A4Q5L585	inside	155	155				
+//
+# UniRef100_A0A7C4R795 Length: 172
+# UniRef100_A0A7C4R795 Number of predicted TMRs: 2
+UniRef100_A0A7C4R795	inside	1	116				
+UniRef100_A0A7C4R795	TMhelix	117	134				
+UniRef100_A0A7C4R795	outside	135	142				
+UniRef100_A0A7C4R795	TMhelix	143	159				
+UniRef100_A0A7C4R795	inside	160	172				
+//
+# UniRef100_A0A800C669 Length: 165
+# UniRef100_A0A800C669 Number of predicted TMRs: 2
+UniRef100_A0A800C669	inside	1	112				
+UniRef100_A0A800C669	TMhelix	113	130				
+UniRef100_A0A800C669	outside	131	139				
+UniRef100_A0A800C669	TMhelix	140	155				
+UniRef100_A0A800C669	inside	156	165				
+//
+# UniRef100_A0A0F5YDR8 Length: 195
+# UniRef100_A0A0F5YDR8 Number of predicted TMRs: 2
+UniRef100_A0A0F5YDR8	inside	1	30				
+UniRef100_A0A0F5YDR8	TMhelix	31	44				
+UniRef100_A0A0F5YDR8	outside	45	50				
+UniRef100_A0A0F5YDR8	TMhelix	51	65				
+UniRef100_A0A0F5YDR8	inside	66	195				
+//
+# UniRef100_A0A261KQL5 Length: 192
+# UniRef100_A0A261KQL5 Number of predicted TMRs: 0
+UniRef100_A0A261KQL5	inside	1	192				
+//
+# UniRef100_A0A6P1AC36 Length: 192
+# UniRef100_A0A6P1AC36 Number of predicted TMRs: 0
+UniRef100_A0A6P1AC36	inside	1	192				
+//
+# UniRef100_A3ILN0 Length: 192
+# UniRef100_A3ILN0 Number of predicted TMRs: 0
+UniRef100_A3ILN0	inside	1	192				
+//
+# UniRef100_U7QJ82 Length: 201
+# UniRef100_U7QJ82 Number of predicted TMRs: 2
+UniRef100_U7QJ82	inside	1	30				
+UniRef100_U7QJ82	TMhelix	31	44				
+UniRef100_U7QJ82	outside	45	53				
+UniRef100_U7QJ82	TMhelix	54	65				
+UniRef100_U7QJ82	inside	66	201				
+//
+# UniRef100_A0A2H2Y8W7 Length: 631
+# UniRef100_A0A2H2Y8W7 Number of predicted TMRs: 4
+UniRef100_A0A2H2Y8W7	inside	1	168				
+UniRef100_A0A2H2Y8W7	TMhelix	169	180				
+UniRef100_A0A2H2Y8W7	outside	181	184				
+UniRef100_A0A2H2Y8W7	TMhelix	185	196				
+UniRef100_A0A2H2Y8W7	inside	197	545				
+UniRef100_A0A2H2Y8W7	TMhelix	546	556				
+UniRef100_A0A2H2Y8W7	outside	557	568				
+UniRef100_A0A2H2Y8W7	TMhelix	569	584				
+UniRef100_A0A2H2Y8W7	inside	585	631				
+//
+# UniRef100_A0A5P8WCY8 Length: 626
+# UniRef100_A0A5P8WCY8 Number of predicted TMRs: 4
+UniRef100_A0A5P8WCY8	inside	1	160				
+UniRef100_A0A5P8WCY8	TMhelix	161	172				
+UniRef100_A0A5P8WCY8	outside	173	176				
+UniRef100_A0A5P8WCY8	TMhelix	177	188				
+UniRef100_A0A5P8WCY8	inside	189	536				
+UniRef100_A0A5P8WCY8	TMhelix	537	547				
+UniRef100_A0A5P8WCY8	outside	548	559				
+UniRef100_A0A5P8WCY8	TMhelix	560	575				
+UniRef100_A0A5P8WCY8	inside	576	626				
+//
+# UniRef100_A0A1U7HB46 Length: 258
+# UniRef100_A0A1U7HB46 Number of predicted TMRs: 0
+UniRef100_A0A1U7HB46	inside	1	258				
+//
+# UniRef100_A0A2C9D111 Length: 145
+# UniRef100_A0A2C9D111 Number of predicted TMRs: 0
+UniRef100_A0A2C9D111	inside	1	145				
+//
+# UniRef100_A0A5R8QHN9 Length: 147
+# UniRef100_A0A5R8QHN9 Number of predicted TMRs: 0
+UniRef100_A0A5R8QHN9	inside	1	147				
+//
+# UniRef100_A0A0S8A6L8 Length: 154
+# UniRef100_A0A0S8A6L8 Number of predicted TMRs: 0
+UniRef100_A0A0S8A6L8	inside	1	154				
+//
+# UniRef100_A0A1E4FIF3 Length: 171
+# UniRef100_A0A1E4FIF3 Number of predicted TMRs: 2
+UniRef100_A0A1E4FIF3	inside	1	113				
+UniRef100_A0A1E4FIF3	TMhelix	114	131				
+UniRef100_A0A1E4FIF3	outside	132	134				
+UniRef100_A0A1E4FIF3	TMhelix	135	146				
+UniRef100_A0A1E4FIF3	inside	147	171				
+//
+# UniRef100_A0A1I3GHC9 Length: 166
+# UniRef100_A0A1I3GHC9 Number of predicted TMRs: 0
+UniRef100_A0A1I3GHC9	inside	1	166				
+//
+# UniRef100_A0A2T3XN20 Length: 186
+# UniRef100_A0A2T3XN20 Number of predicted TMRs: 0
+UniRef100_A0A2T3XN20	inside	1	186				
+//
+# UniRef100_A0A351V2S4 Length: 190
+# UniRef100_A0A351V2S4 Number of predicted TMRs: 0
+UniRef100_A0A351V2S4	inside	1	190				
+//
+# UniRef100_A0A3B8XPJ3 Length: 185
+# UniRef100_A0A3B8XPJ3 Number of predicted TMRs: 0
+UniRef100_A0A3B8XPJ3	inside	1	185				
+//
+# UniRef100_A0A6N2DY79 Length: 167
+# UniRef100_A0A6N2DY79 Number of predicted TMRs: 2
+UniRef100_A0A6N2DY79	inside	1	117				
+UniRef100_A0A6N2DY79	TMhelix	118	133				
+UniRef100_A0A6N2DY79	outside	134	138				
+UniRef100_A0A6N2DY79	TMhelix	139	153				
+UniRef100_A0A6N2DY79	inside	154	167				
+//
+# UniRef100_D5MEJ4 Length: 168
+# UniRef100_D5MEJ4 Number of predicted TMRs: 0
+UniRef100_D5MEJ4	inside	1	168				
+//
+# UniRef100_A0A0C1R8N5 Length: 216
+# UniRef100_A0A0C1R8N5 Number of predicted TMRs: 0
+UniRef100_A0A0C1R8N5	inside	1	216				
+//
+# UniRef100_A0A1D2PDP3 Length: 200
+# UniRef100_A0A1D2PDP3 Number of predicted TMRs: 0
+UniRef100_A0A1D2PDP3	inside	1	200				
+//
+# UniRef100_A0A218QNJ6 Length: 214
+# UniRef100_A0A218QNJ6 Number of predicted TMRs: 0
+UniRef100_A0A218QNJ6	inside	1	214				
+//
+# UniRef100_A0A2K8T005 Length: 221
+# UniRef100_A0A2K8T005 Number of predicted TMRs: 0
+UniRef100_A0A2K8T005	inside	1	221				
+//
+# UniRef100_A0A6G9SFK5 Length: 201
+# UniRef100_A0A6G9SFK5 Number of predicted TMRs: 0
+UniRef100_A0A6G9SFK5	inside	1	201				
+//
+# UniRef100_A0A1J1JBB2 Length: 191
+# UniRef100_A0A1J1JBB2 Number of predicted TMRs: 0
+UniRef100_A0A1J1JBB2	inside	1	191				
+//
+# UniRef100_A0A6I5R851 Length: 185
+# UniRef100_A0A6I5R851 Number of predicted TMRs: 0
+UniRef100_A0A6I5R851	inside	1	185				
+//
+# UniRef100_U9W486 Length: 185
+# UniRef100_U9W486 Number of predicted TMRs: 0
+UniRef100_U9W486	inside	1	185				
+//
+# UniRef100_E0UCZ7 Length: 388
+# UniRef100_E0UCZ7 Number of predicted TMRs: 0
+UniRef100_E0UCZ7	inside	1	388				
+//
+# UniRef100_A0A1J0ABQ1 Length: 799
+# UniRef100_A0A1J0ABQ1 Number of predicted TMRs: 6
+UniRef100_A0A1J0ABQ1	inside	1	165				
+UniRef100_A0A1J0ABQ1	TMhelix	166	181				
+UniRef100_A0A1J0ABQ1	outside	182	187				
+UniRef100_A0A1J0ABQ1	TMhelix	188	202				
+UniRef100_A0A1J0ABQ1	inside	203	214				
+UniRef100_A0A1J0ABQ1	TMhelix	215	231				
+UniRef100_A0A1J0ABQ1	outside	232	234				
+UniRef100_A0A1J0ABQ1	TMhelix	235	255				
+UniRef100_A0A1J0ABQ1	inside	256	721				
+UniRef100_A0A1J0ABQ1	TMhelix	722	738				
+UniRef100_A0A1J0ABQ1	outside	739	743				
+UniRef100_A0A1J0ABQ1	TMhelix	744	759				
+UniRef100_A0A1J0ABQ1	inside	760	799				
+//
+# UniRef100_A0A2N6KKA3 Length: 911
+# UniRef100_A0A2N6KKA3 Number of predicted TMRs: 6
+UniRef100_A0A2N6KKA3	inside	1	129				
+UniRef100_A0A2N6KKA3	TMhelix	130	139				
+UniRef100_A0A2N6KKA3	outside	140	150				
+UniRef100_A0A2N6KKA3	TMhelix	151	166				
+UniRef100_A0A2N6KKA3	inside	167	178				
+UniRef100_A0A2N6KKA3	TMhelix	179	195				
+UniRef100_A0A2N6KKA3	outside	196	198				
+UniRef100_A0A2N6KKA3	TMhelix	199	219				
+UniRef100_A0A2N6KKA3	inside	220	684				
+UniRef100_A0A2N6KKA3	TMhelix	685	701				
+UniRef100_A0A2N6KKA3	outside	702	706				
+UniRef100_A0A2N6KKA3	TMhelix	707	725				
+UniRef100_A0A2N6KKA3	inside	726	911				
+//
+# UniRef100_I4HZL7 Length: 753
+# UniRef100_I4HZL7 Number of predicted TMRs: 6
+UniRef100_I4HZL7	inside	1	145				
+UniRef100_I4HZL7	TMhelix	146	159				
+UniRef100_I4HZL7	outside	160	166				
+UniRef100_I4HZL7	TMhelix	167	182				
+UniRef100_I4HZL7	inside	183	197				
+UniRef100_I4HZL7	TMhelix	198	210				
+UniRef100_I4HZL7	outside	211	213				
+UniRef100_I4HZL7	TMhelix	214	234				
+UniRef100_I4HZL7	inside	235	695				
+UniRef100_I4HZL7	TMhelix	696	712				
+UniRef100_I4HZL7	outside	713	717				
+UniRef100_I4HZL7	TMhelix	718	733				
+UniRef100_I4HZL7	inside	734	753				
+//
+# UniRef100_A0A495V427 Length: 200
+# UniRef100_A0A495V427 Number of predicted TMRs: 0
+UniRef100_A0A495V427	inside	1	200				
+//
+# UniRef100_A0A850RDK2 Length: 201
+# UniRef100_A0A850RDK2 Number of predicted TMRs: 0
+UniRef100_A0A850RDK2	inside	1	201				
+//
+# UniRef100_B7KAK9 Length: 271
+# UniRef100_B7KAK9 Number of predicted TMRs: 2
+UniRef100_B7KAK9	inside	1	217				
+UniRef100_B7KAK9	TMhelix	218	238				
+UniRef100_B7KAK9	outside	239	240				
+UniRef100_B7KAK9	TMhelix	241	258				
+UniRef100_B7KAK9	inside	259	271				
+//
+# UniRef100_A0A0C1NAY7 Length: 379
+# UniRef100_A0A0C1NAY7 Number of predicted TMRs: 0
+UniRef100_A0A0C1NAY7	inside	1	379				
+//
+# UniRef100_A0A1Z4FYY9 Length: 354
+# UniRef100_A0A1Z4FYY9 Number of predicted TMRs: 0
+UniRef100_A0A1Z4FYY9	inside	1	354				
+//
+# UniRef100_A0A1Z4QHN9 Length: 360
+# UniRef100_A0A1Z4QHN9 Number of predicted TMRs: 0
+UniRef100_A0A1Z4QHN9	inside	1	360				
+//
+# UniRef100_A0A2A2TE54 Length: 466
+# UniRef100_A0A2A2TE54 Number of predicted TMRs: 0
+UniRef100_A0A2A2TE54	inside	1	466				
+//
+# UniRef100_A0A367QF88 Length: 411
+# UniRef100_A0A367QF88 Number of predicted TMRs: 0
+UniRef100_A0A367QF88	inside	1	411				
+//
+# UniRef100_A0A4Q9JBK3 Length: 401
+# UniRef100_A0A4Q9JBK3 Number of predicted TMRs: 0
+UniRef100_A0A4Q9JBK3	inside	1	401				
+//
+# UniRef100_A0A846H696 Length: 374
+# UniRef100_A0A846H696 Number of predicted TMRs: 0
+UniRef100_A0A846H696	inside	1	374				
+//
+# UniRef100_Q8YVH2 Length: 382
+# UniRef100_Q8YVH2 Number of predicted TMRs: 0
+UniRef100_Q8YVH2	inside	1	382				
+//
+# UniRef100_A0A2V6VXD3 Length: 545
+# UniRef100_A0A2V6VXD3 Number of predicted TMRs: 2
+UniRef100_A0A2V6VXD3	inside	1	149				
+UniRef100_A0A2V6VXD3	TMhelix	150	161				
+UniRef100_A0A2V6VXD3	outside	162	166				
+UniRef100_A0A2V6VXD3	TMhelix	167	187				
+UniRef100_A0A2V6VXD3	inside	188	545				
+//
+# UniRef100_A0A075KEJ9 Length: 745
+# UniRef100_A0A075KEJ9 Number of predicted TMRs: 8
+UniRef100_A0A075KEJ9	inside	1	104				
+UniRef100_A0A075KEJ9	TMhelix	105	120				
+UniRef100_A0A075KEJ9	outside	121	137				
+UniRef100_A0A075KEJ9	TMhelix	138	150				
+UniRef100_A0A075KEJ9	inside	151	161				
+UniRef100_A0A075KEJ9	TMhelix	162	178				
+UniRef100_A0A075KEJ9	outside	179	180				
+UniRef100_A0A075KEJ9	TMhelix	181	197				
+UniRef100_A0A075KEJ9	inside	198	331				
+UniRef100_A0A075KEJ9	TMhelix	332	350				
+UniRef100_A0A075KEJ9	outside	351	352				
+UniRef100_A0A075KEJ9	TMhelix	353	371				
+UniRef100_A0A075KEJ9	inside	372	662				
+UniRef100_A0A075KEJ9	TMhelix	663	687				
+UniRef100_A0A075KEJ9	outside	688	688				
+UniRef100_A0A075KEJ9	TMhelix	689	708				
+UniRef100_A0A075KEJ9	inside	709	745				
+//
+# UniRef100_A0A0X8WUB1 Length: 735
+# UniRef100_A0A0X8WUB1 Number of predicted TMRs: 4
+UniRef100_A0A0X8WUB1	inside	1	168				
+UniRef100_A0A0X8WUB1	TMhelix	169	180				
+UniRef100_A0A0X8WUB1	outside	181	185				
+UniRef100_A0A0X8WUB1	TMhelix	186	197				
+UniRef100_A0A0X8WUB1	inside	198	687				
+UniRef100_A0A0X8WUB1	TMhelix	688	704				
+UniRef100_A0A0X8WUB1	outside	705	709				
+UniRef100_A0A0X8WUB1	TMhelix	710	725				
+UniRef100_A0A0X8WUB1	inside	726	735				
+//
+# UniRef100_A0A166U2B8 Length: 755
+# UniRef100_A0A166U2B8 Number of predicted TMRs: 4
+UniRef100_A0A166U2B8	inside	1	193				
+UniRef100_A0A166U2B8	TMhelix	194	203				
+UniRef100_A0A166U2B8	outside	204	209				
+UniRef100_A0A166U2B8	TMhelix	210	219				
+UniRef100_A0A166U2B8	inside	220	697				
+UniRef100_A0A166U2B8	TMhelix	698	714				
+UniRef100_A0A166U2B8	outside	715	718				
+UniRef100_A0A166U2B8	TMhelix	719	737				
+UniRef100_A0A166U2B8	inside	738	755				
+//
+# UniRef100_A0A1G6Y2E8 Length: 700
+# UniRef100_A0A1G6Y2E8 Number of predicted TMRs: 4
+UniRef100_A0A1G6Y2E8	inside	1	142				
+UniRef100_A0A1G6Y2E8	TMhelix	143	155				
+UniRef100_A0A1G6Y2E8	outside	156	159				
+UniRef100_A0A1G6Y2E8	TMhelix	160	178				
+UniRef100_A0A1G6Y2E8	inside	179	646				
+UniRef100_A0A1G6Y2E8	TMhelix	647	662				
+UniRef100_A0A1G6Y2E8	outside	663	668				
+UniRef100_A0A1G6Y2E8	TMhelix	669	684				
+UniRef100_A0A1G6Y2E8	inside	685	700				
+//
+# UniRef100_A0A1J0AFY4 Length: 724
+# UniRef100_A0A1J0AFY4 Number of predicted TMRs: 8
+UniRef100_A0A1J0AFY4	inside	1	100				
+UniRef100_A0A1J0AFY4	TMhelix	101	117				
+UniRef100_A0A1J0AFY4	outside	118	122				
+UniRef100_A0A1J0AFY4	TMhelix	123	137				
+UniRef100_A0A1J0AFY4	inside	138	152				
+UniRef100_A0A1J0AFY4	TMhelix	153	167				
+UniRef100_A0A1J0AFY4	outside	168	170				
+UniRef100_A0A1J0AFY4	TMhelix	171	183				
+UniRef100_A0A1J0AFY4	inside	184	318				
+UniRef100_A0A1J0AFY4	TMhelix	319	339				
+UniRef100_A0A1J0AFY4	outside	340	341				
+UniRef100_A0A1J0AFY4	TMhelix	342	366				
+UniRef100_A0A1J0AFY4	inside	367	652				
+UniRef100_A0A1J0AFY4	TMhelix	653	676				
+UniRef100_A0A1J0AFY4	outside	677	677				
+UniRef100_A0A1J0AFY4	TMhelix	678	697				
+UniRef100_A0A1J0AFY4	inside	698	724				
+//
+# UniRef100_A0A1Y3THP1 Length: 736
+# UniRef100_A0A1Y3THP1 Number of predicted TMRs: 4
+UniRef100_A0A1Y3THP1	inside	1	141				
+UniRef100_A0A1Y3THP1	TMhelix	142	156				
+UniRef100_A0A1Y3THP1	outside	157	160				
+UniRef100_A0A1Y3THP1	TMhelix	161	178				
+UniRef100_A0A1Y3THP1	inside	179	645				
+UniRef100_A0A1Y3THP1	TMhelix	646	662				
+UniRef100_A0A1Y3THP1	outside	663	666				
+UniRef100_A0A1Y3THP1	TMhelix	667	683				
+UniRef100_A0A1Y3THP1	inside	684	736				
+//
+# UniRef100_A0A1Z4R6H4 Length: 758
+# UniRef100_A0A1Z4R6H4 Number of predicted TMRs: 6
+UniRef100_A0A1Z4R6H4	inside	1	155				
+UniRef100_A0A1Z4R6H4	TMhelix	156	165				
+UniRef100_A0A1Z4R6H4	outside	166	174				
+UniRef100_A0A1Z4R6H4	TMhelix	175	189				
+UniRef100_A0A1Z4R6H4	inside	190	205				
+UniRef100_A0A1Z4R6H4	TMhelix	206	218				
+UniRef100_A0A1Z4R6H4	outside	219	221				
+UniRef100_A0A1Z4R6H4	TMhelix	222	237				
+UniRef100_A0A1Z4R6H4	inside	238	704				
+UniRef100_A0A1Z4R6H4	TMhelix	705	721				
+UniRef100_A0A1Z4R6H4	outside	722	725				
+UniRef100_A0A1Z4R6H4	TMhelix	726	745				
+UniRef100_A0A1Z4R6H4	inside	746	758				
+//
+# UniRef100_A0A250BA82 Length: 701
+# UniRef100_A0A250BA82 Number of predicted TMRs: 4
+UniRef100_A0A250BA82	inside	1	143				
+UniRef100_A0A250BA82	TMhelix	144	156				
+UniRef100_A0A250BA82	outside	157	160				
+UniRef100_A0A250BA82	TMhelix	161	175				
+UniRef100_A0A250BA82	inside	176	646				
+UniRef100_A0A250BA82	TMhelix	647	662				
+UniRef100_A0A250BA82	outside	663	668				
+UniRef100_A0A250BA82	TMhelix	669	684				
+UniRef100_A0A250BA82	inside	685	701				
+//
+# UniRef100_A0A2G4HJI9 Length: 821
+# UniRef100_A0A2G4HJI9 Number of predicted TMRs: 8
+UniRef100_A0A2G4HJI9	inside	1	119				
+UniRef100_A0A2G4HJI9	TMhelix	120	133				
+UniRef100_A0A2G4HJI9	outside	134	139				
+UniRef100_A0A2G4HJI9	TMhelix	140	155				
+UniRef100_A0A2G4HJI9	inside	156	169				
+UniRef100_A0A2G4HJI9	TMhelix	170	184				
+UniRef100_A0A2G4HJI9	outside	185	185				
+UniRef100_A0A2G4HJI9	TMhelix	186	203				
+UniRef100_A0A2G4HJI9	inside	204	335				
+UniRef100_A0A2G4HJI9	TMhelix	336	356				
+UniRef100_A0A2G4HJI9	outside	357	359				
+UniRef100_A0A2G4HJI9	TMhelix	360	377				
+UniRef100_A0A2G4HJI9	inside	378	669				
+UniRef100_A0A2G4HJI9	TMhelix	670	690				
+UniRef100_A0A2G4HJI9	outside	691	691				
+UniRef100_A0A2G4HJI9	TMhelix	692	712				
+UniRef100_A0A2G4HJI9	inside	713	821				
+//
+# UniRef100_A0A2G6N9F9 Length: 732
+# UniRef100_A0A2G6N9F9 Number of predicted TMRs: 8
+UniRef100_A0A2G6N9F9	inside	1	104				
+UniRef100_A0A2G6N9F9	TMhelix	105	118				
+UniRef100_A0A2G6N9F9	outside	119	135				
+UniRef100_A0A2G6N9F9	TMhelix	136	151				
+UniRef100_A0A2G6N9F9	inside	152	165				
+UniRef100_A0A2G6N9F9	TMhelix	166	180				
+UniRef100_A0A2G6N9F9	outside	181	182				
+UniRef100_A0A2G6N9F9	TMhelix	183	199				
+UniRef100_A0A2G6N9F9	inside	200	332				
+UniRef100_A0A2G6N9F9	TMhelix	333	351				
+UniRef100_A0A2G6N9F9	outside	352	354				
+UniRef100_A0A2G6N9F9	TMhelix	355	373				
+UniRef100_A0A2G6N9F9	inside	374	667				
+UniRef100_A0A2G6N9F9	TMhelix	668	691				
+UniRef100_A0A2G6N9F9	outside	692	692				
+UniRef100_A0A2G6N9F9	TMhelix	693	713				
+UniRef100_A0A2G6N9F9	inside	714	732				
+//
+# UniRef100_A0A2I8AFJ9 Length: 774
+# UniRef100_A0A2I8AFJ9 Number of predicted TMRs: 6
+UniRef100_A0A2I8AFJ9	inside	1	164				
+UniRef100_A0A2I8AFJ9	TMhelix	165	178				
+UniRef100_A0A2I8AFJ9	outside	179	186				
+UniRef100_A0A2I8AFJ9	TMhelix	187	202				
+UniRef100_A0A2I8AFJ9	inside	203	216				
+UniRef100_A0A2I8AFJ9	TMhelix	217	231				
+UniRef100_A0A2I8AFJ9	outside	232	234				
+UniRef100_A0A2I8AFJ9	TMhelix	235	250				
+UniRef100_A0A2I8AFJ9	inside	251	717				
+UniRef100_A0A2I8AFJ9	TMhelix	718	734				
+UniRef100_A0A2I8AFJ9	outside	735	738				
+UniRef100_A0A2I8AFJ9	TMhelix	739	755				
+UniRef100_A0A2I8AFJ9	inside	756	774				
+//
+# UniRef100_A0A2L0ELQ4 Length: 717
+# UniRef100_A0A2L0ELQ4 Number of predicted TMRs: 4
+UniRef100_A0A2L0ELQ4	inside	1	161				
+UniRef100_A0A2L0ELQ4	TMhelix	162	171				
+UniRef100_A0A2L0ELQ4	outside	172	179				
+UniRef100_A0A2L0ELQ4	TMhelix	180	190				
+UniRef100_A0A2L0ELQ4	inside	191	662				
+UniRef100_A0A2L0ELQ4	TMhelix	663	678				
+UniRef100_A0A2L0ELQ4	outside	679	683				
+UniRef100_A0A2L0ELQ4	TMhelix	684	702				
+UniRef100_A0A2L0ELQ4	inside	703	717				
+//
+# UniRef100_A0A2T6D4F1 Length: 874
+# UniRef100_A0A2T6D4F1 Number of predicted TMRs: 4
+UniRef100_A0A2T6D4F1	inside	1	259				
+UniRef100_A0A2T6D4F1	TMhelix	260	273				
+UniRef100_A0A2T6D4F1	outside	274	289				
+UniRef100_A0A2T6D4F1	TMhelix	290	318				
+UniRef100_A0A2T6D4F1	inside	319	789				
+UniRef100_A0A2T6D4F1	TMhelix	790	806				
+UniRef100_A0A2T6D4F1	outside	807	814				
+UniRef100_A0A2T6D4F1	TMhelix	815	830				
+UniRef100_A0A2T6D4F1	inside	831	874				
+//
+# UniRef100_A0A351KRH8 Length: 891
+# UniRef100_A0A351KRH8 Number of predicted TMRs: 4
+UniRef100_A0A351KRH8	inside	1	271				
+UniRef100_A0A351KRH8	TMhelix	272	282				
+UniRef100_A0A351KRH8	outside	283	288				
+UniRef100_A0A351KRH8	TMhelix	289	299				
+UniRef100_A0A351KRH8	inside	300	771				
+UniRef100_A0A351KRH8	TMhelix	772	791				
+UniRef100_A0A351KRH8	outside	792	792				
+UniRef100_A0A351KRH8	TMhelix	793	813				
+UniRef100_A0A351KRH8	inside	814	891				
+//
+# UniRef100_A0A357YW62 Length: 760
+# UniRef100_A0A357YW62 Number of predicted TMRs: 8
+UniRef100_A0A357YW62	inside	1	107				
+UniRef100_A0A357YW62	TMhelix	108	128				
+UniRef100_A0A357YW62	outside	129	139				
+UniRef100_A0A357YW62	TMhelix	140	155				
+UniRef100_A0A357YW62	inside	156	170				
+UniRef100_A0A357YW62	TMhelix	171	185				
+UniRef100_A0A357YW62	outside	186	187				
+UniRef100_A0A357YW62	TMhelix	188	204				
+UniRef100_A0A357YW62	inside	205	337				
+UniRef100_A0A357YW62	TMhelix	338	356				
+UniRef100_A0A357YW62	outside	357	359				
+UniRef100_A0A357YW62	TMhelix	360	378				
+UniRef100_A0A357YW62	inside	379	685				
+UniRef100_A0A357YW62	TMhelix	686	706				
+UniRef100_A0A357YW62	outside	707	707				
+UniRef100_A0A357YW62	TMhelix	708	728				
+UniRef100_A0A357YW62	inside	729	760				
+//
+# UniRef100_A0A3D4S4H8 Length: 684
+# UniRef100_A0A3D4S4H8 Number of predicted TMRs: 4
+UniRef100_A0A3D4S4H8	inside	1	139				
+UniRef100_A0A3D4S4H8	TMhelix	140	152				
+UniRef100_A0A3D4S4H8	outside	153	158				
+UniRef100_A0A3D4S4H8	TMhelix	159	177				
+UniRef100_A0A3D4S4H8	inside	178	642				
+UniRef100_A0A3D4S4H8	TMhelix	643	658				
+UniRef100_A0A3D4S4H8	outside	659	665				
+UniRef100_A0A3D4S4H8	TMhelix	666	679				
+UniRef100_A0A3D4S4H8	inside	680	684				
+//
+# UniRef100_A0A3P1Y6T0 Length: 715
+# UniRef100_A0A3P1Y6T0 Number of predicted TMRs: 2
+UniRef100_A0A3P1Y6T0	inside	1	644				
+UniRef100_A0A3P1Y6T0	TMhelix	645	661				
+UniRef100_A0A3P1Y6T0	outside	662	665				
+UniRef100_A0A3P1Y6T0	TMhelix	666	685				
+UniRef100_A0A3P1Y6T0	inside	686	715				
+//
+# UniRef100_A0A431L5L1 Length: 792
+# UniRef100_A0A431L5L1 Number of predicted TMRs: 4
+UniRef100_A0A431L5L1	inside	1	222				
+UniRef100_A0A431L5L1	TMhelix	223	235				
+UniRef100_A0A431L5L1	outside	236	238				
+UniRef100_A0A431L5L1	TMhelix	239	259				
+UniRef100_A0A431L5L1	inside	260	720				
+UniRef100_A0A431L5L1	TMhelix	721	738				
+UniRef100_A0A431L5L1	outside	739	744				
+UniRef100_A0A431L5L1	TMhelix	745	760				
+UniRef100_A0A431L5L1	inside	761	792				
+//
+# UniRef100_A0A4T2AIE8 Length: 704
+# UniRef100_A0A4T2AIE8 Number of predicted TMRs: 4
+UniRef100_A0A4T2AIE8	inside	1	151				
+UniRef100_A0A4T2AIE8	TMhelix	152	164				
+UniRef100_A0A4T2AIE8	outside	165	167				
+UniRef100_A0A4T2AIE8	TMhelix	168	183				
+UniRef100_A0A4T2AIE8	inside	184	649				
+UniRef100_A0A4T2AIE8	TMhelix	650	669				
+UniRef100_A0A4T2AIE8	outside	670	674				
+UniRef100_A0A4T2AIE8	TMhelix	675	690				
+UniRef100_A0A4T2AIE8	inside	691	704				
+//
+# UniRef100_A0A538KHX0 Length: 739
+# UniRef100_A0A538KHX0 Number of predicted TMRs: 4
+UniRef100_A0A538KHX0	inside	1	173				
+UniRef100_A0A538KHX0	TMhelix	174	188				
+UniRef100_A0A538KHX0	outside	189	191				
+UniRef100_A0A538KHX0	TMhelix	192	207				
+UniRef100_A0A538KHX0	inside	208	677				
+UniRef100_A0A538KHX0	TMhelix	678	693				
+UniRef100_A0A538KHX0	outside	694	699				
+UniRef100_A0A538KHX0	TMhelix	700	715				
+UniRef100_A0A538KHX0	inside	716	739				
+//
+# UniRef100_A0A5C8ZG66 Length: 771
+# UniRef100_A0A5C8ZG66 Number of predicted TMRs: 6
+UniRef100_A0A5C8ZG66	inside	1	130				
+UniRef100_A0A5C8ZG66	TMhelix	131	141				
+UniRef100_A0A5C8ZG66	outside	142	160				
+UniRef100_A0A5C8ZG66	TMhelix	161	174				
+UniRef100_A0A5C8ZG66	inside	175	190				
+UniRef100_A0A5C8ZG66	TMhelix	191	203				
+UniRef100_A0A5C8ZG66	outside	204	206				
+UniRef100_A0A5C8ZG66	TMhelix	207	227				
+UniRef100_A0A5C8ZG66	inside	228	705				
+UniRef100_A0A5C8ZG66	TMhelix	706	721				
+UniRef100_A0A5C8ZG66	outside	722	727				
+UniRef100_A0A5C8ZG66	TMhelix	728	743				
+UniRef100_A0A5C8ZG66	inside	744	771				
+//
+# UniRef100_A0A6B3MAW5 Length: 813
+# UniRef100_A0A6B3MAW5 Number of predicted TMRs: 4
+UniRef100_A0A6B3MAW5	inside	1	253				
+UniRef100_A0A6B3MAW5	TMhelix	254	268				
+UniRef100_A0A6B3MAW5	outside	269	271				
+UniRef100_A0A6B3MAW5	TMhelix	272	287				
+UniRef100_A0A6B3MAW5	inside	288	758				
+UniRef100_A0A6B3MAW5	TMhelix	759	774				
+UniRef100_A0A6B3MAW5	outside	775	780				
+UniRef100_A0A6B3MAW5	TMhelix	781	796				
+UniRef100_A0A6B3MAW5	inside	797	813				
+//
+# UniRef100_A0A6L5NXU4 Length: 696
+# UniRef100_A0A6L5NXU4 Number of predicted TMRs: 4
+UniRef100_A0A6L5NXU4	inside	1	138				
+UniRef100_A0A6L5NXU4	TMhelix	139	150				
+UniRef100_A0A6L5NXU4	outside	151	155				
+UniRef100_A0A6L5NXU4	TMhelix	156	170				
+UniRef100_A0A6L5NXU4	inside	171	643				
+UniRef100_A0A6L5NXU4	TMhelix	644	660				
+UniRef100_A0A6L5NXU4	outside	661	665				
+UniRef100_A0A6L5NXU4	TMhelix	666	681				
+UniRef100_A0A6L5NXU4	inside	682	696				
+//
+# UniRef100_A0A6M0J1M5 Length: 750
+# UniRef100_A0A6M0J1M5 Number of predicted TMRs: 6
+UniRef100_A0A6M0J1M5	inside	1	142				
+UniRef100_A0A6M0J1M5	TMhelix	143	152				
+UniRef100_A0A6M0J1M5	outside	153	162				
+UniRef100_A0A6M0J1M5	TMhelix	163	178				
+UniRef100_A0A6M0J1M5	inside	179	194				
+UniRef100_A0A6M0J1M5	TMhelix	195	207				
+UniRef100_A0A6M0J1M5	outside	208	210				
+UniRef100_A0A6M0J1M5	TMhelix	211	226				
+UniRef100_A0A6M0J1M5	inside	227	693				
+UniRef100_A0A6M0J1M5	TMhelix	694	710				
+UniRef100_A0A6M0J1M5	outside	711	714				
+UniRef100_A0A6M0J1M5	TMhelix	715	731				
+UniRef100_A0A6M0J1M5	inside	732	750				
+//
+# UniRef100_A0A7C6L0R9 Length: 731
+# UniRef100_A0A7C6L0R9 Number of predicted TMRs: 8
+UniRef100_A0A7C6L0R9	inside	1	93				
+UniRef100_A0A7C6L0R9	TMhelix	94	105				
+UniRef100_A0A7C6L0R9	outside	106	124				
+UniRef100_A0A7C6L0R9	TMhelix	125	141				
+UniRef100_A0A7C6L0R9	inside	142	153				
+UniRef100_A0A7C6L0R9	TMhelix	154	170				
+UniRef100_A0A7C6L0R9	outside	171	173				
+UniRef100_A0A7C6L0R9	TMhelix	174	194				
+UniRef100_A0A7C6L0R9	inside	195	320				
+UniRef100_A0A7C6L0R9	TMhelix	321	333				
+UniRef100_A0A7C6L0R9	outside	334	350				
+UniRef100_A0A7C6L0R9	TMhelix	351	362				
+UniRef100_A0A7C6L0R9	inside	363	655				
+UniRef100_A0A7C6L0R9	TMhelix	656	676				
+UniRef100_A0A7C6L0R9	outside	677	681				
+UniRef100_A0A7C6L0R9	TMhelix	682	697				
+UniRef100_A0A7C6L0R9	inside	698	731				
+//
+# UniRef100_A0A7K3NMB1 Length: 716
+# UniRef100_A0A7K3NMB1 Number of predicted TMRs: 4
+UniRef100_A0A7K3NMB1	inside	1	153				
+UniRef100_A0A7K3NMB1	TMhelix	154	166				
+UniRef100_A0A7K3NMB1	outside	167	169				
+UniRef100_A0A7K3NMB1	TMhelix	170	185				
+UniRef100_A0A7K3NMB1	inside	186	655				
+UniRef100_A0A7K3NMB1	TMhelix	656	671				
+UniRef100_A0A7K3NMB1	outside	672	677				
+UniRef100_A0A7K3NMB1	TMhelix	678	693				
+UniRef100_A0A7K3NMB1	inside	694	716				
+//
+# UniRef100_A0A839T246 Length: 855
+# UniRef100_A0A839T246 Number of predicted TMRs: 4
+UniRef100_A0A839T246	inside	1	284				
+UniRef100_A0A839T246	TMhelix	285	297				
+UniRef100_A0A839T246	outside	298	298				
+UniRef100_A0A839T246	TMhelix	299	319				
+UniRef100_A0A839T246	inside	320	784				
+UniRef100_A0A839T246	TMhelix	785	801				
+UniRef100_A0A839T246	outside	802	809				
+UniRef100_A0A839T246	TMhelix	810	826				
+UniRef100_A0A839T246	inside	827	855				
+//
+# UniRef100_A0A856MPK2 Length: 757
+# UniRef100_A0A856MPK2 Number of predicted TMRs: 4
+UniRef100_A0A856MPK2	inside	1	200				
+UniRef100_A0A856MPK2	TMhelix	201	213				
+UniRef100_A0A856MPK2	outside	214	216				
+UniRef100_A0A856MPK2	TMhelix	217	232				
+UniRef100_A0A856MPK2	inside	233	698				
+UniRef100_A0A856MPK2	TMhelix	699	715				
+UniRef100_A0A856MPK2	outside	716	719				
+UniRef100_A0A856MPK2	TMhelix	720	736				
+UniRef100_A0A856MPK2	inside	737	757				
+//
+# UniRef100_B1MA32 Length: 817
+# UniRef100_B1MA32 Number of predicted TMRs: 6
+UniRef100_B1MA32	inside	1	205				
+UniRef100_B1MA32	TMhelix	206	218				
+UniRef100_B1MA32	outside	219	224				
+UniRef100_B1MA32	TMhelix	225	240				
+UniRef100_B1MA32	inside	241	257				
+UniRef100_B1MA32	TMhelix	258	270				
+UniRef100_B1MA32	outside	271	274				
+UniRef100_B1MA32	TMhelix	275	286				
+UniRef100_B1MA32	inside	287	759				
+UniRef100_B1MA32	TMhelix	760	775				
+UniRef100_B1MA32	outside	776	781				
+UniRef100_B1MA32	TMhelix	782	797				
+UniRef100_B1MA32	inside	798	817				
+//
+# UniRef100_B8ETC0 Length: 872
+# UniRef100_B8ETC0 Number of predicted TMRs: 4
+UniRef100_B8ETC0	inside	1	305				
+UniRef100_B8ETC0	TMhelix	306	318				
+UniRef100_B8ETC0	outside	319	321				
+UniRef100_B8ETC0	TMhelix	322	338				
+UniRef100_B8ETC0	inside	339	804				
+UniRef100_B8ETC0	TMhelix	805	822				
+UniRef100_B8ETC0	outside	823	829				
+UniRef100_B8ETC0	TMhelix	830	846				
+UniRef100_B8ETC0	inside	847	872				
+//
+# UniRef100_C7H0A6 Length: 693
+# UniRef100_C7H0A6 Number of predicted TMRs: 2
+UniRef100_C7H0A6	inside	1	643				
+UniRef100_C7H0A6	TMhelix	644	659				
+UniRef100_C7H0A6	outside	660	664				
+UniRef100_C7H0A6	TMhelix	665	684				
+UniRef100_C7H0A6	inside	685	693				
+//
+# UniRef100_E0U921 Length: 757
+# UniRef100_E0U921 Number of predicted TMRs: 4
+UniRef100_E0U921	inside	1	197				
+UniRef100_E0U921	TMhelix	198	210				
+UniRef100_E0U921	outside	211	213				
+UniRef100_E0U921	TMhelix	214	232				
+UniRef100_E0U921	inside	233	697				
+UniRef100_E0U921	TMhelix	698	713				
+UniRef100_E0U921	outside	714	722				
+UniRef100_E0U921	TMhelix	723	738				
+UniRef100_E0U921	inside	739	757				
+//
+# UniRef100_I4CB89 Length: 755
+# UniRef100_I4CB89 Number of predicted TMRs: 8
+UniRef100_I4CB89	inside	1	104				
+UniRef100_I4CB89	TMhelix	105	121				
+UniRef100_I4CB89	outside	122	142				
+UniRef100_I4CB89	TMhelix	143	157				
+UniRef100_I4CB89	inside	158	167				
+UniRef100_I4CB89	TMhelix	168	184				
+UniRef100_I4CB89	outside	185	187				
+UniRef100_I4CB89	TMhelix	188	203				
+UniRef100_I4CB89	inside	204	335				
+UniRef100_I4CB89	TMhelix	336	356				
+UniRef100_I4CB89	outside	357	361				
+UniRef100_I4CB89	TMhelix	362	377				
+UniRef100_I4CB89	inside	378	672				
+UniRef100_I4CB89	TMhelix	673	695				
+UniRef100_I4CB89	outside	696	696				
+UniRef100_I4CB89	TMhelix	697	718				
+UniRef100_I4CB89	inside	719	755				
+//
+# UniRef100_R6B0P8 Length: 754
+# UniRef100_R6B0P8 Number of predicted TMRs: 4
+UniRef100_R6B0P8	inside	1	204				
+UniRef100_R6B0P8	TMhelix	205	219				
+UniRef100_R6B0P8	outside	220	223				
+UniRef100_R6B0P8	TMhelix	224	238				
+UniRef100_R6B0P8	inside	239	708				
+UniRef100_R6B0P8	TMhelix	709	724				
+UniRef100_R6B0P8	outside	725	730				
+UniRef100_R6B0P8	TMhelix	731	746				
+UniRef100_R6B0P8	inside	747	754				
+//
+# UniRef100_A0A401TJW7 Length: 323
+# UniRef100_A0A401TJW7 Number of predicted TMRs: 2
+UniRef100_A0A401TJW7	inside	1	153				
+UniRef100_A0A401TJW7	TMhelix	154	168				
+UniRef100_A0A401TJW7	outside	169	171				
+UniRef100_A0A401TJW7	TMhelix	172	187				
+UniRef100_A0A401TJW7	inside	188	323				
+//
+# UniRef100_A0A1Z4TPU0 Length: 353
+# UniRef100_A0A1Z4TPU0 Number of predicted TMRs: 0
+UniRef100_A0A1Z4TPU0	inside	1	353				
+//
+# UniRef100_A0A0C2Q9N9 Length: 192
+# UniRef100_A0A0C2Q9N9 Number of predicted TMRs: 0
+UniRef100_A0A0C2Q9N9	inside	1	192				
+//
+# UniRef100_A0A1Z4FYZ0 Length: 196
+# UniRef100_A0A1Z4FYZ0 Number of predicted TMRs: 2
+UniRef100_A0A1Z4FYZ0	inside	1	140				
+UniRef100_A0A1Z4FYZ0	TMhelix	141	157				
+UniRef100_A0A1Z4FYZ0	outside	158	163				
+UniRef100_A0A1Z4FYZ0	TMhelix	164	179				
+UniRef100_A0A1Z4FYZ0	inside	180	196				
+//
+# UniRef100_A0A1Z4R6J8 Length: 191
+# UniRef100_A0A1Z4R6J8 Number of predicted TMRs: 0
+UniRef100_A0A1Z4R6J8	inside	1	191				
+//
+# UniRef100_A0A2T2RNK1 Length: 198
+# UniRef100_A0A2T2RNK1 Number of predicted TMRs: 2
+UniRef100_A0A2T2RNK1	inside	1	138				
+UniRef100_A0A2T2RNK1	TMhelix	139	156				
+UniRef100_A0A2T2RNK1	outside	157	163				
+UniRef100_A0A2T2RNK1	TMhelix	164	179				
+UniRef100_A0A2T2RNK1	inside	180	198				
+//
+# UniRef100_A0A3C0N2D1 Length: 177
+# UniRef100_A0A3C0N2D1 Number of predicted TMRs: 0
+UniRef100_A0A3C0N2D1	inside	1	177				
+//
+# UniRef100_A0A654SMR3 Length: 195
+# UniRef100_A0A654SMR3 Number of predicted TMRs: 0
+UniRef100_A0A654SMR3	inside	1	195				
+//
+# UniRef100_A0A6J4S2B3 Length: 171
+# UniRef100_A0A6J4S2B3 Number of predicted TMRs: 0
+UniRef100_A0A6J4S2B3	inside	1	171				
+//
+# UniRef100_A0A6P1AF84 Length: 186
+# UniRef100_A0A6P1AF84 Number of predicted TMRs: 0
+UniRef100_A0A6P1AF84	inside	1	186				
+//
+# UniRef100_A0A844MCK3 Length: 199
+# UniRef100_A0A844MCK3 Number of predicted TMRs: 0
+UniRef100_A0A844MCK3	inside	1	199				
+//
+# UniRef100_A0ZAK8 Length: 193
+# UniRef100_A0ZAK8 Number of predicted TMRs: 0
+UniRef100_A0ZAK8	inside	1	193				
+//
+# UniRef100_B7KE56 Length: 203
+# UniRef100_B7KE56 Number of predicted TMRs: 0
+UniRef100_B7KE56	inside	1	203				
+//
+# UniRef100_K9X7Z1 Length: 179
+# UniRef100_K9X7Z1 Number of predicted TMRs: 0
+UniRef100_K9X7Z1	inside	1	179				
+//
+# UniRef100_A0A661PMJ7 Length: 223
+# UniRef100_A0A661PMJ7 Number of predicted TMRs: 0
+UniRef100_A0A661PMJ7	inside	1	223				
+//
+# UniRef100_A0A348RZ36 Length: 541
+# UniRef100_A0A348RZ36 Number of predicted TMRs: 2
+UniRef100_A0A348RZ36	inside	1	188				
+UniRef100_A0A348RZ36	TMhelix	189	198				
+UniRef100_A0A348RZ36	outside	199	204				
+UniRef100_A0A348RZ36	TMhelix	205	214				
+UniRef100_A0A348RZ36	inside	215	541				
+//
+# UniRef100_A0A841V906 Length: 506
+# UniRef100_A0A841V906 Number of predicted TMRs: 0
+UniRef100_A0A841V906	inside	1	506				
+//
+# UniRef100_A0A1H3MDK4 Length: 184
+# UniRef100_A0A1H3MDK4 Number of predicted TMRs: 0
+UniRef100_A0A1H3MDK4	inside	1	184				
+//
+# UniRef100_A0A2M7KLA2 Length: 179
+# UniRef100_A0A2M7KLA2 Number of predicted TMRs: 0
+UniRef100_A0A2M7KLA2	inside	1	179				
+//
+# UniRef100_A0A450TA22 Length: 183
+# UniRef100_A0A450TA22 Number of predicted TMRs: 2
+UniRef100_A0A450TA22	inside	1	142				
+UniRef100_A0A450TA22	TMhelix	143	160				
+UniRef100_A0A450TA22	outside	161	164				
+UniRef100_A0A450TA22	TMhelix	165	178				
+UniRef100_A0A450TA22	inside	179	183				
+//
+# UniRef100_A0A7I8MY82 Length: 183
+# UniRef100_A0A7I8MY82 Number of predicted TMRs: 0
+UniRef100_A0A7I8MY82	inside	1	183				
+//
+# UniRef100_V5WE85 Length: 184
+# UniRef100_V5WE85 Number of predicted TMRs: 0
+UniRef100_V5WE85	inside	1	184				
+//
+# UniRef100_A0A534ZMP5 Length: 193
+# UniRef100_A0A534ZMP5 Number of predicted TMRs: 2
+UniRef100_A0A534ZMP5	inside	1	126				
+UniRef100_A0A534ZMP5	TMhelix	127	146				
+UniRef100_A0A534ZMP5	outside	147	153				
+UniRef100_A0A534ZMP5	TMhelix	154	170				
+UniRef100_A0A534ZMP5	inside	171	193				
+//
+# UniRef100_E0U920 Length: 412
+# UniRef100_E0U920 Number of predicted TMRs: 0
+UniRef100_E0U920	inside	1	412				
+//
+# UniRef100_A0A1F4KBL4 Length: 158
+# UniRef100_A0A1F4KBL4 Number of predicted TMRs: 2
+UniRef100_A0A1F4KBL4	inside	1	110				
+UniRef100_A0A1F4KBL4	TMhelix	111	127				
+UniRef100_A0A1F4KBL4	outside	128	132				
+UniRef100_A0A1F4KBL4	TMhelix	133	151				
+UniRef100_A0A1F4KBL4	inside	152	158				
+//
+# UniRef100_A0A5C7T941 Length: 146
+# UniRef100_A0A5C7T941 Number of predicted TMRs: 1
+UniRef100_A0A5C7T941	inside	1	120				
+UniRef100_A0A5C7T941	TMhelix	121	130				
+UniRef100_A0A5C7T941	outside	131	146				
+//
+# UniRef100_I0HTR6 Length: 169
+# UniRef100_I0HTR6 Number of predicted TMRs: 2
+UniRef100_I0HTR6	inside	1	120				
+UniRef100_I0HTR6	TMhelix	121	139				
+UniRef100_I0HTR6	outside	140	143				
+UniRef100_I0HTR6	TMhelix	144	162				
+UniRef100_I0HTR6	inside	163	169				
+//
+# UniRef100_A0A1Q7DC32 Length: 164
+# UniRef100_A0A1Q7DC32 Number of predicted TMRs: 0
+UniRef100_A0A1Q7DC32	inside	1	164				
+//
+# UniRef100_A0A4P8L413 Length: 161
+# UniRef100_A0A4P8L413 Number of predicted TMRs: 0
+UniRef100_A0A4P8L413	inside	1	161				
+//
+# UniRef100_A0A5B8N6H0 Length: 154
+# UniRef100_A0A5B8N6H0 Number of predicted TMRs: 0
+UniRef100_A0A5B8N6H0	inside	1	154				
+//
+# UniRef100_A0A537RUU6 Length: 206
+# UniRef100_A0A537RUU6 Number of predicted TMRs: 0
+UniRef100_A0A537RUU6	inside	1	206				
+//
+# UniRef100_A0A1Z4IAU4 Length: 175
+# UniRef100_A0A1Z4IAU4 Number of predicted TMRs: 0
+UniRef100_A0A1Z4IAU4	inside	1	175				
+//
+# UniRef100_A0A378XHY4 Length: 116
+# UniRef100_A0A378XHY4 Number of predicted TMRs: 0
+UniRef100_A0A378XHY4	inside	1	116				
+//
+# UniRef100_A0A1A6FPT0 Length: 147
+# UniRef100_A0A1A6FPT0 Number of predicted TMRs: 0
+UniRef100_A0A1A6FPT0	inside	1	147				
+//
+# UniRef100_A0A1M4UKF2 Length: 157
+# UniRef100_A0A1M4UKF2 Number of predicted TMRs: 0
+UniRef100_A0A1M4UKF2	inside	1	157				
+//
+# UniRef100_C9LXA9 Length: 179
+# UniRef100_C9LXA9 Number of predicted TMRs: 0
+UniRef100_C9LXA9	inside	1	179				
+//
+# UniRef100_A0A7D5RVV8 Length: 114
+# UniRef100_A0A7D5RVV8 Number of predicted TMRs: 0
+UniRef100_A0A7D5RVV8	inside	1	114				
+//
+# UniRef100_A0A841V7F9 Length: 296
+# UniRef100_A0A841V7F9 Number of predicted TMRs: 0
+UniRef100_A0A841V7F9	inside	1	296				
+//
+# UniRef100_A0A2G6N8U9 Length: 101
+# UniRef100_A0A2G6N8U9 Number of predicted TMRs: 0
+UniRef100_A0A2G6N8U9	inside	1	101				
+//
+# UniRef100_Q315V5 Length: 105
+# UniRef100_Q315V5 Number of predicted TMRs: 0
+UniRef100_Q315V5	inside	1	105				
+//
+# UniRef100_A0A5N7IIZ2 Length: 126
+# UniRef100_A0A5N7IIZ2 Number of predicted TMRs: 0
+UniRef100_A0A5N7IIZ2	inside	1	126				
+//
+# UniRef100_A0A3D8YX63 Length: 192
+# UniRef100_A0A3D8YX63 Number of predicted TMRs: 0
+UniRef100_A0A3D8YX63	inside	1	192				
+//
+# UniRef100_A0A0S3UCN9 Length: 303
+# UniRef100_A0A0S3UCN9 Number of predicted TMRs: 5
+UniRef100_A0A0S3UCN9	inside	1	150				
+UniRef100_A0A0S3UCN9	TMhelix	151	167				
+UniRef100_A0A0S3UCN9	outside	168	168				
+UniRef100_A0A0S3UCN9	TMhelix	169	189				
+UniRef100_A0A0S3UCN9	inside	190	244				
+UniRef100_A0A0S3UCN9	TMhelix	245	265				
+UniRef100_A0A0S3UCN9	outside	266	266				
+UniRef100_A0A0S3UCN9	TMhelix	267	276				
+UniRef100_A0A0S3UCN9	inside	277	281				
+UniRef100_A0A0S3UCN9	TMhelix	282	302				
+UniRef100_A0A0S3UCN9	outside	303	303				
+//
+# UniRef100_A0A128EFD5 Length: 106
+# UniRef100_A0A128EFD5 Number of predicted TMRs: 0
+UniRef100_A0A128EFD5	inside	1	106				
+//
+# UniRef100_A0A7M1LGN0 Length: 109
+# UniRef100_A0A7M1LGN0 Number of predicted TMRs: 0
+UniRef100_A0A7M1LGN0	inside	1	109				
+//
+# UniRef100_A0A1G6EW64 Length: 134
+# UniRef100_A0A1G6EW64 Number of predicted TMRs: 1
+UniRef100_A0A1G6EW64	inside	1	110				
+UniRef100_A0A1G6EW64	TMhelix	111	125				
+UniRef100_A0A1G6EW64	outside	126	134				
+//
+# UniRef100_A0A7V4XH14 Length: 129
+# UniRef100_A0A7V4XH14 Number of predicted TMRs: 0
+UniRef100_A0A7V4XH14	inside	1	129				
+//
+# UniRef100_A0A7Y8MR09 Length: 164
+# UniRef100_A0A7Y8MR09 Number of predicted TMRs: 0
+UniRef100_A0A7Y8MR09	inside	1	164				
+//
+# UniRef100_A0A348YNR3 Length: 102
+# UniRef100_A0A348YNR3 Number of predicted TMRs: 0
+UniRef100_A0A348YNR3	inside	1	102				
+//
+# UniRef100_H0UJM9 Length: 105
+# UniRef100_H0UJM9 Number of predicted TMRs: 0
+UniRef100_H0UJM9	inside	1	105				
+//
+# UniRef100_A0A0B0Q544 Length: 720
+# UniRef100_A0A0B0Q544 Number of predicted TMRs: 8
+UniRef100_A0A0B0Q544	inside	1	107				
+UniRef100_A0A0B0Q544	TMhelix	108	128				
+UniRef100_A0A0B0Q544	outside	129	132				
+UniRef100_A0A0B0Q544	TMhelix	133	153				
+UniRef100_A0A0B0Q544	inside	154	164				
+UniRef100_A0A0B0Q544	TMhelix	165	180				
+UniRef100_A0A0B0Q544	outside	181	182				
+UniRef100_A0A0B0Q544	TMhelix	183	199				
+UniRef100_A0A0B0Q544	inside	200	331				
+UniRef100_A0A0B0Q544	TMhelix	332	352				
+UniRef100_A0A0B0Q544	outside	353	354				
+UniRef100_A0A0B0Q544	TMhelix	355	375				
+UniRef100_A0A0B0Q544	inside	376	668				
+UniRef100_A0A0B0Q544	TMhelix	669	689				
+UniRef100_A0A0B0Q544	outside	690	690				
+UniRef100_A0A0B0Q544	TMhelix	691	712				
+UniRef100_A0A0B0Q544	inside	713	720				
+//
+# UniRef100_A0A1L6LBI1 Length: 776
+# UniRef100_A0A1L6LBI1 Number of predicted TMRs: 8
+UniRef100_A0A1L6LBI1	inside	1	125				
+UniRef100_A0A1L6LBI1	TMhelix	126	136				
+UniRef100_A0A1L6LBI1	outside	137	153				
+UniRef100_A0A1L6LBI1	TMhelix	154	170				
+UniRef100_A0A1L6LBI1	inside	171	186				
+UniRef100_A0A1L6LBI1	TMhelix	187	199				
+UniRef100_A0A1L6LBI1	outside	200	202				
+UniRef100_A0A1L6LBI1	TMhelix	203	223				
+UniRef100_A0A1L6LBI1	inside	224	355				
+UniRef100_A0A1L6LBI1	TMhelix	356	365				
+UniRef100_A0A1L6LBI1	outside	366	377				
+UniRef100_A0A1L6LBI1	TMhelix	378	392				
+UniRef100_A0A1L6LBI1	inside	393	689				
+UniRef100_A0A1L6LBI1	TMhelix	690	706				
+UniRef100_A0A1L6LBI1	outside	707	711				
+UniRef100_A0A1L6LBI1	TMhelix	712	727				
+UniRef100_A0A1L6LBI1	inside	728	776				
+//
+# UniRef100_A0A1V4S8F3 Length: 734
+# UniRef100_A0A1V4S8F3 Number of predicted TMRs: 8
+UniRef100_A0A1V4S8F3	inside	1	107				
+UniRef100_A0A1V4S8F3	TMhelix	108	123				
+UniRef100_A0A1V4S8F3	outside	124	137				
+UniRef100_A0A1V4S8F3	TMhelix	138	153				
+UniRef100_A0A1V4S8F3	inside	154	164				
+UniRef100_A0A1V4S8F3	TMhelix	165	181				
+UniRef100_A0A1V4S8F3	outside	182	184				
+UniRef100_A0A1V4S8F3	TMhelix	185	205				
+UniRef100_A0A1V4S8F3	inside	206	333				
+UniRef100_A0A1V4S8F3	TMhelix	334	346				
+UniRef100_A0A1V4S8F3	outside	347	359				
+UniRef100_A0A1V4S8F3	TMhelix	360	374				
+UniRef100_A0A1V4S8F3	inside	375	670				
+UniRef100_A0A1V4S8F3	TMhelix	671	687				
+UniRef100_A0A1V4S8F3	outside	688	692				
+UniRef100_A0A1V4S8F3	TMhelix	693	708				
+UniRef100_A0A1V4S8F3	inside	709	734				
+//
+# UniRef100_A0A2G6FTB8 Length: 747
+# UniRef100_A0A2G6FTB8 Number of predicted TMRs: 8
+UniRef100_A0A2G6FTB8	inside	1	129				
+UniRef100_A0A2G6FTB8	TMhelix	130	147				
+UniRef100_A0A2G6FTB8	outside	148	155				
+UniRef100_A0A2G6FTB8	TMhelix	156	172				
+UniRef100_A0A2G6FTB8	inside	173	183				
+UniRef100_A0A2G6FTB8	TMhelix	184	200				
+UniRef100_A0A2G6FTB8	outside	201	203				
+UniRef100_A0A2G6FTB8	TMhelix	204	219				
+UniRef100_A0A2G6FTB8	inside	220	352				
+UniRef100_A0A2G6FTB8	TMhelix	353	372				
+UniRef100_A0A2G6FTB8	outside	373	377				
+UniRef100_A0A2G6FTB8	TMhelix	378	394				
+UniRef100_A0A2G6FTB8	inside	395	688				
+UniRef100_A0A2G6FTB8	TMhelix	689	709				
+UniRef100_A0A2G6FTB8	outside	710	711				
+UniRef100_A0A2G6FTB8	TMhelix	712	734				
+UniRef100_A0A2G6FTB8	inside	735	747				
+//
+# UniRef100_A0A318D2B3 Length: 740
+# UniRef100_A0A318D2B3 Number of predicted TMRs: 8
+UniRef100_A0A318D2B3	inside	1	119				
+UniRef100_A0A318D2B3	TMhelix	120	140				
+UniRef100_A0A318D2B3	outside	141	147				
+UniRef100_A0A318D2B3	TMhelix	148	165				
+UniRef100_A0A318D2B3	inside	166	178				
+UniRef100_A0A318D2B3	TMhelix	179	193				
+UniRef100_A0A318D2B3	outside	194	196				
+UniRef100_A0A318D2B3	TMhelix	197	212				
+UniRef100_A0A318D2B3	inside	213	344				
+UniRef100_A0A318D2B3	TMhelix	345	365				
+UniRef100_A0A318D2B3	outside	366	368				
+UniRef100_A0A318D2B3	TMhelix	369	387				
+UniRef100_A0A318D2B3	inside	388	679				
+UniRef100_A0A318D2B3	TMhelix	680	703				
+UniRef100_A0A318D2B3	outside	704	704				
+UniRef100_A0A318D2B3	TMhelix	705	725				
+UniRef100_A0A318D2B3	inside	726	740				
+//
+# UniRef100_A0A496S9P8 Length: 713
+# UniRef100_A0A496S9P8 Number of predicted TMRs: 8
+UniRef100_A0A496S9P8	inside	1	97				
+UniRef100_A0A496S9P8	TMhelix	98	108				
+UniRef100_A0A496S9P8	outside	109	129				
+UniRef100_A0A496S9P8	TMhelix	130	139				
+UniRef100_A0A496S9P8	inside	140	156				
+UniRef100_A0A496S9P8	TMhelix	157	171				
+UniRef100_A0A496S9P8	outside	172	174				
+UniRef100_A0A496S9P8	TMhelix	175	195				
+UniRef100_A0A496S9P8	inside	196	324				
+UniRef100_A0A496S9P8	TMhelix	325	335				
+UniRef100_A0A496S9P8	outside	336	349				
+UniRef100_A0A496S9P8	TMhelix	350	365				
+UniRef100_A0A496S9P8	inside	366	658				
+UniRef100_A0A496S9P8	TMhelix	659	678				
+UniRef100_A0A496S9P8	outside	679	683				
+UniRef100_A0A496S9P8	TMhelix	684	699				
+UniRef100_A0A496S9P8	inside	700	713				
+//
+# UniRef100_A0A5B9TUT4 Length: 724
+# UniRef100_A0A5B9TUT4 Number of predicted TMRs: 8
+UniRef100_A0A5B9TUT4	inside	1	111				
+UniRef100_A0A5B9TUT4	TMhelix	112	132				
+UniRef100_A0A5B9TUT4	outside	133	142				
+UniRef100_A0A5B9TUT4	TMhelix	143	157				
+UniRef100_A0A5B9TUT4	inside	158	168				
+UniRef100_A0A5B9TUT4	TMhelix	169	184				
+UniRef100_A0A5B9TUT4	outside	185	186				
+UniRef100_A0A5B9TUT4	TMhelix	187	203				
+UniRef100_A0A5B9TUT4	inside	204	336				
+UniRef100_A0A5B9TUT4	TMhelix	337	356				
+UniRef100_A0A5B9TUT4	outside	357	358				
+UniRef100_A0A5B9TUT4	TMhelix	359	379				
+UniRef100_A0A5B9TUT4	inside	380	670				
+UniRef100_A0A5B9TUT4	TMhelix	671	692				
+UniRef100_A0A5B9TUT4	outside	693	694				
+UniRef100_A0A5B9TUT4	TMhelix	695	716				
+UniRef100_A0A5B9TUT4	inside	717	724				
+//
+# UniRef100_A0A7C4N3M5 Length: 737
+# UniRef100_A0A7C4N3M5 Number of predicted TMRs: 8
+UniRef100_A0A7C4N3M5	inside	1	98				
+UniRef100_A0A7C4N3M5	TMhelix	99	117				
+UniRef100_A0A7C4N3M5	outside	118	131				
+UniRef100_A0A7C4N3M5	TMhelix	132	147				
+UniRef100_A0A7C4N3M5	inside	148	158				
+UniRef100_A0A7C4N3M5	TMhelix	159	175				
+UniRef100_A0A7C4N3M5	outside	176	178				
+UniRef100_A0A7C4N3M5	TMhelix	179	194				
+UniRef100_A0A7C4N3M5	inside	195	326				
+UniRef100_A0A7C4N3M5	TMhelix	327	347				
+UniRef100_A0A7C4N3M5	outside	348	348				
+UniRef100_A0A7C4N3M5	TMhelix	349	369				
+UniRef100_A0A7C4N3M5	inside	370	661				
+UniRef100_A0A7C4N3M5	TMhelix	662	685				
+UniRef100_A0A7C4N3M5	outside	686	687				
+UniRef100_A0A7C4N3M5	TMhelix	688	708				
+UniRef100_A0A7C4N3M5	inside	709	737				
+//
+# UniRef100_A0A7M3MDX6 Length: 731
+# UniRef100_A0A7M3MDX6 Number of predicted TMRs: 8
+UniRef100_A0A7M3MDX6	inside	1	116				
+UniRef100_A0A7M3MDX6	TMhelix	117	132				
+UniRef100_A0A7M3MDX6	outside	133	146				
+UniRef100_A0A7M3MDX6	TMhelix	147	162				
+UniRef100_A0A7M3MDX6	inside	163	177				
+UniRef100_A0A7M3MDX6	TMhelix	178	190				
+UniRef100_A0A7M3MDX6	outside	191	192				
+UniRef100_A0A7M3MDX6	TMhelix	193	213				
+UniRef100_A0A7M3MDX6	inside	214	342				
+UniRef100_A0A7M3MDX6	TMhelix	343	354				
+UniRef100_A0A7M3MDX6	outside	355	368				
+UniRef100_A0A7M3MDX6	TMhelix	369	384				
+UniRef100_A0A7M3MDX6	inside	385	676				
+UniRef100_A0A7M3MDX6	TMhelix	677	695				
+UniRef100_A0A7M3MDX6	outside	696	700				
+UniRef100_A0A7M3MDX6	TMhelix	701	716				
+UniRef100_A0A7M3MDX6	inside	717	731				
+//
+# UniRef100_T2G8C2 Length: 704
+# UniRef100_T2G8C2 Number of predicted TMRs: 8
+UniRef100_T2G8C2	inside	1	100				
+UniRef100_T2G8C2	TMhelix	101	110				
+UniRef100_T2G8C2	outside	111	126				
+UniRef100_T2G8C2	TMhelix	127	136				
+UniRef100_T2G8C2	inside	137	154				
+UniRef100_T2G8C2	TMhelix	155	164				
+UniRef100_T2G8C2	outside	165	172				
+UniRef100_T2G8C2	TMhelix	173	186				
+UniRef100_T2G8C2	inside	187	324				
+UniRef100_T2G8C2	TMhelix	325	338				
+UniRef100_T2G8C2	outside	339	341				
+UniRef100_T2G8C2	TMhelix	342	351				
+UniRef100_T2G8C2	inside	352	655				
+UniRef100_T2G8C2	TMhelix	656	672				
+UniRef100_T2G8C2	outside	673	677				
+UniRef100_T2G8C2	TMhelix	678	696				
+UniRef100_T2G8C2	inside	697	704				
+//
+# UniRef100_A0A0K2JAE7 Length: 161
+# UniRef100_A0A0K2JAE7 Number of predicted TMRs: 0
+UniRef100_A0A0K2JAE7	inside	1	161				
+//
+# UniRef100_A0A177Q9J8 Length: 225
+# UniRef100_A0A177Q9J8 Number of predicted TMRs: 2
+UniRef100_A0A177Q9J8	inside	1	170				
+UniRef100_A0A177Q9J8	TMhelix	171	184				
+UniRef100_A0A177Q9J8	outside	185	189				
+UniRef100_A0A177Q9J8	TMhelix	190	199				
+UniRef100_A0A177Q9J8	inside	200	225				
+//
+# UniRef100_A0A1W9WRJ5 Length: 194
+# UniRef100_A0A1W9WRJ5 Number of predicted TMRs: 0
+UniRef100_A0A1W9WRJ5	inside	1	194				
+//
+# UniRef100_A0A4U1BR67 Length: 119
+# UniRef100_A0A4U1BR67 Number of predicted TMRs: 0
+UniRef100_A0A4U1BR67	inside	1	119				
+//
+# UniRef100_A0A1L3MRB3 Length: 98
+# UniRef100_A0A1L3MRB3 Number of predicted TMRs: 0
+UniRef100_A0A1L3MRB3	inside	1	98				
+//
+# UniRef100_A0A1W9WSZ0 Length: 250
+# UniRef100_A0A1W9WSZ0 Number of predicted TMRs: 4
+UniRef100_A0A1W9WSZ0	inside	1	121				
+UniRef100_A0A1W9WSZ0	TMhelix	122	136				
+UniRef100_A0A1W9WSZ0	outside	137	142				
+UniRef100_A0A1W9WSZ0	TMhelix	143	152				
+UniRef100_A0A1W9WSZ0	inside	153	190				
+UniRef100_A0A1W9WSZ0	TMhelix	191	206				
+UniRef100_A0A1W9WSZ0	outside	207	213				
+UniRef100_A0A1W9WSZ0	TMhelix	214	227				
+UniRef100_A0A1W9WSZ0	inside	228	250				
+//
+# UniRef100_A0A1G0LIC4 Length: 156
+# UniRef100_A0A1G0LIC4 Number of predicted TMRs: 2
+UniRef100_A0A1G0LIC4	inside	1	105				
+UniRef100_A0A1G0LIC4	TMhelix	106	123				
+UniRef100_A0A1G0LIC4	outside	124	129				
+UniRef100_A0A1G0LIC4	TMhelix	130	139				
+UniRef100_A0A1G0LIC4	inside	140	156				
+//
+# UniRef100_A0A0B2JYX0 Length: 203
+# UniRef100_A0A0B2JYX0 Number of predicted TMRs: 0
+UniRef100_A0A0B2JYX0	inside	1	203				
+//
+# UniRef100_A0A4R3KF66 Length: 191
+# UniRef100_A0A4R3KF66 Number of predicted TMRs: 0
+UniRef100_A0A4R3KF66	inside	1	191				
+//
+# UniRef100_A0A1C7HFJ1 Length: 155
+# UniRef100_A0A1C7HFJ1 Number of predicted TMRs: 0
+UniRef100_A0A1C7HFJ1	inside	1	155				
+//
+# UniRef100_G1URW8 Length: 225
+# UniRef100_G1URW8 Number of predicted TMRs: 0
+UniRef100_G1URW8	inside	1	225				
+//
+# UniRef100_A0A6C1PM16 Length: 275
+# UniRef100_A0A6C1PM16 Number of predicted TMRs: 0
+UniRef100_A0A6C1PM16	inside	1	275				
+//
+# UniRef100_F3YUJ7 Length: 111
+# UniRef100_F3YUJ7 Number of predicted TMRs: 0
+UniRef100_F3YUJ7	inside	1	111				
+//
+# UniRef100_B0SVN8 Length: 163
+# UniRef100_B0SVN8 Number of predicted TMRs: 0
+UniRef100_B0SVN8	inside	1	163				
+//
+# UniRef100_A0A533QDT1 Length: 145
+# UniRef100_A0A533QDT1 Number of predicted TMRs: 0
+UniRef100_A0A533QDT1	inside	1	145				
+//
+# UniRef100_A0A1B3X6A4 Length: 244
+# UniRef100_A0A1B3X6A4 Number of predicted TMRs: 0
+UniRef100_A0A1B3X6A4	inside	1	244				
+//
+# UniRef100_A0A4Q2WBT6 Length: 198
+# UniRef100_A0A4Q2WBT6 Number of predicted TMRs: 0
+UniRef100_A0A4Q2WBT6	inside	1	198				
+//
+# UniRef100_A0A0A7FY97 Length: 126
+# UniRef100_A0A0A7FY97 Number of predicted TMRs: 0
+UniRef100_A0A0A7FY97	inside	1	126				
+//
+# UniRef100_A0A450TRW5 Length: 130
+# UniRef100_A0A450TRW5 Number of predicted TMRs: 0
+UniRef100_A0A450TRW5	inside	1	130				
+//
+# UniRef100_A0A2C9D198 Length: 1022
+# UniRef100_A0A2C9D198 Number of predicted TMRs: 10
+UniRef100_A0A2C9D198	inside	1	174				
+UniRef100_A0A2C9D198	TMhelix	175	200				
+UniRef100_A0A2C9D198	outside	201	202				
+UniRef100_A0A2C9D198	TMhelix	203	223				
+UniRef100_A0A2C9D198	inside	224	366				
+UniRef100_A0A2C9D198	TMhelix	367	387				
+UniRef100_A0A2C9D198	outside	388	399				
+UniRef100_A0A2C9D198	TMhelix	400	415				
+UniRef100_A0A2C9D198	inside	416	807				
+UniRef100_A0A2C9D198	TMhelix	808	829				
+UniRef100_A0A2C9D198	outside	830	836				
+UniRef100_A0A2C9D198	TMhelix	837	857				
+UniRef100_A0A2C9D198	inside	858	881				
+UniRef100_A0A2C9D198	TMhelix	882	902				
+UniRef100_A0A2C9D198	outside	903	911				
+UniRef100_A0A2C9D198	TMhelix	912	932				
+UniRef100_A0A2C9D198	inside	933	948				
+UniRef100_A0A2C9D198	TMhelix	949	969				
+UniRef100_A0A2C9D198	outside	970	982				
+UniRef100_A0A2C9D198	TMhelix	983	1005				
+UniRef100_A0A2C9D198	inside	1006	1022				
+//
+# UniRef100_A0A2U0AB95 Length: 1000
+# UniRef100_A0A2U0AB95 Number of predicted TMRs: 10
+UniRef100_A0A2U0AB95	inside	1	167				
+UniRef100_A0A2U0AB95	TMhelix	168	183				
+UniRef100_A0A2U0AB95	outside	184	185				
+UniRef100_A0A2U0AB95	TMhelix	186	206				
+UniRef100_A0A2U0AB95	inside	207	349				
+UniRef100_A0A2U0AB95	TMhelix	350	367				
+UniRef100_A0A2U0AB95	outside	368	382				
+UniRef100_A0A2U0AB95	TMhelix	383	398				
+UniRef100_A0A2U0AB95	inside	399	791				
+UniRef100_A0A2U0AB95	TMhelix	792	812				
+UniRef100_A0A2U0AB95	outside	813	819				
+UniRef100_A0A2U0AB95	TMhelix	820	840				
+UniRef100_A0A2U0AB95	inside	841	863				
+UniRef100_A0A2U0AB95	TMhelix	864	885				
+UniRef100_A0A2U0AB95	outside	886	894				
+UniRef100_A0A2U0AB95	TMhelix	895	915				
+UniRef100_A0A2U0AB95	inside	916	932				
+UniRef100_A0A2U0AB95	TMhelix	933	954				
+UniRef100_A0A2U0AB95	outside	955	965				
+UniRef100_A0A2U0AB95	TMhelix	966	985				
+UniRef100_A0A2U0AB95	inside	986	1000				
+//
+# UniRef100_A0A351KQH9 Length: 1021
+# UniRef100_A0A351KQH9 Number of predicted TMRs: 10
+UniRef100_A0A351KQH9	inside	1	191				
+UniRef100_A0A351KQH9	TMhelix	192	207				
+UniRef100_A0A351KQH9	outside	208	209				
+UniRef100_A0A351KQH9	TMhelix	210	230				
+UniRef100_A0A351KQH9	inside	231	373				
+UniRef100_A0A351KQH9	TMhelix	374	394				
+UniRef100_A0A351KQH9	outside	395	403				
+UniRef100_A0A351KQH9	TMhelix	404	422				
+UniRef100_A0A351KQH9	inside	423	813				
+UniRef100_A0A351KQH9	TMhelix	814	835				
+UniRef100_A0A351KQH9	outside	836	842				
+UniRef100_A0A351KQH9	TMhelix	843	863				
+UniRef100_A0A351KQH9	inside	864	887				
+UniRef100_A0A351KQH9	TMhelix	888	908				
+UniRef100_A0A351KQH9	outside	909	921				
+UniRef100_A0A351KQH9	TMhelix	922	939				
+UniRef100_A0A351KQH9	inside	940	953				
+UniRef100_A0A351KQH9	TMhelix	954	973				
+UniRef100_A0A351KQH9	outside	974	987				
+UniRef100_A0A351KQH9	TMhelix	988	1007				
+UniRef100_A0A351KQH9	inside	1008	1021				
+//
+# UniRef100_A0A4V3ZN06 Length: 1059
+# UniRef100_A0A4V3ZN06 Number of predicted TMRs: 10
+UniRef100_A0A4V3ZN06	inside	1	191				
+UniRef100_A0A4V3ZN06	TMhelix	192	207				
+UniRef100_A0A4V3ZN06	outside	208	209				
+UniRef100_A0A4V3ZN06	TMhelix	210	230				
+UniRef100_A0A4V3ZN06	inside	231	372				
+UniRef100_A0A4V3ZN06	TMhelix	373	393				
+UniRef100_A0A4V3ZN06	outside	394	405				
+UniRef100_A0A4V3ZN06	TMhelix	406	421				
+UniRef100_A0A4V3ZN06	inside	422	818				
+UniRef100_A0A4V3ZN06	TMhelix	819	839				
+UniRef100_A0A4V3ZN06	outside	840	846				
+UniRef100_A0A4V3ZN06	TMhelix	847	867				
+UniRef100_A0A4V3ZN06	inside	868	891				
+UniRef100_A0A4V3ZN06	TMhelix	892	912				
+UniRef100_A0A4V3ZN06	outside	913	923				
+UniRef100_A0A4V3ZN06	TMhelix	924	944				
+UniRef100_A0A4V3ZN06	inside	945	959				
+UniRef100_A0A4V3ZN06	TMhelix	960	982				
+UniRef100_A0A4V3ZN06	outside	983	992				
+UniRef100_A0A4V3ZN06	TMhelix	993	1013				
+UniRef100_A0A4V3ZN06	inside	1014	1059				
+//
+# UniRef100_A0A5D3YCS9 Length: 1065
+# UniRef100_A0A5D3YCS9 Number of predicted TMRs: 10
+UniRef100_A0A5D3YCS9	inside	1	204				
+UniRef100_A0A5D3YCS9	TMhelix	205	226				
+UniRef100_A0A5D3YCS9	outside	227	230				
+UniRef100_A0A5D3YCS9	TMhelix	231	252				
+UniRef100_A0A5D3YCS9	inside	253	393				
+UniRef100_A0A5D3YCS9	TMhelix	394	411				
+UniRef100_A0A5D3YCS9	outside	412	423				
+UniRef100_A0A5D3YCS9	TMhelix	424	442				
+UniRef100_A0A5D3YCS9	inside	443	838				
+UniRef100_A0A5D3YCS9	TMhelix	839	859				
+UniRef100_A0A5D3YCS9	outside	860	866				
+UniRef100_A0A5D3YCS9	TMhelix	867	887				
+UniRef100_A0A5D3YCS9	inside	888	911				
+UniRef100_A0A5D3YCS9	TMhelix	912	934				
+UniRef100_A0A5D3YCS9	outside	935	944				
+UniRef100_A0A5D3YCS9	TMhelix	945	962				
+UniRef100_A0A5D3YCS9	inside	963	978				
+UniRef100_A0A5D3YCS9	TMhelix	979	999				
+UniRef100_A0A5D3YCS9	outside	1000	1011				
+UniRef100_A0A5D3YCS9	TMhelix	1012	1032				
+UniRef100_A0A5D3YCS9	inside	1033	1065				
+//
+# UniRef100_A0A7C4R1T0 Length: 970
+# UniRef100_A0A7C4R1T0 Number of predicted TMRs: 10
+UniRef100_A0A7C4R1T0	inside	1	155				
+UniRef100_A0A7C4R1T0	TMhelix	156	172				
+UniRef100_A0A7C4R1T0	outside	173	177				
+UniRef100_A0A7C4R1T0	TMhelix	178	199				
+UniRef100_A0A7C4R1T0	inside	200	340				
+UniRef100_A0A7C4R1T0	TMhelix	341	353				
+UniRef100_A0A7C4R1T0	outside	354	376				
+UniRef100_A0A7C4R1T0	TMhelix	377	387				
+UniRef100_A0A7C4R1T0	inside	388	787				
+UniRef100_A0A7C4R1T0	TMhelix	788	802				
+UniRef100_A0A7C4R1T0	outside	803	811				
+UniRef100_A0A7C4R1T0	TMhelix	812	827				
+UniRef100_A0A7C4R1T0	inside	828	854				
+UniRef100_A0A7C4R1T0	TMhelix	855	870				
+UniRef100_A0A7C4R1T0	outside	871	884				
+UniRef100_A0A7C4R1T0	TMhelix	885	899				
+UniRef100_A0A7C4R1T0	inside	900	915				
+UniRef100_A0A7C4R1T0	TMhelix	916	929				
+UniRef100_A0A7C4R1T0	outside	930	939				
+UniRef100_A0A7C4R1T0	TMhelix	940	949				
+UniRef100_A0A7C4R1T0	inside	950	970				
+//
+# UniRef100_A0A841L3D1 Length: 1037
+# UniRef100_A0A841L3D1 Number of predicted TMRs: 10
+UniRef100_A0A841L3D1	inside	1	187				
+UniRef100_A0A841L3D1	TMhelix	188	208				
+UniRef100_A0A841L3D1	outside	209	218				
+UniRef100_A0A841L3D1	TMhelix	219	239				
+UniRef100_A0A841L3D1	inside	240	380				
+UniRef100_A0A841L3D1	TMhelix	381	401				
+UniRef100_A0A841L3D1	outside	402	410				
+UniRef100_A0A841L3D1	TMhelix	411	428				
+UniRef100_A0A841L3D1	inside	429	832				
+UniRef100_A0A841L3D1	TMhelix	833	853				
+UniRef100_A0A841L3D1	outside	854	859				
+UniRef100_A0A841L3D1	TMhelix	860	880				
+UniRef100_A0A841L3D1	inside	881	908				
+UniRef100_A0A841L3D1	TMhelix	909	929				
+UniRef100_A0A841L3D1	outside	930	938				
+UniRef100_A0A841L3D1	TMhelix	939	957				
+UniRef100_A0A841L3D1	inside	958	965				
+UniRef100_A0A841L3D1	TMhelix	966	984				
+UniRef100_A0A841L3D1	outside	985	997				
+UniRef100_A0A841L3D1	TMhelix	998	1022				
+UniRef100_A0A841L3D1	inside	1023	1037				
+//
+# UniRef100_R1AS97 Length: 1052
+# UniRef100_R1AS97 Number of predicted TMRs: 10
+UniRef100_R1AS97	inside	1	212				
+UniRef100_R1AS97	TMhelix	213	229				
+UniRef100_R1AS97	outside	230	233				
+UniRef100_R1AS97	TMhelix	234	254				
+UniRef100_R1AS97	inside	255	395				
+UniRef100_R1AS97	TMhelix	396	412				
+UniRef100_R1AS97	outside	413	429				
+UniRef100_R1AS97	TMhelix	430	444				
+UniRef100_R1AS97	inside	445	847				
+UniRef100_R1AS97	TMhelix	848	866				
+UniRef100_R1AS97	outside	867	873				
+UniRef100_R1AS97	TMhelix	874	894				
+UniRef100_R1AS97	inside	895	921				
+UniRef100_R1AS97	TMhelix	922	942				
+UniRef100_R1AS97	outside	943	951				
+UniRef100_R1AS97	TMhelix	952	967				
+UniRef100_R1AS97	inside	968	982				
+UniRef100_R1AS97	TMhelix	983	996				
+UniRef100_R1AS97	outside	997	1013				
+UniRef100_R1AS97	TMhelix	1014	1030				
+UniRef100_R1AS97	inside	1031	1052				
+//
+# UniRef100_A0A0K1PSQ0 Length: 169
+# UniRef100_A0A0K1PSQ0 Number of predicted TMRs: 0
+UniRef100_A0A0K1PSQ0	inside	1	169				
+//
+# UniRef100_C2KYM4 Length: 150
+# UniRef100_C2KYM4 Number of predicted TMRs: 0
+UniRef100_C2KYM4	inside	1	150				
+//
+# UniRef100_A0A534ZGX2 Length: 183
+# UniRef100_A0A534ZGX2 Number of predicted TMRs: 0
+UniRef100_A0A534ZGX2	inside	1	183				
+//
+# UniRef100_A0A1D9FGV0 Length: 619
+# UniRef100_A0A1D9FGV0 Number of predicted TMRs: 8
+UniRef100_A0A1D9FGV0	inside	1	104				
+UniRef100_A0A1D9FGV0	TMhelix	105	122				
+UniRef100_A0A1D9FGV0	outside	123	132				
+UniRef100_A0A1D9FGV0	TMhelix	133	149				
+UniRef100_A0A1D9FGV0	inside	150	162				
+UniRef100_A0A1D9FGV0	TMhelix	163	178				
+UniRef100_A0A1D9FGV0	outside	179	181				
+UniRef100_A0A1D9FGV0	TMhelix	182	197				
+UniRef100_A0A1D9FGV0	inside	198	325				
+UniRef100_A0A1D9FGV0	TMhelix	326	344				
+UniRef100_A0A1D9FGV0	outside	345	345				
+UniRef100_A0A1D9FGV0	TMhelix	346	366				
+UniRef100_A0A1D9FGV0	inside	367	557				
+UniRef100_A0A1D9FGV0	TMhelix	558	577				
+UniRef100_A0A1D9FGV0	outside	578	579				
+UniRef100_A0A1D9FGV0	TMhelix	580	600				
+UniRef100_A0A1D9FGV0	inside	601	619				
+//
+# UniRef100_A0A4Q2WE78 Length: 156
+# UniRef100_A0A4Q2WE78 Number of predicted TMRs: 0
+UniRef100_A0A4Q2WE78	inside	1	156				
+//
+# UniRef100_A0A496PF91 Length: 315
+# UniRef100_A0A496PF91 Number of predicted TMRs: 2
+UniRef100_A0A496PF91	inside	1	140				
+UniRef100_A0A496PF91	TMhelix	141	157				
+UniRef100_A0A496PF91	outside	158	160				
+UniRef100_A0A496PF91	TMhelix	161	176				
+UniRef100_A0A496PF91	inside	177	315				
+//
+# UniRef100_A0A1Z4S7A2 Length: 232
+# UniRef100_A0A1Z4S7A2 Number of predicted TMRs: 0
+UniRef100_A0A1Z4S7A2	inside	1	232				
+//
+# UniRef100_A0A6G3LKZ2 Length: 438
+# UniRef100_A0A6G3LKZ2 Number of predicted TMRs: 2
+UniRef100_A0A6G3LKZ2	inside	1	149				
+UniRef100_A0A6G3LKZ2	TMhelix	150	162				
+UniRef100_A0A6G3LKZ2	outside	163	165				
+UniRef100_A0A6G3LKZ2	TMhelix	166	185				
+UniRef100_A0A6G3LKZ2	inside	186	438				
+//
+# UniRef100_A0A1A6FI36 Length: 166
+# UniRef100_A0A1A6FI36 Number of predicted TMRs: 2
+UniRef100_A0A1A6FI36	inside	1	113				
+UniRef100_A0A1A6FI36	TMhelix	114	129				
+UniRef100_A0A1A6FI36	outside	130	135				
+UniRef100_A0A1A6FI36	TMhelix	136	149				
+UniRef100_A0A1A6FI36	inside	150	166				
+//
+# UniRef100_R5XNK8 Length: 266
+# UniRef100_R5XNK8 Number of predicted TMRs: 0
+UniRef100_R5XNK8	inside	1	266				
+//
+# UniRef100_A0A317MXQ3 Length: 125
+# UniRef100_A0A317MXQ3 Number of predicted TMRs: 0
+UniRef100_A0A317MXQ3	inside	1	125				
+//
+# UniRef100_A0A448MAZ9 Length: 126
+# UniRef100_A0A448MAZ9 Number of predicted TMRs: 0
+UniRef100_A0A448MAZ9	inside	1	126				
+//
+# UniRef100_A0A7U8YMJ0 Length: 271
+# UniRef100_A0A7U8YMJ0 Number of predicted TMRs: 0
+UniRef100_A0A7U8YMJ0	inside	1	271				
+//
+# UniRef100_A0A1U7CQW9 Length: 849
+# UniRef100_A0A1U7CQW9 Number of predicted TMRs: 4
+UniRef100_A0A1U7CQW9	inside	1	268				
+UniRef100_A0A1U7CQW9	TMhelix	269	282				
+UniRef100_A0A1U7CQW9	outside	283	287				
+UniRef100_A0A1U7CQW9	TMhelix	288	299				
+UniRef100_A0A1U7CQW9	inside	300	776				
+UniRef100_A0A1U7CQW9	TMhelix	777	792				
+UniRef100_A0A1U7CQW9	outside	793	800				
+UniRef100_A0A1U7CQW9	TMhelix	801	816				
+UniRef100_A0A1U7CQW9	inside	817	849				
+//
+# UniRef100_A0A1D8GKE3 Length: 614
+# UniRef100_A0A1D8GKE3 Number of predicted TMRs: 8
+UniRef100_A0A1D8GKE3	inside	1	108				
+UniRef100_A0A1D8GKE3	TMhelix	109	126				
+UniRef100_A0A1D8GKE3	outside	127	136				
+UniRef100_A0A1D8GKE3	TMhelix	137	153				
+UniRef100_A0A1D8GKE3	inside	154	165				
+UniRef100_A0A1D8GKE3	TMhelix	166	182				
+UniRef100_A0A1D8GKE3	outside	183	185				
+UniRef100_A0A1D8GKE3	TMhelix	186	204				
+UniRef100_A0A1D8GKE3	inside	205	333				
+UniRef100_A0A1D8GKE3	TMhelix	334	354				
+UniRef100_A0A1D8GKE3	outside	355	356				
+UniRef100_A0A1D8GKE3	TMhelix	357	375				
+UniRef100_A0A1D8GKE3	inside	376	557				
+UniRef100_A0A1D8GKE3	TMhelix	558	578				
+UniRef100_A0A1D8GKE3	outside	579	579				
+UniRef100_A0A1D8GKE3	TMhelix	580	602				
+UniRef100_A0A1D8GKE3	inside	603	614				
+//
+# UniRef100_A0A4R2SXR9 Length: 412
+# UniRef100_A0A4R2SXR9 Number of predicted TMRs: 0
+UniRef100_A0A4R2SXR9	inside	1	412				
+//
+# UniRef100_A0A418RM88 Length: 203
+# UniRef100_A0A418RM88 Number of predicted TMRs: 0
+UniRef100_A0A418RM88	inside	1	203				
+//
+# UniRef100_A0A5Q0BIS9 Length: 204
+# UniRef100_A0A5Q0BIS9 Number of predicted TMRs: 2
+UniRef100_A0A5Q0BIS9	inside	1	150				
+UniRef100_A0A5Q0BIS9	TMhelix	151	171				
+UniRef100_A0A5Q0BIS9	outside	172	180				
+UniRef100_A0A5Q0BIS9	TMhelix	181	197				
+UniRef100_A0A5Q0BIS9	inside	198	204				
+//
+# UniRef100_A0A351KRH4 Length: 707
+# UniRef100_A0A351KRH4 Number of predicted TMRs: 4
+UniRef100_A0A351KRH4	inside	1	140				
+UniRef100_A0A351KRH4	TMhelix	141	154				
+UniRef100_A0A351KRH4	outside	155	169				
+UniRef100_A0A351KRH4	TMhelix	170	198				
+UniRef100_A0A351KRH4	inside	199	651				
+UniRef100_A0A351KRH4	TMhelix	652	661				
+UniRef100_A0A351KRH4	outside	662	671				
+UniRef100_A0A351KRH4	TMhelix	672	685				
+UniRef100_A0A351KRH4	inside	686	707				
+//
+# UniRef100_A0A858QAA3 Length: 786
+# UniRef100_A0A858QAA3 Number of predicted TMRs: 2
+UniRef100_A0A858QAA3	inside	1	733				
+UniRef100_A0A858QAA3	TMhelix	734	746				
+UniRef100_A0A858QAA3	outside	747	752				
+UniRef100_A0A858QAA3	TMhelix	753	767				
+UniRef100_A0A858QAA3	inside	768	786				
+//
+# UniRef100_A0A538PFI8 Length: 121
+# UniRef100_A0A538PFI8 Number of predicted TMRs: 0
+UniRef100_A0A538PFI8	inside	1	121				
+//
+# UniRef100_A0A2C8FDY8 Length: 102
+# UniRef100_A0A2C8FDY8 Number of predicted TMRs: 0
+UniRef100_A0A2C8FDY8	inside	1	102				
+//
+# UniRef100_A0A0K1EEA8 Length: 680
+# UniRef100_A0A0K1EEA8 Number of predicted TMRs: 6
+UniRef100_A0A0K1EEA8	inside	1	115				
+UniRef100_A0A0K1EEA8	TMhelix	116	131				
+UniRef100_A0A0K1EEA8	outside	132	168				
+UniRef100_A0A0K1EEA8	TMhelix	169	181				
+UniRef100_A0A0K1EEA8	inside	182	241				
+UniRef100_A0A0K1EEA8	TMhelix	242	262				
+UniRef100_A0A0K1EEA8	outside	263	265				
+UniRef100_A0A0K1EEA8	TMhelix	266	285				
+UniRef100_A0A0K1EEA8	inside	286	348				
+UniRef100_A0A0K1EEA8	TMhelix	349	369				
+UniRef100_A0A0K1EEA8	outside	370	385				
+UniRef100_A0A0K1EEA8	TMhelix	386	406				
+UniRef100_A0A0K1EEA8	inside	407	680				
+//
+# UniRef100_A0A3N5GQ68 Length: 118
+# UniRef100_A0A3N5GQ68 Number of predicted TMRs: 0
+UniRef100_A0A3N5GQ68	inside	1	118				
+//
+# UniRef100_A0A4Q9GK97 Length: 816
+# UniRef100_A0A4Q9GK97 Number of predicted TMRs: 6
+UniRef100_A0A4Q9GK97	inside	1	199				
+UniRef100_A0A4Q9GK97	TMhelix	200	210				
+UniRef100_A0A4Q9GK97	outside	211	222				
+UniRef100_A0A4Q9GK97	TMhelix	223	236				
+UniRef100_A0A4Q9GK97	inside	237	248				
+UniRef100_A0A4Q9GK97	TMhelix	249	263				
+UniRef100_A0A4Q9GK97	outside	264	268				
+UniRef100_A0A4Q9GK97	TMhelix	269	284				
+UniRef100_A0A4Q9GK97	inside	285	754				
+UniRef100_A0A4Q9GK97	TMhelix	755	769				
+UniRef100_A0A4Q9GK97	outside	770	774				
+UniRef100_A0A4Q9GK97	TMhelix	775	790				
+UniRef100_A0A4Q9GK97	inside	791	816				
+//
+# UniRef100_A0A2L1GLS8 Length: 148
+# UniRef100_A0A2L1GLS8 Number of predicted TMRs: 1
+UniRef100_A0A2L1GLS8	inside	1	127				
+UniRef100_A0A2L1GLS8	TMhelix	128	143				
+UniRef100_A0A2L1GLS8	outside	144	148				
+//
+# UniRef100_A0A0R1VLG1 Length: 107
+# UniRef100_A0A0R1VLG1 Number of predicted TMRs: 0
+UniRef100_A0A0R1VLG1	inside	1	107				
+//
+# UniRef100_A3Z4P0 Length: 303
+# UniRef100_A3Z4P0 Number of predicted TMRs: 0
+UniRef100_A3Z4P0	inside	1	303				
+//
+# UniRef100_A0A1E3X479 Length: 257
+# UniRef100_A0A1E3X479 Number of predicted TMRs: 0
+UniRef100_A0A1E3X479	inside	1	257				
+//
+# UniRef100_A0A7V9BT47 Length: 336
+# UniRef100_A0A7V9BT47 Number of predicted TMRs: 3
+UniRef100_A0A7V9BT47	inside	1	256				
+UniRef100_A0A7V9BT47	TMhelix	257	277				
+UniRef100_A0A7V9BT47	outside	278	281				
+UniRef100_A0A7V9BT47	TMhelix	282	304				
+UniRef100_A0A7V9BT47	inside	305	315				
+UniRef100_A0A7V9BT47	TMhelix	316	335				
+UniRef100_A0A7V9BT47	outside	336	336				
+//
+# UniRef100_A0A7C5GUR5 Length: 340
+# UniRef100_A0A7C5GUR5 Number of predicted TMRs: 3
+UniRef100_A0A7C5GUR5	inside	1	151				
+UniRef100_A0A7C5GUR5	TMhelix	152	162				
+UniRef100_A0A7C5GUR5	outside	163	167				
+UniRef100_A0A7C5GUR5	TMhelix	168	183				
+UniRef100_A0A7C5GUR5	inside	184	316				
+UniRef100_A0A7C5GUR5	TMhelix	317	327				
+UniRef100_A0A7C5GUR5	outside	328	340				
+//
+# UniRef100_A0A2S6IG45 Length: 253
+# UniRef100_A0A2S6IG45 Number of predicted TMRs: 0
+UniRef100_A0A2S6IG45	inside	1	253				
+//
+# UniRef100_A0A3M0CS10 Length: 103
+# UniRef100_A0A3M0CS10 Number of predicted TMRs: 0
+UniRef100_A0A3M0CS10	inside	1	103				
+//
+# UniRef100_A0A7V1SLA8 Length: 96
+# UniRef100_A0A7V1SLA8 Number of predicted TMRs: 0
+UniRef100_A0A7V1SLA8	inside	1	96				
+//
+# UniRef100_A0A2G3PU42 Length: 131
+# UniRef100_A0A2G3PU42 Number of predicted TMRs: 0
+UniRef100_A0A2G3PU42	inside	1	131				
+//
+# UniRef100_A0A7C8M2J4 Length: 447
+# UniRef100_A0A7C8M2J4 Number of predicted TMRs: 0
+UniRef100_A0A7C8M2J4	inside	1	447				
+//
+# UniRef100_A0A2H2XBG2 Length: 284
+# UniRef100_A0A2H2XBG2 Number of predicted TMRs: 0
+UniRef100_A0A2H2XBG2	inside	1	284				
+//
+# UniRef100_A0A352AFP1 Length: 425
+# UniRef100_A0A352AFP1 Number of predicted TMRs: 0
+UniRef100_A0A352AFP1	inside	1	425				
+//
+# UniRef100_A0A6M0J010 Length: 214
+# UniRef100_A0A6M0J010 Number of predicted TMRs: 0
+UniRef100_A0A6M0J010	inside	1	214				
+//
+# UniRef100_A0A139WRM2 Length: 260
+# UniRef100_A0A139WRM2 Number of predicted TMRs: 0
+UniRef100_A0A139WRM2	inside	1	260				
+//
+# UniRef100_A0A656H9K1 Length: 121
+# UniRef100_A0A656H9K1 Number of predicted TMRs: 0
+UniRef100_A0A656H9K1	inside	1	121				
+//
+# UniRef100_A0A2K8T6N3 Length: 258
+# UniRef100_A0A2K8T6N3 Number of predicted TMRs: 0
+UniRef100_A0A2K8T6N3	inside	1	258				
+//
+# UniRef100_D9SLG1 Length: 189
+# UniRef100_D9SLG1 Number of predicted TMRs: 0
+UniRef100_D9SLG1	inside	1	189				
+//
+# UniRef100_A0A521X5A7 Length: 198
+# UniRef100_A0A521X5A7 Number of predicted TMRs: 2
+UniRef100_A0A521X5A7	inside	1	130				
+UniRef100_A0A521X5A7	TMhelix	131	147				
+UniRef100_A0A521X5A7	outside	148	156				
+UniRef100_A0A521X5A7	TMhelix	157	171				
+UniRef100_A0A521X5A7	inside	172	198				
+//
+# UniRef100_A0A2E6QNE0 Length: 103
+# UniRef100_A0A2E6QNE0 Number of predicted TMRs: 0
+UniRef100_A0A2E6QNE0	inside	1	103				
+//
+# UniRef100_G9Y2D7 Length: 110
+# UniRef100_G9Y2D7 Number of predicted TMRs: 0
+UniRef100_G9Y2D7	inside	1	110				
+//
+# UniRef100_U3CPZ2 Length: 109
+# UniRef100_U3CPZ2 Number of predicted TMRs: 0
+UniRef100_U3CPZ2	inside	1	109				
+//
+# UniRef100_V4JX42 Length: 87
+# UniRef100_V4JX42 Number of predicted TMRs: 0
+UniRef100_V4JX42	inside	1	87				
+//
+# UniRef100_A0A133ZVF7 Length: 123
+# UniRef100_A0A133ZVF7 Number of predicted TMRs: 0
+UniRef100_A0A133ZVF7	inside	1	123				
+//
+# UniRef100_I2BBJ2 Length: 121
+# UniRef100_I2BBJ2 Number of predicted TMRs: 0
+UniRef100_I2BBJ2	inside	1	121				
+//
+# UniRef100_A0A6L5WFZ0 Length: 110
+# UniRef100_A0A6L5WFZ0 Number of predicted TMRs: 0
+UniRef100_A0A6L5WFZ0	inside	1	110				
+//
+# UniRef100_A0A5J5I3L3 Length: 192
+# UniRef100_A0A5J5I3L3 Number of predicted TMRs: 2
+UniRef100_A0A5J5I3L3	inside	1	148				
+UniRef100_A0A5J5I3L3	TMhelix	149	161				
+UniRef100_A0A5J5I3L3	outside	162	166				
+UniRef100_A0A5J5I3L3	TMhelix	167	180				
+UniRef100_A0A5J5I3L3	inside	181	192				
+//
+# UniRef100_A0A239D9F0 Length: 753
+# UniRef100_A0A239D9F0 Number of predicted TMRs: 8
+UniRef100_A0A239D9F0	inside	1	130				
+UniRef100_A0A239D9F0	TMhelix	131	143				
+UniRef100_A0A239D9F0	outside	144	159				
+UniRef100_A0A239D9F0	TMhelix	160	172				
+UniRef100_A0A239D9F0	inside	173	185				
+UniRef100_A0A239D9F0	TMhelix	186	200				
+UniRef100_A0A239D9F0	outside	201	203				
+UniRef100_A0A239D9F0	TMhelix	204	224				
+UniRef100_A0A239D9F0	inside	225	352				
+UniRef100_A0A239D9F0	TMhelix	353	364				
+UniRef100_A0A239D9F0	outside	365	378				
+UniRef100_A0A239D9F0	TMhelix	379	395				
+UniRef100_A0A239D9F0	inside	396	689				
+UniRef100_A0A239D9F0	TMhelix	690	706				
+UniRef100_A0A239D9F0	outside	707	711				
+UniRef100_A0A239D9F0	TMhelix	712	727				
+UniRef100_A0A239D9F0	inside	728	753				
+//
+# UniRef100_A0A7C7REQ1 Length: 751
+# UniRef100_A0A7C7REQ1 Number of predicted TMRs: 8
+UniRef100_A0A7C7REQ1	inside	1	118				
+UniRef100_A0A7C7REQ1	TMhelix	119	134				
+UniRef100_A0A7C7REQ1	outside	135	147				
+UniRef100_A0A7C7REQ1	TMhelix	148	163				
+UniRef100_A0A7C7REQ1	inside	164	177				
+UniRef100_A0A7C7REQ1	TMhelix	178	192				
+UniRef100_A0A7C7REQ1	outside	193	195				
+UniRef100_A0A7C7REQ1	TMhelix	196	216				
+UniRef100_A0A7C7REQ1	inside	217	343				
+UniRef100_A0A7C7REQ1	TMhelix	344	357				
+UniRef100_A0A7C7REQ1	outside	358	370				
+UniRef100_A0A7C7REQ1	TMhelix	371	387				
+UniRef100_A0A7C7REQ1	inside	388	678				
+UniRef100_A0A7C7REQ1	TMhelix	679	699				
+UniRef100_A0A7C7REQ1	outside	700	704				
+UniRef100_A0A7C7REQ1	TMhelix	705	720				
+UniRef100_A0A7C7REQ1	inside	721	751				
+//
+# UniRef100_H6SJT9 Length: 720
+# UniRef100_H6SJT9 Number of predicted TMRs: 8
+UniRef100_H6SJT9	inside	1	113				
+UniRef100_H6SJT9	TMhelix	114	124				
+UniRef100_H6SJT9	outside	125	142				
+UniRef100_H6SJT9	TMhelix	143	155				
+UniRef100_H6SJT9	inside	156	167				
+UniRef100_H6SJT9	TMhelix	168	183				
+UniRef100_H6SJT9	outside	184	185				
+UniRef100_H6SJT9	TMhelix	186	206				
+UniRef100_H6SJT9	inside	207	335				
+UniRef100_H6SJT9	TMhelix	336	354				
+UniRef100_H6SJT9	outside	355	361				
+UniRef100_H6SJT9	TMhelix	362	377				
+UniRef100_H6SJT9	inside	378	672				
+UniRef100_H6SJT9	TMhelix	673	689				
+UniRef100_H6SJT9	outside	690	694				
+UniRef100_H6SJT9	TMhelix	695	710				
+UniRef100_H6SJT9	inside	711	720				
+//
+# UniRef100_A0A3A8KA48 Length: 206
+# UniRef100_A0A3A8KA48 Number of predicted TMRs: 0
+UniRef100_A0A3A8KA48	inside	1	206				
+//
+# UniRef100_A0A4Q2KVH5 Length: 160
+# UniRef100_A0A4Q2KVH5 Number of predicted TMRs: 0
+UniRef100_A0A4Q2KVH5	inside	1	160				
+//
+# UniRef100_A0A6J4FSE9 Length: 150
+# UniRef100_A0A6J4FSE9 Number of predicted TMRs: 2
+UniRef100_A0A6J4FSE9	inside	1	103				
+UniRef100_A0A6J4FSE9	TMhelix	104	121				
+UniRef100_A0A6J4FSE9	outside	122	124				
+UniRef100_A0A6J4FSE9	TMhelix	125	142				
+UniRef100_A0A6J4FSE9	inside	143	150				
+//
+# UniRef100_A0A6N7LMA9 Length: 192
+# UniRef100_A0A6N7LMA9 Number of predicted TMRs: 0
+UniRef100_A0A6N7LMA9	inside	1	192				
+//
+# UniRef100_A0A351WUV8 Length: 173
+# UniRef100_A0A351WUV8 Number of predicted TMRs: 2
+UniRef100_A0A351WUV8	inside	1	125				
+UniRef100_A0A351WUV8	TMhelix	126	143				
+UniRef100_A0A351WUV8	outside	144	147				
+UniRef100_A0A351WUV8	TMhelix	148	164				
+UniRef100_A0A351WUV8	inside	165	173				
+//
+# UniRef100_A0A1G9U165 Length: 174
+# UniRef100_A0A1G9U165 Number of predicted TMRs: 0
+UniRef100_A0A1G9U165	inside	1	174				
+//
+# UniRef100_A0A848CC85 Length: 221
+# UniRef100_A0A848CC85 Number of predicted TMRs: 0
+UniRef100_A0A848CC85	inside	1	221				
+//
+# UniRef100_A0A7V4XHE5 Length: 176
+# UniRef100_A0A7V4XHE5 Number of predicted TMRs: 0
+UniRef100_A0A7V4XHE5	inside	1	176				
+//
+# UniRef100_A0A415REF7 Length: 212
+# UniRef100_A0A415REF7 Number of predicted TMRs: 0
+UniRef100_A0A415REF7	inside	1	212				
+//
+# UniRef100_A0A1M4XAD5 Length: 126
+# UniRef100_A0A1M4XAD5 Number of predicted TMRs: 0
+UniRef100_A0A1M4XAD5	inside	1	126				
+//
+# UniRef100_A0A1V4AU67 Length: 132
+# UniRef100_A0A1V4AU67 Number of predicted TMRs: 0
+UniRef100_A0A1V4AU67	inside	1	132				
+//
+# UniRef100_F6DJU2 Length: 167
+# UniRef100_F6DJU2 Number of predicted TMRs: 0
+UniRef100_F6DJU2	inside	1	167				
+//
+# UniRef100_A0A522V6L6 Length: 607
+# UniRef100_A0A522V6L6 Number of predicted TMRs: 6
+UniRef100_A0A522V6L6	inside	1	189				
+UniRef100_A0A522V6L6	TMhelix	190	207				
+UniRef100_A0A522V6L6	outside	208	214				
+UniRef100_A0A522V6L6	TMhelix	215	233				
+UniRef100_A0A522V6L6	inside	234	248				
+UniRef100_A0A522V6L6	TMhelix	249	268				
+UniRef100_A0A522V6L6	outside	269	274				
+UniRef100_A0A522V6L6	TMhelix	275	291				
+UniRef100_A0A522V6L6	inside	292	426				
+UniRef100_A0A522V6L6	TMhelix	427	447				
+UniRef100_A0A522V6L6	outside	448	451				
+UniRef100_A0A522V6L6	TMhelix	452	471				
+UniRef100_A0A522V6L6	inside	472	607				
+//
+# UniRef100_A0A0A0I9N3 Length: 273
+# UniRef100_A0A0A0I9N3 Number of predicted TMRs: 2
+UniRef100_A0A0A0I9N3	inside	1	125				
+UniRef100_A0A0A0I9N3	TMhelix	126	141				
+UniRef100_A0A0A0I9N3	outside	142	149				
+UniRef100_A0A0A0I9N3	TMhelix	150	159				
+UniRef100_A0A0A0I9N3	inside	160	273				
+//
+# UniRef100_A0A2G6HLF5 Length: 136
+# UniRef100_A0A2G6HLF5 Number of predicted TMRs: 0
+UniRef100_A0A2G6HLF5	inside	1	136				
+//
+# UniRef100_A0A096BD71 Length: 525
+# UniRef100_A0A096BD71 Number of predicted TMRs: 2
+UniRef100_A0A096BD71	inside	1	142				
+UniRef100_A0A096BD71	TMhelix	143	157				
+UniRef100_A0A096BD71	outside	158	160				
+UniRef100_A0A096BD71	TMhelix	161	176				
+UniRef100_A0A096BD71	inside	177	525				
+//
+# UniRef100_A0A3L7V7Z7 Length: 884
+# UniRef100_A0A3L7V7Z7 Number of predicted TMRs: 4
+UniRef100_A0A3L7V7Z7	inside	1	290				
+UniRef100_A0A3L7V7Z7	TMhelix	291	300				
+UniRef100_A0A3L7V7Z7	outside	301	306				
+UniRef100_A0A3L7V7Z7	TMhelix	307	317				
+UniRef100_A0A3L7V7Z7	inside	318	785				
+UniRef100_A0A3L7V7Z7	TMhelix	786	801				
+UniRef100_A0A3L7V7Z7	outside	802	805				
+UniRef100_A0A3L7V7Z7	TMhelix	806	825				
+UniRef100_A0A3L7V7Z7	inside	826	884				
+//
+# UniRef100_A0A139K4S2 Length: 839
+# UniRef100_A0A139K4S2 Number of predicted TMRs: 4
+UniRef100_A0A139K4S2	inside	1	237				
+UniRef100_A0A139K4S2	TMhelix	238	247				
+UniRef100_A0A139K4S2	outside	248	256				
+UniRef100_A0A139K4S2	TMhelix	257	268				
+UniRef100_A0A139K4S2	inside	269	742				
+UniRef100_A0A139K4S2	TMhelix	743	759				
+UniRef100_A0A139K4S2	outside	760	762				
+UniRef100_A0A139K4S2	TMhelix	763	783				
+UniRef100_A0A139K4S2	inside	784	839				
+//
+# UniRef100_G7M1Z1 Length: 378
+# UniRef100_G7M1Z1 Number of predicted TMRs: 4
+UniRef100_G7M1Z1	inside	1	106				
+UniRef100_G7M1Z1	TMhelix	107	122				
+UniRef100_G7M1Z1	outside	123	125				
+UniRef100_G7M1Z1	TMhelix	126	142				
+UniRef100_G7M1Z1	inside	143	322				
+UniRef100_G7M1Z1	TMhelix	323	343				
+UniRef100_G7M1Z1	outside	344	345				
+UniRef100_G7M1Z1	TMhelix	346	366				
+UniRef100_G7M1Z1	inside	367	378				
+//
+# UniRef100_A0A6L4YH66 Length: 225
+# UniRef100_A0A6L4YH66 Number of predicted TMRs: 2
+UniRef100_A0A6L4YH66	inside	1	159				
+UniRef100_A0A6L4YH66	TMhelix	160	180				
+UniRef100_A0A6L4YH66	outside	181	191				
+UniRef100_A0A6L4YH66	TMhelix	192	206				
+UniRef100_A0A6L4YH66	inside	207	225				
+//
+# UniRef100_A0A1N6INU1 Length: 168
+# UniRef100_A0A1N6INU1 Number of predicted TMRs: 0
+UniRef100_A0A1N6INU1	inside	1	168				
+//
+# UniRef100_V5V933 Length: 613
+# UniRef100_V5V933 Number of predicted TMRs: 4
+UniRef100_V5V933	inside	1	174				
+UniRef100_V5V933	TMhelix	175	188				
+UniRef100_V5V933	outside	189	192				
+UniRef100_V5V933	TMhelix	193	208				
+UniRef100_V5V933	inside	209	535				
+UniRef100_V5V933	TMhelix	536	556				
+UniRef100_V5V933	outside	557	562				
+UniRef100_V5V933	TMhelix	563	578				
+UniRef100_V5V933	inside	579	613				
+//
+# UniRef100_A0A139WVI4 Length: 381
+# UniRef100_A0A139WVI4 Number of predicted TMRs: 0
+UniRef100_A0A139WVI4	inside	1	381				
+//
+# UniRef100_A0A098TP70 Length: 333
+# UniRef100_A0A098TP70 Number of predicted TMRs: 0
+UniRef100_A0A098TP70	inside	1	333				
+//
+# UniRef100_A0A1G0CRD2 Length: 157
+# UniRef100_A0A1G0CRD2 Number of predicted TMRs: 2
+UniRef100_A0A1G0CRD2	inside	1	108				
+UniRef100_A0A1G0CRD2	TMhelix	109	127				
+UniRef100_A0A1G0CRD2	outside	128	131				
+UniRef100_A0A1G0CRD2	TMhelix	132	150				
+UniRef100_A0A1G0CRD2	inside	151	157				
+//
+# UniRef100_A0A1N7C236 Length: 170
+# UniRef100_A0A1N7C236 Number of predicted TMRs: 1
+UniRef100_A0A1N7C236	inside	1	147				
+UniRef100_A0A1N7C236	TMhelix	148	163				
+UniRef100_A0A1N7C236	outside	164	170				
+//
+# UniRef100_A0A2R4BRA1 Length: 142
+# UniRef100_A0A2R4BRA1 Number of predicted TMRs: 2
+UniRef100_A0A2R4BRA1	inside	1	93				
+UniRef100_A0A2R4BRA1	TMhelix	94	111				
+UniRef100_A0A2R4BRA1	outside	112	116				
+UniRef100_A0A2R4BRA1	TMhelix	117	135				
+UniRef100_A0A2R4BRA1	inside	136	142				
+//
+# UniRef100_A0A3Q8HR34 Length: 152
+# UniRef100_A0A3Q8HR34 Number of predicted TMRs: 2
+UniRef100_A0A3Q8HR34	inside	1	100				
+UniRef100_A0A3Q8HR34	TMhelix	101	121				
+UniRef100_A0A3Q8HR34	outside	122	126				
+UniRef100_A0A3Q8HR34	TMhelix	127	145				
+UniRef100_A0A3Q8HR34	inside	146	152				
+//
+# UniRef100_A0A4U0QCR6 Length: 137
+# UniRef100_A0A4U0QCR6 Number of predicted TMRs: 1
+UniRef100_A0A4U0QCR6	inside	1	113				
+UniRef100_A0A4U0QCR6	TMhelix	114	126				
+UniRef100_A0A4U0QCR6	outside	127	137				
+//
+# UniRef100_G0A1L6 Length: 144
+# UniRef100_G0A1L6 Number of predicted TMRs: 1
+UniRef100_G0A1L6	inside	1	118				
+UniRef100_G0A1L6	TMhelix	119	138				
+UniRef100_G0A1L6	outside	139	144				
+//
+# UniRef100_N6YAS7 Length: 143
+# UniRef100_N6YAS7 Number of predicted TMRs: 1
+UniRef100_N6YAS7	inside	1	117				
+UniRef100_N6YAS7	TMhelix	118	127				
+UniRef100_N6YAS7	outside	128	143				
+//
+# UniRef100_A0A7V6A2V4 Length: 123
+# UniRef100_A0A7V6A2V4 Number of predicted TMRs: 0
+UniRef100_A0A7V6A2V4	inside	1	123				
+//
+# UniRef100_A0A3S0XPF3 Length: 385
+# UniRef100_A0A3S0XPF3 Number of predicted TMRs: 0
+UniRef100_A0A3S0XPF3	inside	1	385				
+//
+# UniRef100_A0A3N9VL67 Length: 182
+# UniRef100_A0A3N9VL67 Number of predicted TMRs: 2
+UniRef100_A0A3N9VL67	inside	1	130				
+UniRef100_A0A3N9VL67	TMhelix	131	146				
+UniRef100_A0A3N9VL67	outside	147	154				
+UniRef100_A0A3N9VL67	TMhelix	155	169				
+UniRef100_A0A3N9VL67	inside	170	182				
+//
+# UniRef100_E0UCR5 Length: 89
+# UniRef100_E0UCR5 Number of predicted TMRs: 0
+UniRef100_E0UCR5	inside	1	89				
+//
+# UniRef100_F2NC21 Length: 96
+# UniRef100_F2NC21 Number of predicted TMRs: 0
+UniRef100_F2NC21	inside	1	96				
+//
+# UniRef100_A0A1V4S890 Length: 103
+# UniRef100_A0A1V4S890 Number of predicted TMRs: 0
+UniRef100_A0A1V4S890	inside	1	103				
+//
+# UniRef100_A0A5K7ZUY4 Length: 131
+# UniRef100_A0A5K7ZUY4 Number of predicted TMRs: 0
+UniRef100_A0A5K7ZUY4	inside	1	131				
+//
+# UniRef100_F2NC54 Length: 117
+# UniRef100_F2NC54 Number of predicted TMRs: 0
+UniRef100_F2NC54	inside	1	117				
+//
+# UniRef100_A0A2V7B4L6 Length: 164
+# UniRef100_A0A2V7B4L6 Number of predicted TMRs: 0
+UniRef100_A0A2V7B4L6	inside	1	164				
+//
+# UniRef100_A0A7Y6UHT7 Length: 184
+# UniRef100_A0A7Y6UHT7 Number of predicted TMRs: 0
+UniRef100_A0A7Y6UHT7	inside	1	184				
+//
+# UniRef100_A0A0M1IRX9 Length: 126
+# UniRef100_A0A0M1IRX9 Number of predicted TMRs: 0
+UniRef100_A0A0M1IRX9	inside	1	126				
+//
+# UniRef100_A0A0A5GGF7 Length: 190
+# UniRef100_A0A0A5GGF7 Number of predicted TMRs: 4
+UniRef100_A0A0A5GGF7	inside	1	101				
+UniRef100_A0A0A5GGF7	TMhelix	102	113				
+UniRef100_A0A0A5GGF7	outside	114	125				
+UniRef100_A0A0A5GGF7	TMhelix	126	137				
+UniRef100_A0A0A5GGF7	inside	138	148				
+UniRef100_A0A0A5GGF7	TMhelix	149	160				
+UniRef100_A0A0A5GGF7	outside	161	163				
+UniRef100_A0A0A5GGF7	TMhelix	164	177				
+UniRef100_A0A0A5GGF7	inside	178	190				
+//
+# UniRef100_A0A2Z6IGK5 Length: 196
+# UniRef100_A0A2Z6IGK5 Number of predicted TMRs: 2
+UniRef100_A0A2Z6IGK5	inside	1	152				
+UniRef100_A0A2Z6IGK5	TMhelix	153	168				
+UniRef100_A0A2Z6IGK5	outside	169	172				
+UniRef100_A0A2Z6IGK5	TMhelix	173	190				
+UniRef100_A0A2Z6IGK5	inside	191	196				
+//
+# UniRef100_A0A2G6DDK7 Length: 706
+# UniRef100_A0A2G6DDK7 Number of predicted TMRs: 8
+UniRef100_A0A2G6DDK7	inside	1	104				
+UniRef100_A0A2G6DDK7	TMhelix	105	120				
+UniRef100_A0A2G6DDK7	outside	121	127				
+UniRef100_A0A2G6DDK7	TMhelix	128	141				
+UniRef100_A0A2G6DDK7	inside	142	152				
+UniRef100_A0A2G6DDK7	TMhelix	153	169				
+UniRef100_A0A2G6DDK7	outside	170	171				
+UniRef100_A0A2G6DDK7	TMhelix	172	188				
+UniRef100_A0A2G6DDK7	inside	189	320				
+UniRef100_A0A2G6DDK7	TMhelix	321	341				
+UniRef100_A0A2G6DDK7	outside	342	343				
+UniRef100_A0A2G6DDK7	TMhelix	344	364				
+UniRef100_A0A2G6DDK7	inside	365	656				
+UniRef100_A0A2G6DDK7	TMhelix	657	677				
+UniRef100_A0A2G6DDK7	outside	678	679				
+UniRef100_A0A2G6DDK7	TMhelix	680	701				
+UniRef100_A0A2G6DDK7	inside	702	706				
+//
+# UniRef100_A0A2P8QYZ5 Length: 718
+# UniRef100_A0A2P8QYZ5 Number of predicted TMRs: 8
+UniRef100_A0A2P8QYZ5	inside	1	113				
+UniRef100_A0A2P8QYZ5	TMhelix	114	129				
+UniRef100_A0A2P8QYZ5	outside	130	141				
+UniRef100_A0A2P8QYZ5	TMhelix	142	155				
+UniRef100_A0A2P8QYZ5	inside	156	173				
+UniRef100_A0A2P8QYZ5	TMhelix	174	186				
+UniRef100_A0A2P8QYZ5	outside	187	188				
+UniRef100_A0A2P8QYZ5	TMhelix	189	209				
+UniRef100_A0A2P8QYZ5	inside	210	338				
+UniRef100_A0A2P8QYZ5	TMhelix	339	352				
+UniRef100_A0A2P8QYZ5	outside	353	364				
+UniRef100_A0A2P8QYZ5	TMhelix	365	380				
+UniRef100_A0A2P8QYZ5	inside	381	671				
+UniRef100_A0A2P8QYZ5	TMhelix	672	688				
+UniRef100_A0A2P8QYZ5	outside	689	692				
+UniRef100_A0A2P8QYZ5	TMhelix	693	709				
+UniRef100_A0A2P8QYZ5	inside	710	718				
+//
+# UniRef100_S3XHF6 Length: 708
+# UniRef100_S3XHF6 Number of predicted TMRs: 8
+UniRef100_S3XHF6	inside	1	109				
+UniRef100_S3XHF6	TMhelix	110	122				
+UniRef100_S3XHF6	outside	123	136				
+UniRef100_S3XHF6	TMhelix	137	148				
+UniRef100_S3XHF6	inside	149	166				
+UniRef100_S3XHF6	TMhelix	167	179				
+UniRef100_S3XHF6	outside	180	181				
+UniRef100_S3XHF6	TMhelix	182	202				
+UniRef100_S3XHF6	inside	203	335				
+UniRef100_S3XHF6	TMhelix	336	345				
+UniRef100_S3XHF6	outside	346	357				
+UniRef100_S3XHF6	TMhelix	358	374				
+UniRef100_S3XHF6	inside	375	663				
+UniRef100_S3XHF6	TMhelix	664	680				
+UniRef100_S3XHF6	outside	681	684				
+UniRef100_S3XHF6	TMhelix	685	700				
+UniRef100_S3XHF6	inside	701	708				
+//
+# UniRef100_A0A095XU02 Length: 125
+# UniRef100_A0A095XU02 Number of predicted TMRs: 0
+UniRef100_A0A095XU02	inside	1	125				
+//
+# UniRef100_A0A7X2M0X4 Length: 180
+# UniRef100_A0A7X2M0X4 Number of predicted TMRs: 0
+UniRef100_A0A7X2M0X4	inside	1	180				
+//
+# UniRef100_A0A7Y2UNC0 Length: 140
+# UniRef100_A0A7Y2UNC0 Number of predicted TMRs: 0
+UniRef100_A0A7Y2UNC0	inside	1	140				
+//
+# UniRef100_A0A0F2J518 Length: 153
+# UniRef100_A0A0F2J518 Number of predicted TMRs: 0
+UniRef100_A0A0F2J518	inside	1	153				
+//
+# UniRef100_A0A1T4W0S7 Length: 221
+# UniRef100_A0A1T4W0S7 Number of predicted TMRs: 0
+UniRef100_A0A1T4W0S7	inside	1	221				
+//
+# UniRef100_A0A1H0TUD5 Length: 216
+# UniRef100_A0A1H0TUD5 Number of predicted TMRs: 0
+UniRef100_A0A1H0TUD5	inside	1	216				
+//
+# UniRef100_A0A2U3JXY9 Length: 168
+# UniRef100_A0A2U3JXY9 Number of predicted TMRs: 0
+UniRef100_A0A2U3JXY9	inside	1	168				
+//
+# UniRef100_B8IRK8 Length: 153
+# UniRef100_B8IRK8 Number of predicted TMRs: 0
+UniRef100_B8IRK8	inside	1	153				
+//
+# UniRef100_C7RME3 Length: 813
+# UniRef100_C7RME3 Number of predicted TMRs: 8
+UniRef100_C7RME3	inside	1	190				
+UniRef100_C7RME3	TMhelix	191	209				
+UniRef100_C7RME3	outside	210	215				
+UniRef100_C7RME3	TMhelix	216	238				
+UniRef100_C7RME3	inside	239	249				
+UniRef100_C7RME3	TMhelix	250	268				
+UniRef100_C7RME3	outside	269	274				
+UniRef100_C7RME3	TMhelix	275	292				
+UniRef100_C7RME3	inside	293	427				
+UniRef100_C7RME3	TMhelix	428	448				
+UniRef100_C7RME3	outside	449	454				
+UniRef100_C7RME3	TMhelix	455	472				
+UniRef100_C7RME3	inside	473	767				
+UniRef100_C7RME3	TMhelix	768	784				
+UniRef100_C7RME3	outside	785	789				
+UniRef100_C7RME3	TMhelix	790	808				
+UniRef100_C7RME3	inside	809	813				
+//
+# UniRef100_A0A2E6QPR2 Length: 997
+# UniRef100_A0A2E6QPR2 Number of predicted TMRs: 10
+UniRef100_A0A2E6QPR2	inside	1	156				
+UniRef100_A0A2E6QPR2	TMhelix	157	175				
+UniRef100_A0A2E6QPR2	outside	176	177				
+UniRef100_A0A2E6QPR2	TMhelix	178	198				
+UniRef100_A0A2E6QPR2	inside	199	341				
+UniRef100_A0A2E6QPR2	TMhelix	342	362				
+UniRef100_A0A2E6QPR2	outside	363	371				
+UniRef100_A0A2E6QPR2	TMhelix	372	390				
+UniRef100_A0A2E6QPR2	inside	391	775				
+UniRef100_A0A2E6QPR2	TMhelix	776	797				
+UniRef100_A0A2E6QPR2	outside	798	803				
+UniRef100_A0A2E6QPR2	TMhelix	804	825				
+UniRef100_A0A2E6QPR2	inside	826	848				
+UniRef100_A0A2E6QPR2	TMhelix	849	869				
+UniRef100_A0A2E6QPR2	outside	870	880				
+UniRef100_A0A2E6QPR2	TMhelix	881	901				
+UniRef100_A0A2E6QPR2	inside	902	915				
+UniRef100_A0A2E6QPR2	TMhelix	916	936				
+UniRef100_A0A2E6QPR2	outside	937	949				
+UniRef100_A0A2E6QPR2	TMhelix	950	969				
+UniRef100_A0A2E6QPR2	inside	970	997				
+//
+# UniRef100_A0A7C9JB03 Length: 1005
+# UniRef100_A0A7C9JB03 Number of predicted TMRs: 10
+UniRef100_A0A7C9JB03	inside	1	164				
+UniRef100_A0A7C9JB03	TMhelix	165	181				
+UniRef100_A0A7C9JB03	outside	182	184				
+UniRef100_A0A7C9JB03	TMhelix	185	204				
+UniRef100_A0A7C9JB03	inside	205	350				
+UniRef100_A0A7C9JB03	TMhelix	351	367				
+UniRef100_A0A7C9JB03	outside	368	383				
+UniRef100_A0A7C9JB03	TMhelix	384	397				
+UniRef100_A0A7C9JB03	inside	398	793				
+UniRef100_A0A7C9JB03	TMhelix	794	814				
+UniRef100_A0A7C9JB03	outside	815	822				
+UniRef100_A0A7C9JB03	TMhelix	823	843				
+UniRef100_A0A7C9JB03	inside	844	870				
+UniRef100_A0A7C9JB03	TMhelix	871	891				
+UniRef100_A0A7C9JB03	outside	892	900				
+UniRef100_A0A7C9JB03	TMhelix	901	917				
+UniRef100_A0A7C9JB03	inside	918	928				
+UniRef100_A0A7C9JB03	TMhelix	929	944				
+UniRef100_A0A7C9JB03	outside	945	962				
+UniRef100_A0A7C9JB03	TMhelix	963	977				
+UniRef100_A0A7C9JB03	inside	978	1005				
+//
+# UniRef100_K9YF95 Length: 987
+# UniRef100_K9YF95 Number of predicted TMRs: 10
+UniRef100_K9YF95	inside	1	156				
+UniRef100_K9YF95	TMhelix	157	172				
+UniRef100_K9YF95	outside	173	175				
+UniRef100_K9YF95	TMhelix	176	196				
+UniRef100_K9YF95	inside	197	340				
+UniRef100_K9YF95	TMhelix	341	358				
+UniRef100_K9YF95	outside	359	372				
+UniRef100_K9YF95	TMhelix	373	388				
+UniRef100_K9YF95	inside	389	784				
+UniRef100_K9YF95	TMhelix	785	805				
+UniRef100_K9YF95	outside	806	813				
+UniRef100_K9YF95	TMhelix	814	832				
+UniRef100_K9YF95	inside	833	860				
+UniRef100_K9YF95	TMhelix	861	881				
+UniRef100_K9YF95	outside	882	890				
+UniRef100_K9YF95	TMhelix	891	908				
+UniRef100_K9YF95	inside	909	926				
+UniRef100_K9YF95	TMhelix	927	944				
+UniRef100_K9YF95	outside	945	961				
+UniRef100_K9YF95	TMhelix	962	977				
+UniRef100_K9YF95	inside	978	987				
+//
+# UniRef100_A0A3B9K9P8 Length: 448
+# UniRef100_A0A3B9K9P8 Number of predicted TMRs: 0
+UniRef100_A0A3B9K9P8	inside	1	448				
+//
+# UniRef100_A0A845R8M2 Length: 107
+# UniRef100_A0A845R8M2 Number of predicted TMRs: 0
+UniRef100_A0A845R8M2	inside	1	107				
+//
+# UniRef100_B9E3D7 Length: 437
+# UniRef100_B9E3D7 Number of predicted TMRs: 2
+UniRef100_B9E3D7	inside	1	370				
+UniRef100_B9E3D7	TMhelix	371	385				
+UniRef100_B9E3D7	outside	386	392				
+UniRef100_B9E3D7	TMhelix	393	408				
+UniRef100_B9E3D7	inside	409	437				
+//
+# UniRef100_A0A2U3JXM1 Length: 135
+# UniRef100_A0A2U3JXM1 Number of predicted TMRs: 0
+UniRef100_A0A2U3JXM1	inside	1	135				
+//
+# UniRef100_A0A177N0G5 Length: 204
+# UniRef100_A0A177N0G5 Number of predicted TMRs: 0
+UniRef100_A0A177N0G5	inside	1	204				
+//
+# UniRef100_A0A833GQF9 Length: 196
+# UniRef100_A0A833GQF9 Number of predicted TMRs: 2
+UniRef100_A0A833GQF9	inside	1	143				
+UniRef100_A0A833GQF9	TMhelix	144	164				
+UniRef100_A0A833GQF9	outside	165	177				
+UniRef100_A0A833GQF9	TMhelix	178	190				
+UniRef100_A0A833GQF9	inside	191	196				
+//
+# UniRef100_A0A0H4WM09 Length: 679
+# UniRef100_A0A0H4WM09 Number of predicted TMRs: 6
+UniRef100_A0A0H4WM09	inside	1	117				
+UniRef100_A0A0H4WM09	TMhelix	118	133				
+UniRef100_A0A0H4WM09	outside	134	166				
+UniRef100_A0A0H4WM09	TMhelix	167	178				
+UniRef100_A0A0H4WM09	inside	179	239				
+UniRef100_A0A0H4WM09	TMhelix	240	258				
+UniRef100_A0A0H4WM09	outside	259	262				
+UniRef100_A0A0H4WM09	TMhelix	263	283				
+UniRef100_A0A0H4WM09	inside	284	350				
+UniRef100_A0A0H4WM09	TMhelix	351	368				
+UniRef100_A0A0H4WM09	outside	369	383				
+UniRef100_A0A0H4WM09	TMhelix	384	399				
+UniRef100_A0A0H4WM09	inside	400	679				
+//
+# UniRef100_A0A7V8NHJ8 Length: 837
+# UniRef100_A0A7V8NHJ8 Number of predicted TMRs: 6
+UniRef100_A0A7V8NHJ8	inside	1	218				
+UniRef100_A0A7V8NHJ8	TMhelix	219	236				
+UniRef100_A0A7V8NHJ8	outside	237	269				
+UniRef100_A0A7V8NHJ8	TMhelix	270	287				
+UniRef100_A0A7V8NHJ8	inside	288	344				
+UniRef100_A0A7V8NHJ8	TMhelix	345	365				
+UniRef100_A0A7V8NHJ8	outside	366	368				
+UniRef100_A0A7V8NHJ8	TMhelix	369	387				
+UniRef100_A0A7V8NHJ8	inside	388	458				
+UniRef100_A0A7V8NHJ8	TMhelix	459	470				
+UniRef100_A0A7V8NHJ8	outside	471	489				
+UniRef100_A0A7V8NHJ8	TMhelix	490	507				
+UniRef100_A0A7V8NHJ8	inside	508	837				
+//
+# UniRef100_A0A4P6L982 Length: 720
+# UniRef100_A0A4P6L982 Number of predicted TMRs: 2
+UniRef100_A0A4P6L982	inside	1	651				
+UniRef100_A0A4P6L982	TMhelix	652	668				
+UniRef100_A0A4P6L982	outside	669	676				
+UniRef100_A0A4P6L982	TMhelix	677	695				
+UniRef100_A0A4P6L982	inside	696	720				
+//
+# UniRef100_A0A1C5CQR0 Length: 134
+# UniRef100_A0A1C5CQR0 Number of predicted TMRs: 0
+UniRef100_A0A1C5CQR0	inside	1	134				
+//
+# UniRef100_A0A4Q0MTM2 Length: 984
+# UniRef100_A0A4Q0MTM2 Number of predicted TMRs: 4
+UniRef100_A0A4Q0MTM2	inside	1	266				
+UniRef100_A0A4Q0MTM2	TMhelix	267	279				
+UniRef100_A0A4Q0MTM2	outside	280	283				
+UniRef100_A0A4Q0MTM2	TMhelix	284	302				
+UniRef100_A0A4Q0MTM2	inside	303	766				
+UniRef100_A0A4Q0MTM2	TMhelix	767	784				
+UniRef100_A0A4Q0MTM2	outside	785	790				
+UniRef100_A0A4Q0MTM2	TMhelix	791	806				
+UniRef100_A0A4Q0MTM2	inside	807	984				
+//
+# UniRef100_K8GFC2 Length: 200
+# UniRef100_K8GFC2 Number of predicted TMRs: 0
+UniRef100_K8GFC2	inside	1	200				
+//
+# UniRef100_A0A350XDQ8 Length: 334
+# UniRef100_A0A350XDQ8 Number of predicted TMRs: 0
+UniRef100_A0A350XDQ8	inside	1	334				
+//
+# UniRef100_A0A1U7I503 Length: 395
+# UniRef100_A0A1U7I503 Number of predicted TMRs: 0
+UniRef100_A0A1U7I503	inside	1	395				
+//
+# UniRef100_A0A2G6L6E8 Length: 137
+# UniRef100_A0A2G6L6E8 Number of predicted TMRs: 1
+UniRef100_A0A2G6L6E8	inside	1	113				
+UniRef100_A0A2G6L6E8	TMhelix	114	129				
+UniRef100_A0A2G6L6E8	outside	130	137				
+//
+# UniRef100_B8EIK7 Length: 101
+# UniRef100_B8EIK7 Number of predicted TMRs: 0
+UniRef100_B8EIK7	inside	1	101				
+//
+# UniRef100_A0A4R3KF44 Length: 160
+# UniRef100_A0A4R3KF44 Number of predicted TMRs: 0
+UniRef100_A0A4R3KF44	inside	1	160				
+//
+# UniRef100_H5Y3X1 Length: 124
+# UniRef100_H5Y3X1 Number of predicted TMRs: 0
+UniRef100_H5Y3X1	inside	1	124				
+//
+# UniRef100_H3KBX1 Length: 229
+# UniRef100_H3KBX1 Number of predicted TMRs: 2
+UniRef100_H3KBX1	inside	1	183				
+UniRef100_H3KBX1	TMhelix	184	200				
+UniRef100_H3KBX1	outside	201	204				
+UniRef100_H3KBX1	TMhelix	205	223				
+UniRef100_H3KBX1	inside	224	229				
+//
+# UniRef100_A0A651FB57 Length: 139
+# UniRef100_A0A651FB57 Number of predicted TMRs: 2
+UniRef100_A0A651FB57	inside	1	90				
+UniRef100_A0A651FB57	TMhelix	91	109				
+UniRef100_A0A651FB57	outside	110	113				
+UniRef100_A0A651FB57	TMhelix	114	132				
+UniRef100_A0A651FB57	inside	133	139				
+//
+# UniRef100_A0A7C9N8K1 Length: 91
+# UniRef100_A0A7C9N8K1 Number of predicted TMRs: 0
+UniRef100_A0A7C9N8K1	inside	1	91				
+//
+# UniRef100_A0A329EI42 Length: 104
+# UniRef100_A0A329EI42 Number of predicted TMRs: 0
+UniRef100_A0A329EI42	inside	1	104				
+//
+# UniRef100_A0A0U1NTS6 Length: 179
+# UniRef100_A0A0U1NTS6 Number of predicted TMRs: 0
+UniRef100_A0A0U1NTS6	inside	1	179				
+//
+# UniRef100_C6JML8 Length: 164
+# UniRef100_C6JML8 Number of predicted TMRs: 0
+UniRef100_C6JML8	inside	1	164				
+//
+# UniRef100_H3K4P7 Length: 207
+# UniRef100_H3K4P7 Number of predicted TMRs: 0
+UniRef100_H3K4P7	inside	1	207				
+//
+# UniRef100_A0A7Y3EY69 Length: 276
+# UniRef100_A0A7Y3EY69 Number of predicted TMRs: 0
+UniRef100_A0A7Y3EY69	inside	1	276				
+//
+# UniRef100_A0A1Y3A2N4 Length: 816
+# UniRef100_A0A1Y3A2N4 Number of predicted TMRs: 8
+UniRef100_A0A1Y3A2N4	inside	1	193				
+UniRef100_A0A1Y3A2N4	TMhelix	194	211				
+UniRef100_A0A1Y3A2N4	outside	212	218				
+UniRef100_A0A1Y3A2N4	TMhelix	219	241				
+UniRef100_A0A1Y3A2N4	inside	242	252				
+UniRef100_A0A1Y3A2N4	TMhelix	253	271				
+UniRef100_A0A1Y3A2N4	outside	272	278				
+UniRef100_A0A1Y3A2N4	TMhelix	279	295				
+UniRef100_A0A1Y3A2N4	inside	296	430				
+UniRef100_A0A1Y3A2N4	TMhelix	431	451				
+UniRef100_A0A1Y3A2N4	outside	452	454				
+UniRef100_A0A1Y3A2N4	TMhelix	455	475				
+UniRef100_A0A1Y3A2N4	inside	476	770				
+UniRef100_A0A1Y3A2N4	TMhelix	771	790				
+UniRef100_A0A1Y3A2N4	outside	791	792				
+UniRef100_A0A1Y3A2N4	TMhelix	793	811				
+UniRef100_A0A1Y3A2N4	inside	812	816				
+//
+# UniRef100_A0A1M3N6C8 Length: 985
+# UniRef100_A0A1M3N6C8 Number of predicted TMRs: 10
+UniRef100_A0A1M3N6C8	inside	1	132				
+UniRef100_A0A1M3N6C8	TMhelix	133	158				
+UniRef100_A0A1M3N6C8	outside	159	161				
+UniRef100_A0A1M3N6C8	TMhelix	162	180				
+UniRef100_A0A1M3N6C8	inside	181	320				
+UniRef100_A0A1M3N6C8	TMhelix	321	341				
+UniRef100_A0A1M3N6C8	outside	342	353				
+UniRef100_A0A1M3N6C8	TMhelix	354	372				
+UniRef100_A0A1M3N6C8	inside	373	773				
+UniRef100_A0A1M3N6C8	TMhelix	774	795				
+UniRef100_A0A1M3N6C8	outside	796	802				
+UniRef100_A0A1M3N6C8	TMhelix	803	823				
+UniRef100_A0A1M3N6C8	inside	824	844				
+UniRef100_A0A1M3N6C8	TMhelix	845	865				
+UniRef100_A0A1M3N6C8	outside	866	878				
+UniRef100_A0A1M3N6C8	TMhelix	879	899				
+UniRef100_A0A1M3N6C8	inside	900	913				
+UniRef100_A0A1M3N6C8	TMhelix	914	934				
+UniRef100_A0A1M3N6C8	outside	935	947				
+UniRef100_A0A1M3N6C8	TMhelix	948	968				
+UniRef100_A0A1M3N6C8	inside	969	985				
+//
+# UniRef100_A0A133MWE7 Length: 289
+# UniRef100_A0A133MWE7 Number of predicted TMRs: 0
+UniRef100_A0A133MWE7	inside	1	289				
+//
+# UniRef100_A0A1Q9HRW8 Length: 129
+# UniRef100_A0A1Q9HRW8 Number of predicted TMRs: 0
+UniRef100_A0A1Q9HRW8	inside	1	129				
+//
+# UniRef100_A0A011NFC2 Length: 223
+# UniRef100_A0A011NFC2 Number of predicted TMRs: 2
+UniRef100_A0A011NFC2	inside	1	167				
+UniRef100_A0A011NFC2	TMhelix	168	188				
+UniRef100_A0A011NFC2	outside	189	198				
+UniRef100_A0A011NFC2	TMhelix	199	214				
+UniRef100_A0A011NFC2	inside	215	223				
+//
+# UniRef100_A0A0J1FCK3 Length: 875
+# UniRef100_A0A0J1FCK3 Number of predicted TMRs: 8
+UniRef100_A0A0J1FCK3	inside	1	241				
+UniRef100_A0A0J1FCK3	TMhelix	242	259				
+UniRef100_A0A0J1FCK3	outside	260	268				
+UniRef100_A0A0J1FCK3	TMhelix	269	287				
+UniRef100_A0A0J1FCK3	inside	288	298				
+UniRef100_A0A0J1FCK3	TMhelix	299	315				
+UniRef100_A0A0J1FCK3	outside	316	318				
+UniRef100_A0A0J1FCK3	TMhelix	319	334				
+UniRef100_A0A0J1FCK3	inside	335	462				
+UniRef100_A0A0J1FCK3	TMhelix	463	483				
+UniRef100_A0A0J1FCK3	outside	484	488				
+UniRef100_A0A0J1FCK3	TMhelix	489	504				
+UniRef100_A0A0J1FCK3	inside	505	800				
+UniRef100_A0A0J1FCK3	TMhelix	801	821				
+UniRef100_A0A0J1FCK3	outside	822	822				
+UniRef100_A0A0J1FCK3	TMhelix	823	843				
+UniRef100_A0A0J1FCK3	inside	844	875				
+//
+# UniRef100_A0A838DHX5 Length: 326
+# UniRef100_A0A838DHX5 Number of predicted TMRs: 0
+UniRef100_A0A838DHX5	inside	1	326				
+//
+# UniRef100_A0A7Y4FMF1 Length: 120
+# UniRef100_A0A7Y4FMF1 Number of predicted TMRs: 0
+UniRef100_A0A7Y4FMF1	inside	1	120				
+//
+# UniRef100_A0A4R3PSR9 Length: 158
+# UniRef100_A0A4R3PSR9 Number of predicted TMRs: 0
+UniRef100_A0A4R3PSR9	inside	1	158				
+//
+# UniRef100_Q2YD29 Length: 170
+# UniRef100_Q2YD29 Number of predicted TMRs: 2
+UniRef100_Q2YD29	inside	1	112				
+UniRef100_Q2YD29	TMhelix	113	130				
+UniRef100_Q2YD29	outside	131	133				
+UniRef100_Q2YD29	TMhelix	134	149				
+UniRef100_Q2YD29	inside	150	170				
+//
+# UniRef100_A0A2G6MAJ0 Length: 748
+# UniRef100_A0A2G6MAJ0 Number of predicted TMRs: 8
+UniRef100_A0A2G6MAJ0	inside	1	130				
+UniRef100_A0A2G6MAJ0	TMhelix	131	143				
+UniRef100_A0A2G6MAJ0	outside	144	158				
+UniRef100_A0A2G6MAJ0	TMhelix	159	169				
+UniRef100_A0A2G6MAJ0	inside	170	188				
+UniRef100_A0A2G6MAJ0	TMhelix	189	201				
+UniRef100_A0A2G6MAJ0	outside	202	204				
+UniRef100_A0A2G6MAJ0	TMhelix	205	225				
+UniRef100_A0A2G6MAJ0	inside	226	353				
+UniRef100_A0A2G6MAJ0	TMhelix	354	365				
+UniRef100_A0A2G6MAJ0	outside	366	379				
+UniRef100_A0A2G6MAJ0	TMhelix	380	396				
+UniRef100_A0A2G6MAJ0	inside	397	692				
+UniRef100_A0A2G6MAJ0	TMhelix	693	709				
+UniRef100_A0A2G6MAJ0	outside	710	714				
+UniRef100_A0A2G6MAJ0	TMhelix	715	730				
+UniRef100_A0A2G6MAJ0	inside	731	748				
+//
+# UniRef100_A0A4Q1AQK5 Length: 717
+# UniRef100_A0A4Q1AQK5 Number of predicted TMRs: 8
+UniRef100_A0A4Q1AQK5	inside	1	106				
+UniRef100_A0A4Q1AQK5	TMhelix	107	127				
+UniRef100_A0A4Q1AQK5	outside	128	134				
+UniRef100_A0A4Q1AQK5	TMhelix	135	150				
+UniRef100_A0A4Q1AQK5	inside	151	162				
+UniRef100_A0A4Q1AQK5	TMhelix	163	179				
+UniRef100_A0A4Q1AQK5	outside	180	181				
+UniRef100_A0A4Q1AQK5	TMhelix	182	202				
+UniRef100_A0A4Q1AQK5	inside	203	331				
+UniRef100_A0A4Q1AQK5	TMhelix	332	351				
+UniRef100_A0A4Q1AQK5	outside	352	353				
+UniRef100_A0A4Q1AQK5	TMhelix	354	373				
+UniRef100_A0A4Q1AQK5	inside	374	665				
+UniRef100_A0A4Q1AQK5	TMhelix	666	686				
+UniRef100_A0A4Q1AQK5	outside	687	689				
+UniRef100_A0A4Q1AQK5	TMhelix	690	708				
+UniRef100_A0A4Q1AQK5	inside	709	717				
+//
+# UniRef100_A0A6P1ZMR0 Length: 730
+# UniRef100_A0A6P1ZMR0 Number of predicted TMRs: 8
+UniRef100_A0A6P1ZMR0	inside	1	114				
+UniRef100_A0A6P1ZMR0	TMhelix	115	130				
+UniRef100_A0A6P1ZMR0	outside	131	148				
+UniRef100_A0A6P1ZMR0	TMhelix	149	161				
+UniRef100_A0A6P1ZMR0	inside	162	176				
+UniRef100_A0A6P1ZMR0	TMhelix	177	189				
+UniRef100_A0A6P1ZMR0	outside	190	191				
+UniRef100_A0A6P1ZMR0	TMhelix	192	212				
+UniRef100_A0A6P1ZMR0	inside	213	341				
+UniRef100_A0A6P1ZMR0	TMhelix	342	353				
+UniRef100_A0A6P1ZMR0	outside	354	367				
+UniRef100_A0A6P1ZMR0	TMhelix	368	383				
+UniRef100_A0A6P1ZMR0	inside	384	677				
+UniRef100_A0A6P1ZMR0	TMhelix	678	694				
+UniRef100_A0A6P1ZMR0	outside	695	699				
+UniRef100_A0A6P1ZMR0	TMhelix	700	715				
+UniRef100_A0A6P1ZMR0	inside	716	730				
+//
+# UniRef100_D7DWV2 Length: 210
+# UniRef100_D7DWV2 Number of predicted TMRs: 0
+UniRef100_D7DWV2	inside	1	210				
+//
+# UniRef100_A0A0W8G5B3 Length: 100
+# UniRef100_A0A0W8G5B3 Number of predicted TMRs: 0
+UniRef100_A0A0W8G5B3	inside	1	100				
+//
+# UniRef100_A0A1M3M047 Length: 108
+# UniRef100_A0A1M3M047 Number of predicted TMRs: 0
+UniRef100_A0A1M3M047	inside	1	108				
+//
+# UniRef100_A0A2C6DUH2 Length: 110
+# UniRef100_A0A2C6DUH2 Number of predicted TMRs: 0
+UniRef100_A0A2C6DUH2	inside	1	110				
+//
+# UniRef100_A0A2U1W152 Length: 106
+# UniRef100_A0A2U1W152 Number of predicted TMRs: 0
+UniRef100_A0A2U1W152	inside	1	106				
+//
+# UniRef100_A0A443JGD4 Length: 107
+# UniRef100_A0A443JGD4 Number of predicted TMRs: 0
+UniRef100_A0A443JGD4	inside	1	107				
+//
+# UniRef100_A0A525BXK5 Length: 114
+# UniRef100_A0A525BXK5 Number of predicted TMRs: 0
+UniRef100_A0A525BXK5	inside	1	114				
+//
+# UniRef100_A0A6A8QBT4 Length: 121
+# UniRef100_A0A6A8QBT4 Number of predicted TMRs: 0
+UniRef100_A0A6A8QBT4	inside	1	121				
+//
+# UniRef100_A0A7M3MER0 Length: 100
+# UniRef100_A0A7M3MER0 Number of predicted TMRs: 0
+UniRef100_A0A7M3MER0	inside	1	100				
+//
+# UniRef100_A0A840GKN2 Length: 128
+# UniRef100_A0A840GKN2 Number of predicted TMRs: 0
+UniRef100_A0A840GKN2	inside	1	128				
+//
+# UniRef100_H8FVQ3 Length: 120
+# UniRef100_H8FVQ3 Number of predicted TMRs: 0
+UniRef100_H8FVQ3	inside	1	120				
+//
+# UniRef100_A0A1M7UEN5 Length: 195
+# UniRef100_A0A1M7UEN5 Number of predicted TMRs: 0
+UniRef100_A0A1M7UEN5	inside	1	195				
+//
+# UniRef100_A0A4R1BEJ0 Length: 115
+# UniRef100_A0A4R1BEJ0 Number of predicted TMRs: 0
+UniRef100_A0A4R1BEJ0	inside	1	115				
+//
+# UniRef100_A0A2V6Q1W4 Length: 168
+# UniRef100_A0A2V6Q1W4 Number of predicted TMRs: 0
+UniRef100_A0A2V6Q1W4	inside	1	168				
+//
+# UniRef100_A0A329ZW13 Length: 105
+# UniRef100_A0A329ZW13 Number of predicted TMRs: 0
+UniRef100_A0A329ZW13	inside	1	105				
+//
+# UniRef100_I0GMG1 Length: 162
+# UniRef100_I0GMG1 Number of predicted TMRs: 0
+UniRef100_I0GMG1	inside	1	162				
+//
+# UniRef100_A0A085HP82 Length: 122
+# UniRef100_A0A085HP82 Number of predicted TMRs: 0
+UniRef100_A0A085HP82	inside	1	122				
+//
+# UniRef100_E2ZBQ1 Length: 206
+# UniRef100_E2ZBQ1 Number of predicted TMRs: 0
+UniRef100_E2ZBQ1	inside	1	206				
+//
+# UniRef100_A0A3A5ASG5 Length: 1013
+# UniRef100_A0A3A5ASG5 Number of predicted TMRs: 10
+UniRef100_A0A3A5ASG5	inside	1	179				
+UniRef100_A0A3A5ASG5	TMhelix	180	198				
+UniRef100_A0A3A5ASG5	outside	199	200				
+UniRef100_A0A3A5ASG5	TMhelix	201	221				
+UniRef100_A0A3A5ASG5	inside	222	364				
+UniRef100_A0A3A5ASG5	TMhelix	365	385				
+UniRef100_A0A3A5ASG5	outside	386	393				
+UniRef100_A0A3A5ASG5	TMhelix	394	412				
+UniRef100_A0A3A5ASG5	inside	413	810				
+UniRef100_A0A3A5ASG5	TMhelix	811	832				
+UniRef100_A0A3A5ASG5	outside	833	839				
+UniRef100_A0A3A5ASG5	TMhelix	840	860				
+UniRef100_A0A3A5ASG5	inside	861	883				
+UniRef100_A0A3A5ASG5	TMhelix	884	904				
+UniRef100_A0A3A5ASG5	outside	905	915				
+UniRef100_A0A3A5ASG5	TMhelix	916	936				
+UniRef100_A0A3A5ASG5	inside	937	952				
+UniRef100_A0A3A5ASG5	TMhelix	953	974				
+UniRef100_A0A3A5ASG5	outside	975	984				
+UniRef100_A0A3A5ASG5	TMhelix	985	1005				
+UniRef100_A0A3A5ASG5	inside	1006	1013				
+//
+# UniRef100_A0A7V4G6I3 Length: 92
+# UniRef100_A0A7V4G6I3 Number of predicted TMRs: 0
+UniRef100_A0A7V4G6I3	inside	1	92				
+//
+# UniRef100_Q72EI8 Length: 134
+# UniRef100_Q72EI8 Number of predicted TMRs: 0
+UniRef100_Q72EI8	inside	1	134				
+//
+# UniRef100_A0A1C5ELP3 Length: 435
+# UniRef100_A0A1C5ELP3 Number of predicted TMRs: 0
+UniRef100_A0A1C5ELP3	inside	1	435				
+//
+# UniRef100_A0A851IRV9 Length: 161
+# UniRef100_A0A851IRV9 Number of predicted TMRs: 0
+UniRef100_A0A851IRV9	inside	1	161				
+//
+# UniRef100_X8HQE8 Length: 165
+# UniRef100_X8HQE8 Number of predicted TMRs: 0
+UniRef100_X8HQE8	inside	1	165				
+//
+# UniRef100_A0A351B1T5 Length: 196
+# UniRef100_A0A351B1T5 Number of predicted TMRs: 0
+UniRef100_A0A351B1T5	inside	1	196				
+//
+# UniRef100_A0A7V6A2I2 Length: 219
+# UniRef100_A0A7V6A2I2 Number of predicted TMRs: 0
+UniRef100_A0A7V6A2I2	inside	1	219				
+//
+# UniRef100_A0A1G9U063 Length: 162
+# UniRef100_A0A1G9U063 Number of predicted TMRs: 0
+UniRef100_A0A1G9U063	inside	1	162				
+//
+# UniRef100_C9N0P5 Length: 123
+# UniRef100_C9N0P5 Number of predicted TMRs: 0
+UniRef100_C9N0P5	inside	1	123				
+//
+# UniRef100_A0A366XT82 Length: 198
+# UniRef100_A0A366XT82 Number of predicted TMRs: 0
+UniRef100_A0A366XT82	inside	1	198				
+//
+# UniRef100_A0A0A5GCY4 Length: 177
+# UniRef100_A0A0A5GCY4 Number of predicted TMRs: 0
+UniRef100_A0A0A5GCY4	inside	1	177				
+//
+# UniRef100_A0A348YNR4 Length: 212
+# UniRef100_A0A348YNR4 Number of predicted TMRs: 0
+UniRef100_A0A348YNR4	inside	1	212				
+//
+# UniRef100_G9WQM1 Length: 150
+# UniRef100_G9WQM1 Number of predicted TMRs: 0
+UniRef100_G9WQM1	inside	1	150				
+//
+# UniRef100_A0A6H3FAW4 Length: 178
+# UniRef100_A0A6H3FAW4 Number of predicted TMRs: 0
+UniRef100_A0A6H3FAW4	inside	1	178				
+//
+# UniRef100_A0A5N0IP28 Length: 716
+# UniRef100_A0A5N0IP28 Number of predicted TMRs: 8
+UniRef100_A0A5N0IP28	inside	1	101				
+UniRef100_A0A5N0IP28	TMhelix	102	122				
+UniRef100_A0A5N0IP28	outside	123	131				
+UniRef100_A0A5N0IP28	TMhelix	132	152				
+UniRef100_A0A5N0IP28	inside	153	159				
+UniRef100_A0A5N0IP28	TMhelix	160	176				
+UniRef100_A0A5N0IP28	outside	177	179				
+UniRef100_A0A5N0IP28	TMhelix	180	195				
+UniRef100_A0A5N0IP28	inside	196	333				
+UniRef100_A0A5N0IP28	TMhelix	334	349				
+UniRef100_A0A5N0IP28	outside	350	354				
+UniRef100_A0A5N0IP28	TMhelix	355	370				
+UniRef100_A0A5N0IP28	inside	371	662				
+UniRef100_A0A5N0IP28	TMhelix	663	687				
+UniRef100_A0A5N0IP28	outside	688	688				
+UniRef100_A0A5N0IP28	TMhelix	689	711				
+UniRef100_A0A5N0IP28	inside	712	716				
+//
+# UniRef100_A0A1B7XLA4 Length: 102
+# UniRef100_A0A1B7XLA4 Number of predicted TMRs: 0
+UniRef100_A0A1B7XLA4	inside	1	102				
+//
+# UniRef100_A0A3M1BKK3 Length: 124
+# UniRef100_A0A3M1BKK3 Number of predicted TMRs: 0
+UniRef100_A0A3M1BKK3	inside	1	124				
+//
+# UniRef100_A0A1H6H314 Length: 120
+# UniRef100_A0A1H6H314 Number of predicted TMRs: 0
+UniRef100_A0A1H6H314	inside	1	120				
+//
+# UniRef100_A0A2S6MX75 Length: 105
+# UniRef100_A0A2S6MX75 Number of predicted TMRs: 0
+UniRef100_A0A2S6MX75	inside	1	105				
+//
+# UniRef100_A0A4Q9D0F5 Length: 110
+# UniRef100_A0A4Q9D0F5 Number of predicted TMRs: 0
+UniRef100_A0A4Q9D0F5	inside	1	110				
+//
+# UniRef100_H8GGU8 Length: 113
+# UniRef100_H8GGU8 Number of predicted TMRs: 0
+UniRef100_H8GGU8	inside	1	113				
+//
+# UniRef100_A0A173Y789 Length: 188
+# UniRef100_A0A173Y789 Number of predicted TMRs: 0
+UniRef100_A0A173Y789	inside	1	188				
+//
+# UniRef100_A0A1A6FH75 Length: 125
+# UniRef100_A0A1A6FH75 Number of predicted TMRs: 0
+UniRef100_A0A1A6FH75	inside	1	125				
+//
+# UniRef100_A0A1H6HD08 Length: 99
+# UniRef100_A0A1H6HD08 Number of predicted TMRs: 0
+UniRef100_A0A1H6HD08	inside	1	99				
+//
+# UniRef100_A0A517DZX3 Length: 174
+# UniRef100_A0A517DZX3 Number of predicted TMRs: 0
+UniRef100_A0A517DZX3	inside	1	174				
+//
+# UniRef100_A0A4Q6CNV8 Length: 114
+# UniRef100_A0A4Q6CNV8 Number of predicted TMRs: 0
+UniRef100_A0A4Q6CNV8	inside	1	114				
+//
+# UniRef100_R5X3X2 Length: 125
+# UniRef100_R5X3X2 Number of predicted TMRs: 0
+UniRef100_R5X3X2	inside	1	125				
+//
+# UniRef100_A0A353S9Q1 Length: 111
+# UniRef100_A0A353S9Q1 Number of predicted TMRs: 0
+UniRef100_A0A353S9Q1	inside	1	111				
+//
+# UniRef100_A0A1E5L599 Length: 181
+# UniRef100_A0A1E5L599 Number of predicted TMRs: 0
+UniRef100_A0A1E5L599	inside	1	181				
+//
+# UniRef100_A0A2N5GYD3 Length: 174
+# UniRef100_A0A2N5GYD3 Number of predicted TMRs: 0
+UniRef100_A0A2N5GYD3	inside	1	174				
+//
+# UniRef100_W1SAE0 Length: 179
+# UniRef100_W1SAE0 Number of predicted TMRs: 0
+UniRef100_W1SAE0	inside	1	179				
+//
+# UniRef100_I3XY67 Length: 105
+# UniRef100_I3XY67 Number of predicted TMRs: 0
+UniRef100_I3XY67	inside	1	105				
+//
+# UniRef100_E0E4T9 Length: 125
+# UniRef100_E0E4T9 Number of predicted TMRs: 0
+UniRef100_E0E4T9	inside	1	125				
+//
+# UniRef100_A0A0R1MDS8 Length: 179
+# UniRef100_A0A0R1MDS8 Number of predicted TMRs: 0
+UniRef100_A0A0R1MDS8	inside	1	179				
+//
+# UniRef100_A0A1G7SH27 Length: 161
+# UniRef100_A0A1G7SH27 Number of predicted TMRs: 0
+UniRef100_A0A1G7SH27	inside	1	161				
+//
+# UniRef100_L0H046 Length: 107
+# UniRef100_L0H046 Number of predicted TMRs: 0
+UniRef100_L0H046	inside	1	107				
+//
+# UniRef100_A0A2G6MZ28 Length: 114
+# UniRef100_A0A2G6MZ28 Number of predicted TMRs: 0
+UniRef100_A0A2G6MZ28	inside	1	114				
+//
+# UniRef100_A0A318JWS4 Length: 764
+# UniRef100_A0A318JWS4 Number of predicted TMRs: 6
+UniRef100_A0A318JWS4	inside	1	193				
+UniRef100_A0A318JWS4	TMhelix	194	214				
+UniRef100_A0A318JWS4	outside	215	243				
+UniRef100_A0A318JWS4	TMhelix	244	264				
+UniRef100_A0A318JWS4	inside	265	319				
+UniRef100_A0A318JWS4	TMhelix	320	339				
+UniRef100_A0A318JWS4	outside	340	344				
+UniRef100_A0A318JWS4	TMhelix	345	364				
+UniRef100_A0A318JWS4	inside	365	427				
+UniRef100_A0A318JWS4	TMhelix	428	448				
+UniRef100_A0A318JWS4	outside	449	463				
+UniRef100_A0A318JWS4	TMhelix	464	479				
+UniRef100_A0A318JWS4	inside	480	764				
+//
+# UniRef100_A0A2N9YA11 Length: 125
+# UniRef100_A0A2N9YA11 Number of predicted TMRs: 0
+UniRef100_A0A2N9YA11	inside	1	125				
+//
+# UniRef100_A0A1V3WJZ9 Length: 107
+# UniRef100_A0A1V3WJZ9 Number of predicted TMRs: 0
+UniRef100_A0A1V3WJZ9	inside	1	107				
+//
+# UniRef100_A0A1V2YH07 Length: 126
+# UniRef100_A0A1V2YH07 Number of predicted TMRs: 0
+UniRef100_A0A1V2YH07	inside	1	126				
+//
+# UniRef100_A0A2D3WFL3 Length: 105
+# UniRef100_A0A2D3WFL3 Number of predicted TMRs: 0
+UniRef100_A0A2D3WFL3	inside	1	105				
+//
+# UniRef100_A0A2N6FYY6 Length: 104
+# UniRef100_A0A2N6FYY6 Number of predicted TMRs: 0
+UniRef100_A0A2N6FYY6	inside	1	104				
+//
+# UniRef100_A0A363D422 Length: 105
+# UniRef100_A0A363D422 Number of predicted TMRs: 0
+UniRef100_A0A363D422	inside	1	105				
+//
+# UniRef100_A0A377Q0I8 Length: 119
+# UniRef100_A0A377Q0I8 Number of predicted TMRs: 0
+UniRef100_A0A377Q0I8	inside	1	119				
+//
+# UniRef100_A0A4Q0YBD9 Length: 104
+# UniRef100_A0A4Q0YBD9 Number of predicted TMRs: 0
+UniRef100_A0A4Q0YBD9	inside	1	104				
+//
+# UniRef100_A0A4U8SC96 Length: 121
+# UniRef100_A0A4U8SC96 Number of predicted TMRs: 0
+UniRef100_A0A4U8SC96	inside	1	121				
+//
+# UniRef100_A0A6G5R469 Length: 112
+# UniRef100_A0A6G5R469 Number of predicted TMRs: 0
+UniRef100_A0A6G5R469	inside	1	112				
+//
+# UniRef100_C8PIS1 Length: 113
+# UniRef100_C8PIS1 Number of predicted TMRs: 0
+UniRef100_C8PIS1	inside	1	113				
+//
+# UniRef100_Q7MR87 Length: 107
+# UniRef100_Q7MR87 Number of predicted TMRs: 0
+UniRef100_Q7MR87	inside	1	107				
+//
+# UniRef100_A0A4R3PQS8 Length: 203
+# UniRef100_A0A4R3PQS8 Number of predicted TMRs: 0
+UniRef100_A0A4R3PQS8	inside	1	203				
+//
+# UniRef100_A0A402BNS1 Length: 175
+# UniRef100_A0A402BNS1 Number of predicted TMRs: 0
+UniRef100_A0A402BNS1	inside	1	175				
+//
+# UniRef100_A0A351QCS6 Length: 100
+# UniRef100_A0A351QCS6 Number of predicted TMRs: 0
+UniRef100_A0A351QCS6	inside	1	100				
+//
+# UniRef100_A0A1M4XA72 Length: 285
+# UniRef100_A0A1M4XA72 Number of predicted TMRs: 0
+UniRef100_A0A1M4XA72	inside	1	285				
+//
+# UniRef100_G9YJT2 Length: 171
+# UniRef100_G9YJT2 Number of predicted TMRs: 0
+UniRef100_G9YJT2	inside	1	171				
+//
+# UniRef100_A0A095ZX86 Length: 288
+# UniRef100_A0A095ZX86 Number of predicted TMRs: 0
+UniRef100_A0A095ZX86	inside	1	288				
+//
+# UniRef100_A0A133MWD3 Length: 124
+# UniRef100_A0A133MWD3 Number of predicted TMRs: 0
+UniRef100_A0A133MWD3	inside	1	124				
+//
+# UniRef100_A0A524AZG9 Length: 808
+# UniRef100_A0A524AZG9 Number of predicted TMRs: 8
+UniRef100_A0A524AZG9	inside	1	185				
+UniRef100_A0A524AZG9	TMhelix	186	203				
+UniRef100_A0A524AZG9	outside	204	208				
+UniRef100_A0A524AZG9	TMhelix	209	229				
+UniRef100_A0A524AZG9	inside	230	244				
+UniRef100_A0A524AZG9	TMhelix	245	262				
+UniRef100_A0A524AZG9	outside	263	270				
+UniRef100_A0A524AZG9	TMhelix	271	287				
+UniRef100_A0A524AZG9	inside	288	425				
+UniRef100_A0A524AZG9	TMhelix	426	438				
+UniRef100_A0A524AZG9	outside	439	455				
+UniRef100_A0A524AZG9	TMhelix	456	469				
+UniRef100_A0A524AZG9	inside	470	761				
+UniRef100_A0A524AZG9	TMhelix	762	780				
+UniRef100_A0A524AZG9	outside	781	785				
+UniRef100_A0A524AZG9	TMhelix	786	801				
+UniRef100_A0A524AZG9	inside	802	808				
+//
+# UniRef100_A0A1Y3A115 Length: 206
+# UniRef100_A0A1Y3A115 Number of predicted TMRs: 0
+UniRef100_A0A1Y3A115	inside	1	206				
+//
+# UniRef100_F3LQJ8 Length: 120
+# UniRef100_F3LQJ8 Number of predicted TMRs: 0
+UniRef100_F3LQJ8	inside	1	120				
+//
+# UniRef100_A0A5C2HBS1 Length: 103
+# UniRef100_A0A5C2HBS1 Number of predicted TMRs: 0
+UniRef100_A0A5C2HBS1	inside	1	103				
+//
+# UniRef100_F6DJU1 Length: 180
+# UniRef100_F6DJU1 Number of predicted TMRs: 2
+UniRef100_F6DJU1	inside	1	25				
+UniRef100_F6DJU1	TMhelix	26	37				
+UniRef100_F6DJU1	outside	38	50				
+UniRef100_F6DJU1	TMhelix	51	60				
+UniRef100_F6DJU1	inside	61	180				
+//
+# UniRef100_A0A5D6WIE3 Length: 99
+# UniRef100_A0A5D6WIE3 Number of predicted TMRs: 0
+UniRef100_A0A5D6WIE3	inside	1	99				
+//
+# UniRef100_A0A7Y4JAG2 Length: 194
+# UniRef100_A0A7Y4JAG2 Number of predicted TMRs: 0
+UniRef100_A0A7Y4JAG2	inside	1	194				
+//
+# UniRef100_A0A345HJ89 Length: 835
+# UniRef100_A0A345HJ89 Number of predicted TMRs: 6
+UniRef100_A0A345HJ89	inside	1	239				
+UniRef100_A0A345HJ89	TMhelix	240	261				
+UniRef100_A0A345HJ89	outside	262	291				
+UniRef100_A0A345HJ89	TMhelix	292	312				
+UniRef100_A0A345HJ89	inside	313	364				
+UniRef100_A0A345HJ89	TMhelix	365	385				
+UniRef100_A0A345HJ89	outside	386	389				
+UniRef100_A0A345HJ89	TMhelix	390	406				
+UniRef100_A0A345HJ89	inside	407	475				
+UniRef100_A0A345HJ89	TMhelix	476	496				
+UniRef100_A0A345HJ89	outside	497	509				
+UniRef100_A0A345HJ89	TMhelix	510	528				
+UniRef100_A0A345HJ89	inside	529	835				
+//
+# UniRef100_A0A7J0BQN2 Length: 97
+# UniRef100_A0A7J0BQN2 Number of predicted TMRs: 0
+UniRef100_A0A7J0BQN2	inside	1	97				
+//
+# UniRef100_A0A353MD06 Length: 133
+# UniRef100_A0A353MD06 Number of predicted TMRs: 0
+UniRef100_A0A353MD06	inside	1	133				
+//
+# UniRef100_S9TUY7 Length: 96
+# UniRef100_S9TUY7 Number of predicted TMRs: 0
+UniRef100_S9TUY7	inside	1	96				
+//
+# UniRef100_A0A1E7I1Y7 Length: 106
+# UniRef100_A0A1E7I1Y7 Number of predicted TMRs: 0
+UniRef100_A0A1E7I1Y7	inside	1	106				
+//
+# UniRef100_H8GQW8 Length: 817
+# UniRef100_H8GQW8 Number of predicted TMRs: 8
+UniRef100_H8GQW8	inside	1	194				
+UniRef100_H8GQW8	TMhelix	195	213				
+UniRef100_H8GQW8	outside	214	222				
+UniRef100_H8GQW8	TMhelix	223	242				
+UniRef100_H8GQW8	inside	243	254				
+UniRef100_H8GQW8	TMhelix	255	272				
+UniRef100_H8GQW8	outside	273	279				
+UniRef100_H8GQW8	TMhelix	280	296				
+UniRef100_H8GQW8	inside	297	431				
+UniRef100_H8GQW8	TMhelix	432	452				
+UniRef100_H8GQW8	outside	453	455				
+UniRef100_H8GQW8	TMhelix	456	476				
+UniRef100_H8GQW8	inside	477	771				
+UniRef100_H8GQW8	TMhelix	772	791				
+UniRef100_H8GQW8	outside	792	793				
+UniRef100_H8GQW8	TMhelix	794	812				
+UniRef100_H8GQW8	inside	813	817				
+//
+# UniRef100_A0A3B8WC05 Length: 338
+# UniRef100_A0A3B8WC05 Number of predicted TMRs: 4
+UniRef100_A0A3B8WC05	inside	1	180				
+UniRef100_A0A3B8WC05	TMhelix	181	201				
+UniRef100_A0A3B8WC05	outside	202	208				
+UniRef100_A0A3B8WC05	TMhelix	209	232				
+UniRef100_A0A3B8WC05	inside	233	243				
+UniRef100_A0A3B8WC05	TMhelix	244	262				
+UniRef100_A0A3B8WC05	outside	263	267				
+UniRef100_A0A3B8WC05	TMhelix	268	285				
+UniRef100_A0A3B8WC05	inside	286	338				
+//
+# UniRef100_A0A1H6UE47 Length: 791
+# UniRef100_A0A1H6UE47 Number of predicted TMRs: 8
+UniRef100_A0A1H6UE47	inside	1	170				
+UniRef100_A0A1H6UE47	TMhelix	171	187				
+UniRef100_A0A1H6UE47	outside	188	205				
+UniRef100_A0A1H6UE47	TMhelix	206	228				
+UniRef100_A0A1H6UE47	inside	229	239				
+UniRef100_A0A1H6UE47	TMhelix	240	259				
+UniRef100_A0A1H6UE47	outside	260	268				
+UniRef100_A0A1H6UE47	TMhelix	269	282				
+UniRef100_A0A1H6UE47	inside	283	411				
+UniRef100_A0A1H6UE47	TMhelix	412	434				
+UniRef100_A0A1H6UE47	outside	435	439				
+UniRef100_A0A1H6UE47	TMhelix	440	460				
+UniRef100_A0A1H6UE47	inside	461	729				
+UniRef100_A0A1H6UE47	TMhelix	730	754				
+UniRef100_A0A1H6UE47	outside	755	755				
+UniRef100_A0A1H6UE47	TMhelix	756	776				
+UniRef100_A0A1H6UE47	inside	777	791				
+//
+# UniRef100_A0A0J6FYF4 Length: 109
+# UniRef100_A0A0J6FYF4 Number of predicted TMRs: 0
+UniRef100_A0A0J6FYF4	inside	1	109				
+//
+# UniRef100_A0A7C2VAZ9 Length: 123
+# UniRef100_A0A7C2VAZ9 Number of predicted TMRs: 0
+UniRef100_A0A7C2VAZ9	inside	1	123				
+//
+# UniRef100_A0A2P5MXK4 Length: 204
+# UniRef100_A0A2P5MXK4 Number of predicted TMRs: 0
+UniRef100_A0A2P5MXK4	inside	1	204				
+//
+# UniRef100_A0A522WSV1 Length: 203
+# UniRef100_A0A522WSV1 Number of predicted TMRs: 0
+UniRef100_A0A522WSV1	inside	1	203				
+//
+# UniRef100_A0A7T0NWX8 Length: 204
+# UniRef100_A0A7T0NWX8 Number of predicted TMRs: 0
+UniRef100_A0A7T0NWX8	inside	1	204				
+//
+# UniRef100_A4TUA8 Length: 214
+# UniRef100_A4TUA8 Number of predicted TMRs: 2
+UniRef100_A4TUA8	inside	1	159				
+UniRef100_A4TUA8	TMhelix	160	174				
+UniRef100_A4TUA8	outside	175	193				
+UniRef100_A4TUA8	TMhelix	194	207				
+UniRef100_A4TUA8	inside	208	214				
+//
+# UniRef100_Q2W359 Length: 225
+# UniRef100_Q2W359 Number of predicted TMRs: 0
+UniRef100_Q2W359	inside	1	225				
+//
+# UniRef100_A0A351WUV5 Length: 132
+# UniRef100_A0A351WUV5 Number of predicted TMRs: 0
+UniRef100_A0A351WUV5	inside	1	132				
+//
+# UniRef100_A0A109SXH9 Length: 103
+# UniRef100_A0A109SXH9 Number of predicted TMRs: 0
+UniRef100_A0A109SXH9	inside	1	103				
+//
+# UniRef100_A0A1D3RQ26 Length: 201
+# UniRef100_A0A1D3RQ26 Number of predicted TMRs: 0
+UniRef100_A0A1D3RQ26	inside	1	201				
+//
+# UniRef100_A0A1X1ZJB8 Length: 741
+# UniRef100_A0A1X1ZJB8 Number of predicted TMRs: 8
+UniRef100_A0A1X1ZJB8	inside	1	112				
+UniRef100_A0A1X1ZJB8	TMhelix	113	122				
+UniRef100_A0A1X1ZJB8	outside	123	140				
+UniRef100_A0A1X1ZJB8	TMhelix	141	155				
+UniRef100_A0A1X1ZJB8	inside	156	170				
+UniRef100_A0A1X1ZJB8	TMhelix	171	183				
+UniRef100_A0A1X1ZJB8	outside	184	186				
+UniRef100_A0A1X1ZJB8	TMhelix	187	207				
+UniRef100_A0A1X1ZJB8	inside	208	347				
+UniRef100_A0A1X1ZJB8	TMhelix	348	358				
+UniRef100_A0A1X1ZJB8	outside	359	370				
+UniRef100_A0A1X1ZJB8	TMhelix	371	384				
+UniRef100_A0A1X1ZJB8	inside	385	677				
+UniRef100_A0A1X1ZJB8	TMhelix	678	698				
+UniRef100_A0A1X1ZJB8	outside	699	703				
+UniRef100_A0A1X1ZJB8	TMhelix	704	719				
+UniRef100_A0A1X1ZJB8	inside	720	741				
+//
+# UniRef100_A0A351BE08 Length: 235
+# UniRef100_A0A351BE08 Number of predicted TMRs: 2
+UniRef100_A0A351BE08	inside	1	192				
+UniRef100_A0A351BE08	TMhelix	193	210				
+UniRef100_A0A351BE08	outside	211	217				
+UniRef100_A0A351BE08	TMhelix	218	232				
+UniRef100_A0A351BE08	inside	233	235				
+//
+# UniRef100_A0A2N1ZRV3 Length: 657
+# UniRef100_A0A2N1ZRV3 Number of predicted TMRs: 6
+UniRef100_A0A2N1ZRV3	inside	1	204				
+UniRef100_A0A2N1ZRV3	TMhelix	205	220				
+UniRef100_A0A2N1ZRV3	outside	221	228				
+UniRef100_A0A2N1ZRV3	TMhelix	229	249				
+UniRef100_A0A2N1ZRV3	inside	250	264				
+UniRef100_A0A2N1ZRV3	TMhelix	265	279				
+UniRef100_A0A2N1ZRV3	outside	280	292				
+UniRef100_A0A2N1ZRV3	TMhelix	293	307				
+UniRef100_A0A2N1ZRV3	inside	308	443				
+UniRef100_A0A2N1ZRV3	TMhelix	444	453				
+UniRef100_A0A2N1ZRV3	outside	454	473				
+UniRef100_A0A2N1ZRV3	TMhelix	474	489				
+UniRef100_A0A2N1ZRV3	inside	490	657				
+//
+# UniRef100_A0A363SI65 Length: 814
+# UniRef100_A0A363SI65 Number of predicted TMRs: 8
+UniRef100_A0A363SI65	inside	1	186				
+UniRef100_A0A363SI65	TMhelix	187	204				
+UniRef100_A0A363SI65	outside	205	209				
+UniRef100_A0A363SI65	TMhelix	210	230				
+UniRef100_A0A363SI65	inside	231	245				
+UniRef100_A0A363SI65	TMhelix	246	263				
+UniRef100_A0A363SI65	outside	264	271				
+UniRef100_A0A363SI65	TMhelix	272	288				
+UniRef100_A0A363SI65	inside	289	425				
+UniRef100_A0A363SI65	TMhelix	426	438				
+UniRef100_A0A363SI65	outside	439	455				
+UniRef100_A0A363SI65	TMhelix	456	469				
+UniRef100_A0A363SI65	inside	470	765				
+UniRef100_A0A363SI65	TMhelix	766	784				
+UniRef100_A0A363SI65	outside	785	789				
+UniRef100_A0A363SI65	TMhelix	790	804				
+UniRef100_A0A363SI65	inside	805	814				
+//
+# UniRef100_A0A497X911 Length: 865
+# UniRef100_A0A497X911 Number of predicted TMRs: 8
+UniRef100_A0A497X911	inside	1	192				
+UniRef100_A0A497X911	TMhelix	193	210				
+UniRef100_A0A497X911	outside	211	215				
+UniRef100_A0A497X911	TMhelix	216	236				
+UniRef100_A0A497X911	inside	237	251				
+UniRef100_A0A497X911	TMhelix	252	269				
+UniRef100_A0A497X911	outside	270	277				
+UniRef100_A0A497X911	TMhelix	278	294				
+UniRef100_A0A497X911	inside	295	431				
+UniRef100_A0A497X911	TMhelix	432	444				
+UniRef100_A0A497X911	outside	445	460				
+UniRef100_A0A497X911	TMhelix	461	476				
+UniRef100_A0A497X911	inside	477	817				
+UniRef100_A0A497X911	TMhelix	818	836				
+UniRef100_A0A497X911	outside	837	841				
+UniRef100_A0A497X911	TMhelix	842	857				
+UniRef100_A0A497X911	inside	858	865				
+//
+# UniRef100_A0A6J4FT88 Length: 790
+# UniRef100_A0A6J4FT88 Number of predicted TMRs: 8
+UniRef100_A0A6J4FT88	inside	1	184				
+UniRef100_A0A6J4FT88	TMhelix	185	202				
+UniRef100_A0A6J4FT88	outside	203	209				
+UniRef100_A0A6J4FT88	TMhelix	210	232				
+UniRef100_A0A6J4FT88	inside	233	243				
+UniRef100_A0A6J4FT88	TMhelix	244	263				
+UniRef100_A0A6J4FT88	outside	264	269				
+UniRef100_A0A6J4FT88	TMhelix	270	286				
+UniRef100_A0A6J4FT88	inside	287	421				
+UniRef100_A0A6J4FT88	TMhelix	422	442				
+UniRef100_A0A6J4FT88	outside	443	448				
+UniRef100_A0A6J4FT88	TMhelix	449	466				
+UniRef100_A0A6J4FT88	inside	467	744				
+UniRef100_A0A6J4FT88	TMhelix	745	762				
+UniRef100_A0A6J4FT88	outside	763	767				
+UniRef100_A0A6J4FT88	TMhelix	768	786				
+UniRef100_A0A6J4FT88	inside	787	790				
+//
+# UniRef100_A0A7T0JNR0 Length: 820
+# UniRef100_A0A7T0JNR0 Number of predicted TMRs: 8
+UniRef100_A0A7T0JNR0	inside	1	197				
+UniRef100_A0A7T0JNR0	TMhelix	198	215				
+UniRef100_A0A7T0JNR0	outside	216	222				
+UniRef100_A0A7T0JNR0	TMhelix	223	245				
+UniRef100_A0A7T0JNR0	inside	246	256				
+UniRef100_A0A7T0JNR0	TMhelix	257	275				
+UniRef100_A0A7T0JNR0	outside	276	282				
+UniRef100_A0A7T0JNR0	TMhelix	283	299				
+UniRef100_A0A7T0JNR0	inside	300	434				
+UniRef100_A0A7T0JNR0	TMhelix	435	455				
+UniRef100_A0A7T0JNR0	outside	456	465				
+UniRef100_A0A7T0JNR0	TMhelix	466	479				
+UniRef100_A0A7T0JNR0	inside	480	773				
+UniRef100_A0A7T0JNR0	TMhelix	774	794				
+UniRef100_A0A7T0JNR0	outside	795	796				
+UniRef100_A0A7T0JNR0	TMhelix	797	815				
+UniRef100_A0A7T0JNR0	inside	816	820				
+//
+# UniRef100_A0A849U5X8 Length: 623
+# UniRef100_A0A849U5X8 Number of predicted TMRs: 6
+UniRef100_A0A849U5X8	inside	1	189				
+UniRef100_A0A849U5X8	TMhelix	190	207				
+UniRef100_A0A849U5X8	outside	208	214				
+UniRef100_A0A849U5X8	TMhelix	215	237				
+UniRef100_A0A849U5X8	inside	238	248				
+UniRef100_A0A849U5X8	TMhelix	249	267				
+UniRef100_A0A849U5X8	outside	268	274				
+UniRef100_A0A849U5X8	TMhelix	275	291				
+UniRef100_A0A849U5X8	inside	292	426				
+UniRef100_A0A849U5X8	TMhelix	427	447				
+UniRef100_A0A849U5X8	outside	448	450				
+UniRef100_A0A849U5X8	TMhelix	451	471				
+UniRef100_A0A849U5X8	inside	472	623				
+//
+# UniRef100_A0A410RRT9 Length: 191
+# UniRef100_A0A410RRT9 Number of predicted TMRs: 0
+UniRef100_A0A410RRT9	inside	1	191				
+//
+# UniRef100_A0A2T3QLA8 Length: 110
+# UniRef100_A0A2T3QLA8 Number of predicted TMRs: 0
+UniRef100_A0A2T3QLA8	inside	1	110				
+//
+# UniRef100_A0A0F0HUD6 Length: 759
+# UniRef100_A0A0F0HUD6 Number of predicted TMRs: 6
+UniRef100_A0A0F0HUD6	inside	1	189				
+UniRef100_A0A0F0HUD6	TMhelix	190	207				
+UniRef100_A0A0F0HUD6	outside	208	241				
+UniRef100_A0A0F0HUD6	TMhelix	242	258				
+UniRef100_A0A0F0HUD6	inside	259	315				
+UniRef100_A0A0F0HUD6	TMhelix	316	336				
+UniRef100_A0A0F0HUD6	outside	337	339				
+UniRef100_A0A0F0HUD6	TMhelix	340	360				
+UniRef100_A0A0F0HUD6	inside	361	426				
+UniRef100_A0A0F0HUD6	TMhelix	427	439				
+UniRef100_A0A0F0HUD6	outside	440	459				
+UniRef100_A0A0F0HUD6	TMhelix	460	469				
+UniRef100_A0A0F0HUD6	inside	470	759				
+//
+# UniRef100_A0A133ZVF5 Length: 248
+# UniRef100_A0A133ZVF5 Number of predicted TMRs: 0
+UniRef100_A0A133ZVF5	inside	1	248				
+//
+# UniRef100_A0A2N5GYD4 Length: 103
+# UniRef100_A0A2N5GYD4 Number of predicted TMRs: 0
+UniRef100_A0A2N5GYD4	inside	1	103				
+//
+# UniRef100_A0A7X2J1X3 Length: 194
+# UniRef100_A0A7X2J1X3 Number of predicted TMRs: 2
+UniRef100_A0A7X2J1X3	inside	1	148				
+UniRef100_A0A7X2J1X3	TMhelix	149	159				
+UniRef100_A0A7X2J1X3	outside	160	164				
+UniRef100_A0A7X2J1X3	TMhelix	165	180				
+UniRef100_A0A7X2J1X3	inside	181	194				
+//
+# UniRef100_A0A7Y3YIH7 Length: 110
+# UniRef100_A0A7Y3YIH7 Number of predicted TMRs: 0
+UniRef100_A0A7Y3YIH7	inside	1	110				
+//
+# UniRef100_A0A1Y4D695 Length: 85
+# UniRef100_A0A1Y4D695 Number of predicted TMRs: 0
+UniRef100_A0A1Y4D695	inside	1	85				
+//
+# UniRef100_H1DBB7 Length: 146
+# UniRef100_H1DBB7 Number of predicted TMRs: 0
+UniRef100_H1DBB7	inside	1	146				
+//
+# UniRef100_A0A0D8IAB8 Length: 272
+# UniRef100_A0A0D8IAB8 Number of predicted TMRs: 0
+UniRef100_A0A0D8IAB8	inside	1	272				
+//
+# UniRef100_A0A0R1M1U4 Length: 105
+# UniRef100_A0A0R1M1U4 Number of predicted TMRs: 0
+UniRef100_A0A0R1M1U4	inside	1	105				
+//
+# UniRef100_A0A1H3XZM9 Length: 99
+# UniRef100_A0A1H3XZM9 Number of predicted TMRs: 0
+UniRef100_A0A1H3XZM9	inside	1	99				
+//
+# UniRef100_A0A411ZZA8 Length: 92
+# UniRef100_A0A411ZZA8 Number of predicted TMRs: 0
+UniRef100_A0A411ZZA8	inside	1	92				
+//
+# UniRef100_E2ZBQ0 Length: 93
+# UniRef100_E2ZBQ0 Number of predicted TMRs: 0
+UniRef100_E2ZBQ0	inside	1	93				
+//
+# UniRef100_K9CWZ9 Length: 102
+# UniRef100_K9CWZ9 Number of predicted TMRs: 0
+UniRef100_K9CWZ9	inside	1	102				
+//
+# UniRef100_L0DVC0 Length: 126
+# UniRef100_L0DVC0 Number of predicted TMRs: 0
+UniRef100_L0DVC0	inside	1	126				
+//
+# UniRef100_H1DBC0 Length: 84
+# UniRef100_H1DBC0 Number of predicted TMRs: 0
+UniRef100_H1DBC0	inside	1	84				
+//
+# UniRef100_A0A7W1HYC2 Length: 729
+# UniRef100_A0A7W1HYC2 Number of predicted TMRs: 7
+UniRef100_A0A7W1HYC2	inside	1	189				
+UniRef100_A0A7W1HYC2	TMhelix	190	205				
+UniRef100_A0A7W1HYC2	outside	206	218				
+UniRef100_A0A7W1HYC2	TMhelix	219	236				
+UniRef100_A0A7W1HYC2	inside	237	249				
+UniRef100_A0A7W1HYC2	TMhelix	250	265				
+UniRef100_A0A7W1HYC2	outside	266	268				
+UniRef100_A0A7W1HYC2	TMhelix	269	282				
+UniRef100_A0A7W1HYC2	inside	283	385				
+UniRef100_A0A7W1HYC2	TMhelix	386	404				
+UniRef100_A0A7W1HYC2	outside	405	411				
+UniRef100_A0A7W1HYC2	TMhelix	412	427				
+UniRef100_A0A7W1HYC2	inside	428	703				
+UniRef100_A0A7W1HYC2	TMhelix	704	720				
+UniRef100_A0A7W1HYC2	outside	721	729				
+//
+# UniRef100_A0A1G7URQ6 Length: 129
+# UniRef100_A0A1G7URQ6 Number of predicted TMRs: 0
+UniRef100_A0A1G7URQ6	inside	1	129				
+//
+# UniRef100_A0A1Z4L933 Length: 317
+# UniRef100_A0A1Z4L933 Number of predicted TMRs: 6
+UniRef100_A0A1Z4L933	inside	1	118				
+UniRef100_A0A1Z4L933	TMhelix	119	136				
+UniRef100_A0A1Z4L933	outside	137	170				
+UniRef100_A0A1Z4L933	TMhelix	171	186				
+UniRef100_A0A1Z4L933	inside	187	192				
+UniRef100_A0A1Z4L933	TMhelix	193	214				
+UniRef100_A0A1Z4L933	outside	215	235				
+UniRef100_A0A1Z4L933	TMhelix	236	253				
+UniRef100_A0A1Z4L933	inside	254	258				
+UniRef100_A0A1Z4L933	TMhelix	259	280				
+UniRef100_A0A1Z4L933	outside	281	288				
+UniRef100_A0A1Z4L933	TMhelix	289	307				
+UniRef100_A0A1Z4L933	inside	308	317				
+//
+# UniRef100_C6WBS5 Length: 962
+# UniRef100_C6WBS5 Number of predicted TMRs: 6
+UniRef100_C6WBS5	inside	1	391				
+UniRef100_C6WBS5	TMhelix	392	413				
+UniRef100_C6WBS5	outside	414	446				
+UniRef100_C6WBS5	TMhelix	447	467				
+UniRef100_C6WBS5	inside	468	520				
+UniRef100_C6WBS5	TMhelix	521	541				
+UniRef100_C6WBS5	outside	542	544				
+UniRef100_C6WBS5	TMhelix	545	561				
+UniRef100_C6WBS5	inside	562	631				
+UniRef100_C6WBS5	TMhelix	632	647				
+UniRef100_C6WBS5	outside	648	664				
+UniRef100_C6WBS5	TMhelix	665	683				
+UniRef100_C6WBS5	inside	684	962				
+//
+# UniRef100_A0A1G9GYR3 Length: 102
+# UniRef100_A0A1G9GYR3 Number of predicted TMRs: 0
+UniRef100_A0A1G9GYR3	inside	1	102				
+//
+# UniRef100_A0A454CY31 Length: 110
+# UniRef100_A0A454CY31 Number of predicted TMRs: 0
+UniRef100_A0A454CY31	inside	1	110				
+//
+# UniRef100_A0A2R4GU04 Length: 164
+# UniRef100_A0A2R4GU04 Number of predicted TMRs: 1
+UniRef100_A0A2R4GU04	inside	1	142				
+UniRef100_A0A2R4GU04	TMhelix	143	158				
+UniRef100_A0A2R4GU04	outside	159	164				
+//
+# UniRef100_H7EPU2 Length: 100
+# UniRef100_H7EPU2 Number of predicted TMRs: 0
+UniRef100_H7EPU2	inside	1	100				
+//
+# UniRef100_K1JMJ9 Length: 200
+# UniRef100_K1JMJ9 Number of predicted TMRs: 2
+UniRef100_K1JMJ9	inside	1	157				
+UniRef100_K1JMJ9	TMhelix	158	172				
+UniRef100_K1JMJ9	outside	173	176				
+UniRef100_K1JMJ9	TMhelix	177	194				
+UniRef100_K1JMJ9	inside	195	200				
+//
+# UniRef100_D4M9A0 Length: 99
+# UniRef100_D4M9A0 Number of predicted TMRs: 0
+UniRef100_D4M9A0	inside	1	99				
+//
+# UniRef100_A0A415R764 Length: 164
+# UniRef100_A0A415R764 Number of predicted TMRs: 0
+UniRef100_A0A415R764	inside	1	164				
+//
+# UniRef100_R7C359 Length: 784
+# UniRef100_R7C359 Number of predicted TMRs: 6
+UniRef100_R7C359	inside	1	189				
+UniRef100_R7C359	TMhelix	190	206				
+UniRef100_R7C359	outside	207	210				
+UniRef100_R7C359	TMhelix	211	225				
+UniRef100_R7C359	inside	226	357				
+UniRef100_R7C359	TMhelix	358	378				
+UniRef100_R7C359	outside	379	380				
+UniRef100_R7C359	TMhelix	381	405				
+UniRef100_R7C359	inside	406	696				
+UniRef100_R7C359	TMhelix	697	717				
+UniRef100_R7C359	outside	718	718				
+UniRef100_R7C359	TMhelix	719	739				
+UniRef100_R7C359	inside	740	784				
+//
+# UniRef100_A0A2G6NJD9 Length: 111
+# UniRef100_A0A2G6NJD9 Number of predicted TMRs: 0
+UniRef100_A0A2G6NJD9	inside	1	111				
+//
+# UniRef100_A0A6B1PT74 Length: 323
+# UniRef100_A0A6B1PT74 Number of predicted TMRs: 4
+UniRef100_A0A6B1PT74	inside	1	97				
+UniRef100_A0A6B1PT74	TMhelix	98	109				
+UniRef100_A0A6B1PT74	outside	110	122				
+UniRef100_A0A6B1PT74	TMhelix	123	139				
+UniRef100_A0A6B1PT74	inside	140	155				
+UniRef100_A0A6B1PT74	TMhelix	156	168				
+UniRef100_A0A6B1PT74	outside	169	171				
+UniRef100_A0A6B1PT74	TMhelix	172	192				
+UniRef100_A0A6B1PT74	inside	193	323				
+//
+# UniRef100_A0A345T3B2 Length: 765
+# UniRef100_A0A345T3B2 Number of predicted TMRs: 6
+UniRef100_A0A345T3B2	inside	1	194				
+UniRef100_A0A345T3B2	TMhelix	195	215				
+UniRef100_A0A345T3B2	outside	216	247				
+UniRef100_A0A345T3B2	TMhelix	248	263				
+UniRef100_A0A345T3B2	inside	264	320				
+UniRef100_A0A345T3B2	TMhelix	321	341				
+UniRef100_A0A345T3B2	outside	342	345				
+UniRef100_A0A345T3B2	TMhelix	346	363				
+UniRef100_A0A345T3B2	inside	364	432				
+UniRef100_A0A345T3B2	TMhelix	433	448				
+UniRef100_A0A345T3B2	outside	449	465				
+UniRef100_A0A345T3B2	TMhelix	466	484				
+UniRef100_A0A345T3B2	inside	485	765				
+//
+# UniRef100_A0A6G4WXH4 Length: 807
+# UniRef100_A0A6G4WXH4 Number of predicted TMRs: 6
+UniRef100_A0A6G4WXH4	inside	1	233				
+UniRef100_A0A6G4WXH4	TMhelix	234	246				
+UniRef100_A0A6G4WXH4	outside	247	290				
+UniRef100_A0A6G4WXH4	TMhelix	291	305				
+UniRef100_A0A6G4WXH4	inside	306	359				
+UniRef100_A0A6G4WXH4	TMhelix	360	380				
+UniRef100_A0A6G4WXH4	outside	381	383				
+UniRef100_A0A6G4WXH4	TMhelix	384	404				
+UniRef100_A0A6G4WXH4	inside	405	470				
+UniRef100_A0A6G4WXH4	TMhelix	471	482				
+UniRef100_A0A6G4WXH4	outside	483	503				
+UniRef100_A0A6G4WXH4	TMhelix	504	513				
+UniRef100_A0A6G4WXH4	inside	514	807				
+//
+# UniRef100_A0A2A5HBM4 Length: 563
+# UniRef100_A0A2A5HBM4 Number of predicted TMRs: 6
+UniRef100_A0A2A5HBM4	inside	1	163				
+UniRef100_A0A2A5HBM4	TMhelix	164	180				
+UniRef100_A0A2A5HBM4	outside	181	209				
+UniRef100_A0A2A5HBM4	TMhelix	210	228				
+UniRef100_A0A2A5HBM4	inside	229	286				
+UniRef100_A0A2A5HBM4	TMhelix	287	308				
+UniRef100_A0A2A5HBM4	outside	309	310				
+UniRef100_A0A2A5HBM4	TMhelix	311	328				
+UniRef100_A0A2A5HBM4	inside	329	398				
+UniRef100_A0A2A5HBM4	TMhelix	399	414				
+UniRef100_A0A2A5HBM4	outside	415	432				
+UniRef100_A0A2A5HBM4	TMhelix	433	450				
+UniRef100_A0A2A5HBM4	inside	451	563				
+//
+# UniRef100_A0A1Y4CHG4 Length: 220
+# UniRef100_A0A1Y4CHG4 Number of predicted TMRs: 0
+UniRef100_A0A1Y4CHG4	inside	1	220				
+//
+# UniRef100_U2SSM1 Length: 211
+# UniRef100_U2SSM1 Number of predicted TMRs: 0
+UniRef100_U2SSM1	inside	1	211				
+//
+# UniRef100_A0A1U7H9L4 Length: 1077
+# UniRef100_A0A1U7H9L4 Number of predicted TMRs: 10
+UniRef100_A0A1U7H9L4	inside	1	189				
+UniRef100_A0A1U7H9L4	TMhelix	190	200				
+UniRef100_A0A1U7H9L4	outside	201	207				
+UniRef100_A0A1U7H9L4	TMhelix	208	228				
+UniRef100_A0A1U7H9L4	inside	229	371				
+UniRef100_A0A1U7H9L4	TMhelix	372	392				
+UniRef100_A0A1U7H9L4	outside	393	401				
+UniRef100_A0A1U7H9L4	TMhelix	402	420				
+UniRef100_A0A1U7H9L4	inside	421	816				
+UniRef100_A0A1U7H9L4	TMhelix	817	837				
+UniRef100_A0A1U7H9L4	outside	838	844				
+UniRef100_A0A1U7H9L4	TMhelix	845	865				
+UniRef100_A0A1U7H9L4	inside	866	888				
+UniRef100_A0A1U7H9L4	TMhelix	889	909				
+UniRef100_A0A1U7H9L4	outside	910	922				
+UniRef100_A0A1U7H9L4	TMhelix	923	940				
+UniRef100_A0A1U7H9L4	inside	941	958				
+UniRef100_A0A1U7H9L4	TMhelix	959	979				
+UniRef100_A0A1U7H9L4	outside	980	989				
+UniRef100_A0A1U7H9L4	TMhelix	990	1010				
+UniRef100_A0A1U7H9L4	inside	1011	1077				
+//
+# UniRef100_A0A1E7GRD2 Length: 753
+# UniRef100_A0A1E7GRD2 Number of predicted TMRs: 4
+UniRef100_A0A1E7GRD2	inside	1	191				
+UniRef100_A0A1E7GRD2	TMhelix	192	201				
+UniRef100_A0A1E7GRD2	outside	202	211				
+UniRef100_A0A1E7GRD2	TMhelix	212	229				
+UniRef100_A0A1E7GRD2	inside	230	375				
+UniRef100_A0A1E7GRD2	TMhelix	376	391				
+UniRef100_A0A1E7GRD2	outside	392	407				
+UniRef100_A0A1E7GRD2	TMhelix	408	421				
+UniRef100_A0A1E7GRD2	inside	422	753				
+//
+# UniRef100_A0A231P397 Length: 189
+# UniRef100_A0A231P397 Number of predicted TMRs: 0
+UniRef100_A0A231P397	inside	1	189				
+//
+# UniRef100_A0A1G8PYM7 Length: 119
+# UniRef100_A0A1G8PYM7 Number of predicted TMRs: 0
+UniRef100_A0A1G8PYM7	inside	1	119				
+//
+# UniRef100_A0A2V3VV59 Length: 93
+# UniRef100_A0A2V3VV59 Number of predicted TMRs: 0
+UniRef100_A0A2V3VV59	inside	1	93				
+//
+# UniRef100_A0A6J4PLA5 Length: 851
+# UniRef100_A0A6J4PLA5 Number of predicted TMRs: 9
+UniRef100_A0A6J4PLA5	inside	1	197				
+UniRef100_A0A6J4PLA5	TMhelix	198	208				
+UniRef100_A0A6J4PLA5	outside	209	224				
+UniRef100_A0A6J4PLA5	TMhelix	225	240				
+UniRef100_A0A6J4PLA5	inside	241	252				
+UniRef100_A0A6J4PLA5	TMhelix	253	268				
+UniRef100_A0A6J4PLA5	outside	269	272				
+UniRef100_A0A6J4PLA5	TMhelix	273	286				
+UniRef100_A0A6J4PLA5	inside	287	389				
+UniRef100_A0A6J4PLA5	TMhelix	390	409				
+UniRef100_A0A6J4PLA5	outside	410	414				
+UniRef100_A0A6J4PLA5	TMhelix	415	435				
+UniRef100_A0A6J4PLA5	inside	436	698				
+UniRef100_A0A6J4PLA5	TMhelix	699	720				
+UniRef100_A0A6J4PLA5	outside	721	726				
+UniRef100_A0A6J4PLA5	TMhelix	727	746				
+UniRef100_A0A6J4PLA5	inside	747	818				
+UniRef100_A0A6J4PLA5	TMhelix	819	842				
+UniRef100_A0A6J4PLA5	outside	843	851				
+//
+# UniRef100_A0A3M2H0X3 Length: 124
+# UniRef100_A0A3M2H0X3 Number of predicted TMRs: 0
+UniRef100_A0A3M2H0X3	inside	1	124				
+//
+# UniRef100_A0A133SC07 Length: 202
+# UniRef100_A0A133SC07 Number of predicted TMRs: 0
+UniRef100_A0A133SC07	inside	1	202				
+//
+# UniRef100_C7ND24 Length: 248
+# UniRef100_C7ND24 Number of predicted TMRs: 0
+UniRef100_C7ND24	inside	1	248				
+//
+# UniRef100_A0A140K986 Length: 353
+# UniRef100_A0A140K986 Number of predicted TMRs: 6
+UniRef100_A0A140K986	inside	1	149				
+UniRef100_A0A140K986	TMhelix	150	170				
+UniRef100_A0A140K986	outside	171	199				
+UniRef100_A0A140K986	TMhelix	200	220				
+UniRef100_A0A140K986	inside	221	226				
+UniRef100_A0A140K986	TMhelix	227	248				
+UniRef100_A0A140K986	outside	249	269				
+UniRef100_A0A140K986	TMhelix	270	287				
+UniRef100_A0A140K986	inside	288	295				
+UniRef100_A0A140K986	TMhelix	296	314				
+UniRef100_A0A140K986	outside	315	322				
+UniRef100_A0A140K986	TMhelix	323	340				
+UniRef100_A0A140K986	inside	341	353				
+//
+# UniRef100_C3WA84 Length: 251
+# UniRef100_C3WA84 Number of predicted TMRs: 0
+UniRef100_C3WA84	inside	1	251				
+//
+# UniRef100_A0A377PH96 Length: 121
+# UniRef100_A0A377PH96 Number of predicted TMRs: 0
+UniRef100_A0A377PH96	inside	1	121				
+//
+# UniRef100_M4U2A3 Length: 119
+# UniRef100_M4U2A3 Number of predicted TMRs: 0
+UniRef100_M4U2A3	inside	1	119				
+//
+# UniRef100_G5GZN3 Length: 103
+# UniRef100_G5GZN3 Number of predicted TMRs: 0
+UniRef100_G5GZN3	inside	1	103				
+//
+# UniRef100_U2TEY8 Length: 499
+# UniRef100_U2TEY8 Number of predicted TMRs: 0
+UniRef100_U2TEY8	inside	1	499				
+//
+# UniRef100_A0A1G1D784 Length: 87
+# UniRef100_A0A1G1D784 Number of predicted TMRs: 0
+UniRef100_A0A1G1D784	inside	1	87				
+//
+# UniRef100_A0A386PBU2 Length: 125
+# UniRef100_A0A386PBU2 Number of predicted TMRs: 0
+UniRef100_A0A386PBU2	inside	1	125				
+//
+# UniRef100_A0A4R4TZU4 Length: 442
+# UniRef100_A0A4R4TZU4 Number of predicted TMRs: 0
+UniRef100_A0A4R4TZU4	inside	1	442				
+//
+# UniRef100_A0A3D2YH28 Length: 118
+# UniRef100_A0A3D2YH28 Number of predicted TMRs: 0
+UniRef100_A0A3D2YH28	inside	1	118				
+//
+# UniRef100_A0A1Y0RQA0 Length: 389
+# UniRef100_A0A1Y0RQA0 Number of predicted TMRs: 6
+UniRef100_A0A1Y0RQA0	inside	1	161				
+UniRef100_A0A1Y0RQA0	TMhelix	162	182				
+UniRef100_A0A1Y0RQA0	outside	183	212				
+UniRef100_A0A1Y0RQA0	TMhelix	213	229				
+UniRef100_A0A1Y0RQA0	inside	230	238				
+UniRef100_A0A1Y0RQA0	TMhelix	239	260				
+UniRef100_A0A1Y0RQA0	outside	261	281				
+UniRef100_A0A1Y0RQA0	TMhelix	282	299				
+UniRef100_A0A1Y0RQA0	inside	300	306				
+UniRef100_A0A1Y0RQA0	TMhelix	307	326				
+UniRef100_A0A1Y0RQA0	outside	327	334				
+UniRef100_A0A1Y0RQA0	TMhelix	335	352				
+UniRef100_A0A1Y0RQA0	inside	353	389				
+//
+# UniRef100_A0A3S1CFH9 Length: 172
+# UniRef100_A0A3S1CFH9 Number of predicted TMRs: 0
+UniRef100_A0A3S1CFH9	inside	1	172				
+//
+# UniRef100_A0A1V2LVR7 Length: 122
+# UniRef100_A0A1V2LVR7 Number of predicted TMRs: 0
+UniRef100_A0A1V2LVR7	inside	1	122				
+//
+# UniRef100_A0A3N9V6V7 Length: 281
+# UniRef100_A0A3N9V6V7 Number of predicted TMRs: 0
+UniRef100_A0A3N9V6V7	inside	1	281				
+//
+# UniRef100_A0A1Z4RGL5 Length: 402
+# UniRef100_A0A1Z4RGL5 Number of predicted TMRs: 6
+UniRef100_A0A1Z4RGL5	inside	1	210				
+UniRef100_A0A1Z4RGL5	TMhelix	211	223				
+UniRef100_A0A1Z4RGL5	outside	224	257				
+UniRef100_A0A1Z4RGL5	TMhelix	258	271				
+UniRef100_A0A1Z4RGL5	inside	272	278				
+UniRef100_A0A1Z4RGL5	TMhelix	279	301				
+UniRef100_A0A1Z4RGL5	outside	302	322				
+UniRef100_A0A1Z4RGL5	TMhelix	323	340				
+UniRef100_A0A1Z4RGL5	inside	341	347				
+UniRef100_A0A1Z4RGL5	TMhelix	348	367				
+UniRef100_A0A1Z4RGL5	outside	368	372				
+UniRef100_A0A1Z4RGL5	TMhelix	373	393				
+UniRef100_A0A1Z4RGL5	inside	394	402				
+//
+# UniRef100_A0A7X7GXE3 Length: 597
+# UniRef100_A0A7X7GXE3 Number of predicted TMRs: 2
+UniRef100_A0A7X7GXE3	inside	1	539				
+UniRef100_A0A7X7GXE3	TMhelix	540	549				
+UniRef100_A0A7X7GXE3	outside	550	564				
+UniRef100_A0A7X7GXE3	TMhelix	565	580				
+UniRef100_A0A7X7GXE3	inside	581	597				
+//
+# UniRef100_A0A543J647 Length: 1159
+# UniRef100_A0A543J647 Number of predicted TMRs: 2
+UniRef100_A0A543J647	inside	1	864				
+UniRef100_A0A543J647	TMhelix	865	874				
+UniRef100_A0A543J647	outside	875	896				
+UniRef100_A0A543J647	TMhelix	897	906				
+UniRef100_A0A543J647	inside	907	1159				
+//
+# UniRef100_K9Q7B0 Length: 328
+# UniRef100_K9Q7B0 Number of predicted TMRs: 6
+UniRef100_K9Q7B0	inside	1	126				
+UniRef100_K9Q7B0	TMhelix	127	144				
+UniRef100_K9Q7B0	outside	145	179				
+UniRef100_K9Q7B0	TMhelix	180	194				
+UniRef100_K9Q7B0	inside	195	200				
+UniRef100_K9Q7B0	TMhelix	201	222				
+UniRef100_K9Q7B0	outside	223	243				
+UniRef100_K9Q7B0	TMhelix	244	261				
+UniRef100_K9Q7B0	inside	262	268				
+UniRef100_K9Q7B0	TMhelix	269	288				
+UniRef100_K9Q7B0	outside	289	296				
+UniRef100_K9Q7B0	TMhelix	297	314				
+UniRef100_K9Q7B0	inside	315	328				
+//
+# UniRef100_A0A431PJA2 Length: 986
+# UniRef100_A0A431PJA2 Number of predicted TMRs: 10
+UniRef100_A0A431PJA2	inside	1	155				
+UniRef100_A0A431PJA2	TMhelix	156	171				
+UniRef100_A0A431PJA2	outside	172	173				
+UniRef100_A0A431PJA2	TMhelix	174	193				
+UniRef100_A0A431PJA2	inside	194	337				
+UniRef100_A0A431PJA2	TMhelix	338	358				
+UniRef100_A0A431PJA2	outside	359	367				
+UniRef100_A0A431PJA2	TMhelix	368	385				
+UniRef100_A0A431PJA2	inside	386	768				
+UniRef100_A0A431PJA2	TMhelix	769	790				
+UniRef100_A0A431PJA2	outside	791	797				
+UniRef100_A0A431PJA2	TMhelix	798	818				
+UniRef100_A0A431PJA2	inside	819	841				
+UniRef100_A0A431PJA2	TMhelix	842	862				
+UniRef100_A0A431PJA2	outside	863	876				
+UniRef100_A0A431PJA2	TMhelix	877	894				
+UniRef100_A0A431PJA2	inside	895	910				
+UniRef100_A0A431PJA2	TMhelix	911	929				
+UniRef100_A0A431PJA2	outside	930	942				
+UniRef100_A0A431PJA2	TMhelix	943	963				
+UniRef100_A0A431PJA2	inside	964	986				
+//
+# UniRef100_A0A2N8THP2 Length: 556
+# UniRef100_A0A2N8THP2 Number of predicted TMRs: 0
+UniRef100_A0A2N8THP2	inside	1	556				
+//
+# UniRef100_I4C5Q5 Length: 120
+# UniRef100_I4C5Q5 Number of predicted TMRs: 0
+UniRef100_I4C5Q5	inside	1	120				
+//
+# UniRef100_A0A1V3XU82 Length: 574
+# UniRef100_A0A1V3XU82 Number of predicted TMRs: 4
+UniRef100_A0A1V3XU82	inside	1	95				
+UniRef100_A0A1V3XU82	TMhelix	96	107				
+UniRef100_A0A1V3XU82	outside	108	123				
+UniRef100_A0A1V3XU82	TMhelix	124	138				
+UniRef100_A0A1V3XU82	inside	139	153				
+UniRef100_A0A1V3XU82	TMhelix	154	166				
+UniRef100_A0A1V3XU82	outside	167	169				
+UniRef100_A0A1V3XU82	TMhelix	170	190				
+UniRef100_A0A1V3XU82	inside	191	574				
+//
+# UniRef100_A0A2H2Y967 Length: 339
+# UniRef100_A0A2H2Y967 Number of predicted TMRs: 6
+UniRef100_A0A2H2Y967	inside	1	125				
+UniRef100_A0A2H2Y967	TMhelix	126	143				
+UniRef100_A0A2H2Y967	outside	144	176				
+UniRef100_A0A2H2Y967	TMhelix	177	192				
+UniRef100_A0A2H2Y967	inside	193	202				
+UniRef100_A0A2H2Y967	TMhelix	203	221				
+UniRef100_A0A2H2Y967	outside	222	242				
+UniRef100_A0A2H2Y967	TMhelix	243	260				
+UniRef100_A0A2H2Y967	inside	261	267				
+UniRef100_A0A2H2Y967	TMhelix	268	287				
+UniRef100_A0A2H2Y967	outside	288	292				
+UniRef100_A0A2H2Y967	TMhelix	293	313				
+UniRef100_A0A2H2Y967	inside	314	339				
+//
+# UniRef100_A0A2P2FKV9 Length: 638
+# UniRef100_A0A2P2FKV9 Number of predicted TMRs: 0
+UniRef100_A0A2P2FKV9	inside	1	638				
+//
+# UniRef100_A0A2I8A387 Length: 324
+# UniRef100_A0A2I8A387 Number of predicted TMRs: 6
+UniRef100_A0A2I8A387	inside	1	115				
+UniRef100_A0A2I8A387	TMhelix	116	133				
+UniRef100_A0A2I8A387	outside	134	167				
+UniRef100_A0A2I8A387	TMhelix	168	182				
+UniRef100_A0A2I8A387	inside	183	189				
+UniRef100_A0A2I8A387	TMhelix	190	211				
+UniRef100_A0A2I8A387	outside	212	232				
+UniRef100_A0A2I8A387	TMhelix	233	250				
+UniRef100_A0A2I8A387	inside	251	257				
+UniRef100_A0A2I8A387	TMhelix	258	277				
+UniRef100_A0A2I8A387	outside	278	285				
+UniRef100_A0A2I8A387	TMhelix	286	304				
+UniRef100_A0A2I8A387	inside	305	324				
+//
+# UniRef100_A0A6G9SDU0 Length: 347
+# UniRef100_A0A6G9SDU0 Number of predicted TMRs: 6
+UniRef100_A0A6G9SDU0	inside	1	129				
+UniRef100_A0A6G9SDU0	TMhelix	130	147				
+UniRef100_A0A6G9SDU0	outside	148	181				
+UniRef100_A0A6G9SDU0	TMhelix	182	197				
+UniRef100_A0A6G9SDU0	inside	198	205				
+UniRef100_A0A6G9SDU0	TMhelix	206	224				
+UniRef100_A0A6G9SDU0	outside	225	245				
+UniRef100_A0A6G9SDU0	TMhelix	246	263				
+UniRef100_A0A6G9SDU0	inside	264	268				
+UniRef100_A0A6G9SDU0	TMhelix	269	290				
+UniRef100_A0A6G9SDU0	outside	291	298				
+UniRef100_A0A6G9SDU0	TMhelix	299	317				
+UniRef100_A0A6G9SDU0	inside	318	347				
+//
+# UniRef100_K9QRX6 Length: 329
+# UniRef100_K9QRX6 Number of predicted TMRs: 6
+UniRef100_K9QRX6	inside	1	120				
+UniRef100_K9QRX6	TMhelix	121	138				
+UniRef100_K9QRX6	outside	139	172				
+UniRef100_K9QRX6	TMhelix	173	188				
+UniRef100_K9QRX6	inside	189	194				
+UniRef100_K9QRX6	TMhelix	195	216				
+UniRef100_K9QRX6	outside	217	237				
+UniRef100_K9QRX6	TMhelix	238	255				
+UniRef100_K9QRX6	inside	256	262				
+UniRef100_K9QRX6	TMhelix	263	282				
+UniRef100_K9QRX6	outside	283	290				
+UniRef100_K9QRX6	TMhelix	291	309				
+UniRef100_K9QRX6	inside	310	329				
+//
+# UniRef100_G8AXA8 Length: 239
+# UniRef100_G8AXA8 Number of predicted TMRs: 0
+UniRef100_G8AXA8	inside	1	239				
+//
+# UniRef100_A0A1A3TGW4 Length: 774
+# UniRef100_A0A1A3TGW4 Number of predicted TMRs: 8
+UniRef100_A0A1A3TGW4	inside	1	159				
+UniRef100_A0A1A3TGW4	TMhelix	160	177				
+UniRef100_A0A1A3TGW4	outside	178	182				
+UniRef100_A0A1A3TGW4	TMhelix	183	200				
+UniRef100_A0A1A3TGW4	inside	201	210				
+UniRef100_A0A1A3TGW4	TMhelix	211	227				
+UniRef100_A0A1A3TGW4	outside	228	230				
+UniRef100_A0A1A3TGW4	TMhelix	231	246				
+UniRef100_A0A1A3TGW4	inside	247	383				
+UniRef100_A0A1A3TGW4	TMhelix	384	402				
+UniRef100_A0A1A3TGW4	outside	403	411				
+UniRef100_A0A1A3TGW4	TMhelix	412	427				
+UniRef100_A0A1A3TGW4	inside	428	708				
+UniRef100_A0A1A3TGW4	TMhelix	709	729				
+UniRef100_A0A1A3TGW4	outside	730	731				
+UniRef100_A0A1A3TGW4	TMhelix	732	753				
+UniRef100_A0A1A3TGW4	inside	754	774				
+//
+# UniRef100_A0A375Z1L1 Length: 775
+# UniRef100_A0A375Z1L1 Number of predicted TMRs: 8
+UniRef100_A0A375Z1L1	inside	1	159				
+UniRef100_A0A375Z1L1	TMhelix	160	177				
+UniRef100_A0A375Z1L1	outside	178	182				
+UniRef100_A0A375Z1L1	TMhelix	183	200				
+UniRef100_A0A375Z1L1	inside	201	210				
+UniRef100_A0A375Z1L1	TMhelix	211	227				
+UniRef100_A0A375Z1L1	outside	228	230				
+UniRef100_A0A375Z1L1	TMhelix	231	246				
+UniRef100_A0A375Z1L1	inside	247	379				
+UniRef100_A0A375Z1L1	TMhelix	380	401				
+UniRef100_A0A375Z1L1	outside	402	411				
+UniRef100_A0A375Z1L1	TMhelix	412	427				
+UniRef100_A0A375Z1L1	inside	428	707				
+UniRef100_A0A375Z1L1	TMhelix	708	729				
+UniRef100_A0A375Z1L1	outside	730	730				
+UniRef100_A0A375Z1L1	TMhelix	731	753				
+UniRef100_A0A375Z1L1	inside	754	775				
+//
+# UniRef100_H8IWM7 Length: 790
+# UniRef100_H8IWM7 Number of predicted TMRs: 8
+UniRef100_H8IWM7	inside	1	160				
+UniRef100_H8IWM7	TMhelix	161	178				
+UniRef100_H8IWM7	outside	179	182				
+UniRef100_H8IWM7	TMhelix	183	201				
+UniRef100_H8IWM7	inside	202	211				
+UniRef100_H8IWM7	TMhelix	212	228				
+UniRef100_H8IWM7	outside	229	231				
+UniRef100_H8IWM7	TMhelix	232	247				
+UniRef100_H8IWM7	inside	248	384				
+UniRef100_H8IWM7	TMhelix	385	403				
+UniRef100_H8IWM7	outside	404	412				
+UniRef100_H8IWM7	TMhelix	413	428				
+UniRef100_H8IWM7	inside	429	711				
+UniRef100_H8IWM7	TMhelix	712	729				
+UniRef100_H8IWM7	outside	730	730				
+UniRef100_H8IWM7	TMhelix	731	753				
+UniRef100_H8IWM7	inside	754	790				
+//
+# UniRef100_I3CBI2 Length: 718
+# UniRef100_I3CBI2 Number of predicted TMRs: 4
+UniRef100_I3CBI2	inside	1	142				
+UniRef100_I3CBI2	TMhelix	143	154				
+UniRef100_I3CBI2	outside	155	158				
+UniRef100_I3CBI2	TMhelix	159	174				
+UniRef100_I3CBI2	inside	175	644				
+UniRef100_I3CBI2	TMhelix	645	661				
+UniRef100_I3CBI2	outside	662	667				
+UniRef100_I3CBI2	TMhelix	668	683				
+UniRef100_I3CBI2	inside	684	718				
+//
+# UniRef100_A0A1Q4RFD9 Length: 328
+# UniRef100_A0A1Q4RFD9 Number of predicted TMRs: 6
+UniRef100_A0A1Q4RFD9	inside	1	115				
+UniRef100_A0A1Q4RFD9	TMhelix	116	132				
+UniRef100_A0A1Q4RFD9	outside	133	166				
+UniRef100_A0A1Q4RFD9	TMhelix	167	181				
+UniRef100_A0A1Q4RFD9	inside	182	191				
+UniRef100_A0A1Q4RFD9	TMhelix	192	210				
+UniRef100_A0A1Q4RFD9	outside	211	231				
+UniRef100_A0A1Q4RFD9	TMhelix	232	247				
+UniRef100_A0A1Q4RFD9	inside	248	256				
+UniRef100_A0A1Q4RFD9	TMhelix	257	276				
+UniRef100_A0A1Q4RFD9	outside	277	281				
+UniRef100_A0A1Q4RFD9	TMhelix	282	302				
+UniRef100_A0A1Q4RFD9	inside	303	328				
+//
+# UniRef100_A0A120D213 Length: 203
+# UniRef100_A0A120D213 Number of predicted TMRs: 0
+UniRef100_A0A120D213	inside	1	203				
+//
+# UniRef100_A0A4V2SL97 Length: 164
+# UniRef100_A0A4V2SL97 Number of predicted TMRs: 0
+UniRef100_A0A4V2SL97	inside	1	164				
+//
+# UniRef100_A0A4Y9MBC0 Length: 778
+# UniRef100_A0A4Y9MBC0 Number of predicted TMRs: 2
+UniRef100_A0A4Y9MBC0	inside	1	551				
+UniRef100_A0A4Y9MBC0	TMhelix	552	564				
+UniRef100_A0A4Y9MBC0	outside	565	583				
+UniRef100_A0A4Y9MBC0	TMhelix	584	598				
+UniRef100_A0A4Y9MBC0	inside	599	778				
+//
+# UniRef100_D9X4P0 Length: 819
+# UniRef100_D9X4P0 Number of predicted TMRs: 4
+UniRef100_D9X4P0	inside	1	501				
+UniRef100_D9X4P0	TMhelix	502	522				
+UniRef100_D9X4P0	outside	523	535				
+UniRef100_D9X4P0	TMhelix	536	552				
+UniRef100_D9X4P0	inside	553	632				
+UniRef100_D9X4P0	TMhelix	633	648				
+UniRef100_D9X4P0	outside	649	651				
+UniRef100_D9X4P0	TMhelix	652	670				
+UniRef100_D9X4P0	inside	671	819				
+//
+# UniRef100_A0A7V3J1H4 Length: 448
+# UniRef100_A0A7V3J1H4 Number of predicted TMRs: 0
+UniRef100_A0A7V3J1H4	inside	1	448				
+//
+# UniRef100_A0A2S8KJB0 Length: 749
+# UniRef100_A0A2S8KJB0 Number of predicted TMRs: 0
+UniRef100_A0A2S8KJB0	inside	1	749				
+//
+# UniRef100_G2NZI0 Length: 633
+# UniRef100_G2NZI0 Number of predicted TMRs: 2
+UniRef100_G2NZI0	inside	1	567				
+UniRef100_G2NZI0	TMhelix	568	577				
+UniRef100_G2NZI0	outside	578	592				
+UniRef100_G2NZI0	TMhelix	593	606				
+UniRef100_G2NZI0	inside	607	633				
+//
+# UniRef100_A0A139R805 Length: 106
+# UniRef100_A0A139R805 Number of predicted TMRs: 0
+UniRef100_A0A139R805	inside	1	106				
+//
+# UniRef100_A0A8B5WW76 Length: 720
+# UniRef100_A0A8B5WW76 Number of predicted TMRs: 4
+UniRef100_A0A8B5WW76	inside	1	147				
+UniRef100_A0A8B5WW76	TMhelix	148	160				
+UniRef100_A0A8B5WW76	outside	161	163				
+UniRef100_A0A8B5WW76	TMhelix	164	184				
+UniRef100_A0A8B5WW76	inside	185	649				
+UniRef100_A0A8B5WW76	TMhelix	650	666				
+UniRef100_A0A8B5WW76	outside	667	671				
+UniRef100_A0A8B5WW76	TMhelix	672	687				
+UniRef100_A0A8B5WW76	inside	688	720				
+//
+# UniRef100_A0A348RX01 Length: 307
+# UniRef100_A0A348RX01 Number of predicted TMRs: 0
+UniRef100_A0A348RX01	inside	1	307				
+//
+# UniRef100_A0A7V8WRG4 Length: 438
+# UniRef100_A0A7V8WRG4 Number of predicted TMRs: 0
+UniRef100_A0A7V8WRG4	inside	1	438				
+//
+# UniRef100_A0A1V3WNW9 Length: 701
+# UniRef100_A0A1V3WNW9 Number of predicted TMRs: 0
+UniRef100_A0A1V3WNW9	inside	1	701				
+//
+# UniRef100_A0A1E3S7X9 Length: 363
+# UniRef100_A0A1E3S7X9 Number of predicted TMRs: 3
+UniRef100_A0A1E3S7X9	inside	1	275				
+UniRef100_A0A1E3S7X9	TMhelix	276	286				
+UniRef100_A0A1E3S7X9	outside	287	287				
+UniRef100_A0A1E3S7X9	TMhelix	288	297				
+UniRef100_A0A1E3S7X9	inside	298	306				
+UniRef100_A0A1E3S7X9	TMhelix	307	324				
+UniRef100_A0A1E3S7X9	outside	325	363				
+//
+# UniRef100_A0A7J5WUD7 Length: 1213
+# UniRef100_A0A7J5WUD7 Number of predicted TMRs: 3
+UniRef100_A0A7J5WUD7	inside	1	852				
+UniRef100_A0A7J5WUD7	TMhelix	853	864				
+UniRef100_A0A7J5WUD7	outside	865	882				
+UniRef100_A0A7J5WUD7	TMhelix	883	894				
+UniRef100_A0A7J5WUD7	inside	895	1078				
+UniRef100_A0A7J5WUD7	TMhelix	1079	1088				
+UniRef100_A0A7J5WUD7	outside	1089	1213				
+//
+# UniRef100_A0A7K2VGX2 Length: 464
+# UniRef100_A0A7K2VGX2 Number of predicted TMRs: 0
+UniRef100_A0A7K2VGX2	inside	1	464				
+//
+# UniRef100_A0A7K3GPY0 Length: 266
+# UniRef100_A0A7K3GPY0 Number of predicted TMRs: 0
+UniRef100_A0A7K3GPY0	inside	1	266				
+//
+# UniRef100_A0A329KD71 Length: 182
+# UniRef100_A0A329KD71 Number of predicted TMRs: 0
+UniRef100_A0A329KD71	inside	1	182				
+//
+# UniRef100_A0A2W5Y125 Length: 697
+# UniRef100_A0A2W5Y125 Number of predicted TMRs: 4
+UniRef100_A0A2W5Y125	inside	1	151				
+UniRef100_A0A2W5Y125	TMhelix	152	164				
+UniRef100_A0A2W5Y125	outside	165	167				
+UniRef100_A0A2W5Y125	TMhelix	168	180				
+UniRef100_A0A2W5Y125	inside	181	644				
+UniRef100_A0A2W5Y125	TMhelix	645	657				
+UniRef100_A0A2W5Y125	outside	658	666				
+UniRef100_A0A2W5Y125	TMhelix	667	682				
+UniRef100_A0A2W5Y125	inside	683	697				
+//
+# UniRef100_A0A2S5KMH5 Length: 757
+# UniRef100_A0A2S5KMH5 Number of predicted TMRs: 8
+UniRef100_A0A2S5KMH5	inside	1	137				
+UniRef100_A0A2S5KMH5	TMhelix	138	158				
+UniRef100_A0A2S5KMH5	outside	159	162				
+UniRef100_A0A2S5KMH5	TMhelix	163	181				
+UniRef100_A0A2S5KMH5	inside	182	194				
+UniRef100_A0A2S5KMH5	TMhelix	195	209				
+UniRef100_A0A2S5KMH5	outside	210	211				
+UniRef100_A0A2S5KMH5	TMhelix	212	228				
+UniRef100_A0A2S5KMH5	inside	229	365				
+UniRef100_A0A2S5KMH5	TMhelix	366	385				
+UniRef100_A0A2S5KMH5	outside	386	396				
+UniRef100_A0A2S5KMH5	TMhelix	397	411				
+UniRef100_A0A2S5KMH5	inside	412	705				
+UniRef100_A0A2S5KMH5	TMhelix	706	726				
+UniRef100_A0A2S5KMH5	outside	727	730				
+UniRef100_A0A2S5KMH5	TMhelix	731	752				
+UniRef100_A0A2S5KMH5	inside	753	757				
+//
+# UniRef100_A0A3M1F3G9 Length: 820
+# UniRef100_A0A3M1F3G9 Number of predicted TMRs: 8
+UniRef100_A0A3M1F3G9	inside	1	165				
+UniRef100_A0A3M1F3G9	TMhelix	166	185				
+UniRef100_A0A3M1F3G9	outside	186	203				
+UniRef100_A0A3M1F3G9	TMhelix	204	226				
+UniRef100_A0A3M1F3G9	inside	227	238				
+UniRef100_A0A3M1F3G9	TMhelix	239	259				
+UniRef100_A0A3M1F3G9	outside	260	270				
+UniRef100_A0A3M1F3G9	TMhelix	271	287				
+UniRef100_A0A3M1F3G9	inside	288	422				
+UniRef100_A0A3M1F3G9	TMhelix	423	443				
+UniRef100_A0A3M1F3G9	outside	444	446				
+UniRef100_A0A3M1F3G9	TMhelix	447	467				
+UniRef100_A0A3M1F3G9	inside	468	764				
+UniRef100_A0A3M1F3G9	TMhelix	765	791				
+UniRef100_A0A3M1F3G9	outside	792	793				
+UniRef100_A0A3M1F3G9	TMhelix	794	812				
+UniRef100_A0A3M1F3G9	inside	813	820				
+//
+# UniRef100_A0A183J9B2 Length: 219
+# UniRef100_A0A183J9B2 Number of predicted TMRs: 0
+UniRef100_A0A183J9B2	inside	1	219				
+//
+# UniRef100_A0A850MDW7 Length: 580
+# UniRef100_A0A850MDW7 Number of predicted TMRs: 6
+UniRef100_A0A850MDW7	inside	1	166				
+UniRef100_A0A850MDW7	TMhelix	167	186				
+UniRef100_A0A850MDW7	outside	187	198				
+UniRef100_A0A850MDW7	TMhelix	199	224				
+UniRef100_A0A850MDW7	inside	225	235				
+UniRef100_A0A850MDW7	TMhelix	236	254				
+UniRef100_A0A850MDW7	outside	255	261				
+UniRef100_A0A850MDW7	TMhelix	262	279				
+UniRef100_A0A850MDW7	inside	280	414				
+UniRef100_A0A850MDW7	TMhelix	415	435				
+UniRef100_A0A850MDW7	outside	436	442				
+UniRef100_A0A850MDW7	TMhelix	443	460				
+UniRef100_A0A850MDW7	inside	461	580				
+//
+# UniRef100_A0A6A4UT62 Length: 170
+# UniRef100_A0A6A4UT62 Number of predicted TMRs: 0
+UniRef100_A0A6A4UT62	signal	1	24				
+UniRef100_A0A6A4UT62	outside	25	170				
+//
+# UniRef100_A0A850LWC2 Length: 1017
+# UniRef100_A0A850LWC2 Number of predicted TMRs: 8
+UniRef100_A0A850LWC2	inside	1	161				
+UniRef100_A0A850LWC2	TMhelix	162	183				
+UniRef100_A0A850LWC2	outside	184	193				
+UniRef100_A0A850LWC2	TMhelix	194	215				
+UniRef100_A0A850LWC2	inside	216	225				
+UniRef100_A0A850LWC2	TMhelix	226	246				
+UniRef100_A0A850LWC2	outside	247	253				
+UniRef100_A0A850LWC2	TMhelix	254	270				
+UniRef100_A0A850LWC2	inside	271	403				
+UniRef100_A0A850LWC2	TMhelix	404	426				
+UniRef100_A0A850LWC2	outside	427	434				
+UniRef100_A0A850LWC2	TMhelix	435	450				
+UniRef100_A0A850LWC2	inside	451	755				
+UniRef100_A0A850LWC2	TMhelix	756	774				
+UniRef100_A0A850LWC2	outside	775	784				
+UniRef100_A0A850LWC2	TMhelix	785	805				
+UniRef100_A0A850LWC2	inside	806	1017				
+//
+# UniRef100_A4TUA7 Length: 321
+# UniRef100_A4TUA7 Number of predicted TMRs: 4
+UniRef100_A4TUA7	inside	1	183				
+UniRef100_A4TUA7	TMhelix	184	201				
+UniRef100_A4TUA7	outside	202	208				
+UniRef100_A4TUA7	TMhelix	209	227				
+UniRef100_A4TUA7	inside	228	242				
+UniRef100_A4TUA7	TMhelix	243	261				
+UniRef100_A4TUA7	outside	262	268				
+UniRef100_A4TUA7	TMhelix	269	282				
+UniRef100_A4TUA7	inside	283	321				
+//
+# UniRef100_X1FQZ7 Length: 195
+# UniRef100_X1FQZ7 Number of predicted TMRs: 1
+UniRef100_X1FQZ7	inside	1	162				
+UniRef100_X1FQZ7	TMhelix	163	182				
+UniRef100_X1FQZ7	outside	183	195				
+//
+# UniRef100_D5PAA7 Length: 367
+# UniRef100_D5PAA7 Number of predicted TMRs: 0
+UniRef100_D5PAA7	inside	1	367				
+//
+# UniRef100_X8AEA9 Length: 1247
+# UniRef100_X8AEA9 Number of predicted TMRs: 4
+UniRef100_X8AEA9	inside	1	733				
+UniRef100_X8AEA9	TMhelix	734	749				
+UniRef100_X8AEA9	outside	750	752				
+UniRef100_X8AEA9	TMhelix	753	771				
+UniRef100_X8AEA9	inside	772	928				
+UniRef100_X8AEA9	TMhelix	929	949				
+UniRef100_X8AEA9	outside	950	957				
+UniRef100_X8AEA9	TMhelix	958	976				
+UniRef100_X8AEA9	inside	977	1247				
+//
+# UniRef100_A0A524EXF6 Length: 995
+# UniRef100_A0A524EXF6 Number of predicted TMRs: 8
+UniRef100_A0A524EXF6	inside	1	162				
+UniRef100_A0A524EXF6	TMhelix	163	183				
+UniRef100_A0A524EXF6	outside	184	190				
+UniRef100_A0A524EXF6	TMhelix	191	210				
+UniRef100_A0A524EXF6	inside	211	224				
+UniRef100_A0A524EXF6	TMhelix	225	240				
+UniRef100_A0A524EXF6	outside	241	251				
+UniRef100_A0A524EXF6	TMhelix	252	267				
+UniRef100_A0A524EXF6	inside	268	403				
+UniRef100_A0A524EXF6	TMhelix	404	417				
+UniRef100_A0A524EXF6	outside	418	434				
+UniRef100_A0A524EXF6	TMhelix	435	449				
+UniRef100_A0A524EXF6	inside	450	748				
+UniRef100_A0A524EXF6	TMhelix	749	767				
+UniRef100_A0A524EXF6	outside	768	780				
+UniRef100_A0A524EXF6	TMhelix	781	796				
+UniRef100_A0A524EXF6	inside	797	995				
+//
+# UniRef100_A0A7U8UFE0 Length: 425
+# UniRef100_A0A7U8UFE0 Number of predicted TMRs: 0
+UniRef100_A0A7U8UFE0	inside	1	425				
+//
+# UniRef100_A0A523REV4 Length: 1008
+# UniRef100_A0A523REV4 Number of predicted TMRs: 8
+UniRef100_A0A523REV4	inside	1	163				
+UniRef100_A0A523REV4	TMhelix	164	179				
+UniRef100_A0A523REV4	outside	180	189				
+UniRef100_A0A523REV4	TMhelix	190	209				
+UniRef100_A0A523REV4	inside	210	223				
+UniRef100_A0A523REV4	TMhelix	224	239				
+UniRef100_A0A523REV4	outside	240	252				
+UniRef100_A0A523REV4	TMhelix	253	266				
+UniRef100_A0A523REV4	inside	267	402				
+UniRef100_A0A523REV4	TMhelix	403	418				
+UniRef100_A0A523REV4	outside	419	433				
+UniRef100_A0A523REV4	TMhelix	434	448				
+UniRef100_A0A523REV4	inside	449	748				
+UniRef100_A0A523REV4	TMhelix	749	769				
+UniRef100_A0A523REV4	outside	770	780				
+UniRef100_A0A523REV4	TMhelix	781	796				
+UniRef100_A0A523REV4	inside	797	1008				
+//
+# UniRef100_A0A5C9EMS8 Length: 1006
+# UniRef100_A0A5C9EMS8 Number of predicted TMRs: 8
+UniRef100_A0A5C9EMS8	inside	1	170				
+UniRef100_A0A5C9EMS8	TMhelix	171	187				
+UniRef100_A0A5C9EMS8	outside	188	196				
+UniRef100_A0A5C9EMS8	TMhelix	197	215				
+UniRef100_A0A5C9EMS8	inside	216	230				
+UniRef100_A0A5C9EMS8	TMhelix	231	246				
+UniRef100_A0A5C9EMS8	outside	247	258				
+UniRef100_A0A5C9EMS8	TMhelix	259	270				
+UniRef100_A0A5C9EMS8	inside	271	409				
+UniRef100_A0A5C9EMS8	TMhelix	410	423				
+UniRef100_A0A5C9EMS8	outside	424	440				
+UniRef100_A0A5C9EMS8	TMhelix	441	455				
+UniRef100_A0A5C9EMS8	inside	456	755				
+UniRef100_A0A5C9EMS8	TMhelix	756	774				
+UniRef100_A0A5C9EMS8	outside	775	787				
+UniRef100_A0A5C9EMS8	TMhelix	788	803				
+UniRef100_A0A5C9EMS8	inside	804	1006				
+//
+# UniRef100_A0A1C0VLK1 Length: 206
+# UniRef100_A0A1C0VLK1 Number of predicted TMRs: 0
+UniRef100_A0A1C0VLK1	inside	1	206				
+//
+# UniRef100_A0A3M1LH89 Length: 785
+# UniRef100_A0A3M1LH89 Number of predicted TMRs: 8
+UniRef100_A0A3M1LH89	inside	1	150				
+UniRef100_A0A3M1LH89	TMhelix	151	171				
+UniRef100_A0A3M1LH89	outside	172	182				
+UniRef100_A0A3M1LH89	TMhelix	183	204				
+UniRef100_A0A3M1LH89	inside	205	216				
+UniRef100_A0A3M1LH89	TMhelix	217	230				
+UniRef100_A0A3M1LH89	outside	231	243				
+UniRef100_A0A3M1LH89	TMhelix	244	258				
+UniRef100_A0A3M1LH89	inside	259	393				
+UniRef100_A0A3M1LH89	TMhelix	394	414				
+UniRef100_A0A3M1LH89	outside	415	417				
+UniRef100_A0A3M1LH89	TMhelix	418	438				
+UniRef100_A0A3M1LH89	inside	439	735				
+UniRef100_A0A3M1LH89	TMhelix	736	756				
+UniRef100_A0A3M1LH89	outside	757	758				
+UniRef100_A0A3M1LH89	TMhelix	759	779				
+UniRef100_A0A3M1LH89	inside	780	785				
+//
+# UniRef100_A0A7U8U335 Length: 922
+# UniRef100_A0A7U8U335 Number of predicted TMRs: 1
+UniRef100_A0A7U8U335	inside	1	773				
+UniRef100_A0A7U8U335	TMhelix	774	783				
+UniRef100_A0A7U8U335	outside	784	922				
+//
+# UniRef100_B8HLY0 Length: 628
+# UniRef100_B8HLY0 Number of predicted TMRs: 4
+UniRef100_B8HLY0	inside	1	170				
+UniRef100_B8HLY0	TMhelix	171	182				
+UniRef100_B8HLY0	outside	183	186				
+UniRef100_B8HLY0	TMhelix	187	198				
+UniRef100_B8HLY0	inside	199	544				
+UniRef100_B8HLY0	TMhelix	545	561				
+UniRef100_B8HLY0	outside	562	565				
+UniRef100_B8HLY0	TMhelix	566	583				
+UniRef100_B8HLY0	inside	584	628				
+//
+# UniRef100_A0A2I4H8J0 Length: 973
+# UniRef100_A0A2I4H8J0 Number of predicted TMRs: 8
+UniRef100_A0A2I4H8J0	inside	1	282				
+UniRef100_A0A2I4H8J0	TMhelix	283	301				
+UniRef100_A0A2I4H8J0	outside	302	322				
+UniRef100_A0A2I4H8J0	TMhelix	323	342				
+UniRef100_A0A2I4H8J0	inside	343	356				
+UniRef100_A0A2I4H8J0	TMhelix	357	375				
+UniRef100_A0A2I4H8J0	outside	376	387				
+UniRef100_A0A2I4H8J0	TMhelix	388	405				
+UniRef100_A0A2I4H8J0	inside	406	547				
+UniRef100_A0A2I4H8J0	TMhelix	548	567				
+UniRef100_A0A2I4H8J0	outside	568	586				
+UniRef100_A0A2I4H8J0	TMhelix	587	604				
+UniRef100_A0A2I4H8J0	inside	605	906				
+UniRef100_A0A2I4H8J0	TMhelix	907	929				
+UniRef100_A0A2I4H8J0	outside	930	935				
+UniRef100_A0A2I4H8J0	TMhelix	936	956				
+UniRef100_A0A2I4H8J0	inside	957	973				
+//
+# UniRef100_A0A4P9ZAN5 Length: 667
+# UniRef100_A0A4P9ZAN5 Number of predicted TMRs: 5
+UniRef100_A0A4P9ZAN5	inside	1	351				
+UniRef100_A0A4P9ZAN5	TMhelix	352	369				
+UniRef100_A0A4P9ZAN5	outside	370	385				
+UniRef100_A0A4P9ZAN5	TMhelix	386	402				
+UniRef100_A0A4P9ZAN5	inside	403	424				
+UniRef100_A0A4P9ZAN5	TMhelix	425	440				
+UniRef100_A0A4P9ZAN5	outside	441	456				
+UniRef100_A0A4P9ZAN5	TMhelix	457	475				
+UniRef100_A0A4P9ZAN5	inside	476	620				
+UniRef100_A0A4P9ZAN5	TMhelix	621	643				
+UniRef100_A0A4P9ZAN5	outside	644	667				
+//
+# UniRef100_M4B3J3 Length: 699
+# UniRef100_M4B3J3 Number of predicted TMRs: 0
+UniRef100_M4B3J3	inside	1	699				
+//
+# UniRef100_A0A1C5L4W9 Length: 113
+# UniRef100_A0A1C5L4W9 Number of predicted TMRs: 0
+UniRef100_A0A1C5L4W9	inside	1	113				
+//
+# UniRef100_A0A2S2C0A9 Length: 645
+# UniRef100_A0A2S2C0A9 Number of predicted TMRs: 2
+UniRef100_A0A2S2C0A9	inside	1	504				
+UniRef100_A0A2S2C0A9	TMhelix	505	521				
+UniRef100_A0A2S2C0A9	outside	522	533				
+UniRef100_A0A2S2C0A9	TMhelix	534	543				
+UniRef100_A0A2S2C0A9	inside	544	645				
+//
+# Synechococcus_sp_PCC_6312 Length: 347
+# Synechococcus_sp_PCC_6312 Number of predicted TMRs: 0
+Synechococcus_sp_PCC_6312	inside	1	347				
+//
+# MWMJ01000016.1_prot_OUE49294.1_331 Length: 264
+# MWMJ01000016.1_prot_OUE49294.1_331 Number of predicted TMRs: 0
+MWMJ01000016.1_prot_OUE49294.1_331	inside	1	264				
+//
+# Synechococcus_PCC_6717 Length: 322
+# Synechococcus_PCC_6717 Number of predicted TMRs: 0
+Synechococcus_PCC_6717	inside	1	322				

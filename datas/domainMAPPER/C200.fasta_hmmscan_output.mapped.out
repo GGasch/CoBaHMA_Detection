@@ -1,0 +1,34 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 16:59:07.832604
+#  Input HMM: 
+#               C200.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C200.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:      1         Total Domains:       3
+#                                                        NC :   2 (66.67%)
+#                                                        CP :   1 (33.33%)
+#                                                        IS :   2 (66.67%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A0M0SKF3	3.60e-112	137-249,319-455,800-1051	NC CP	alpha bundles	Calcium ATPase transmembrane domain-related	Calcium ATPase transmembrane domain M	Cation_ATPase_C	5073.1.1.14	
+UniRef100_A0A0M0SKF3	1.50e-44	455-469,691-836	NC IS	a/b three-layered sandwiches	HAD domain-like	HAD-like	Hydrolase_3_1	2006.1.1.42	
+UniRef100_A0A0M0SKF3	6.40e-41	470-692	IS	a+b complex topology	Metal cation-transporting ATPase, ATP-binding domain	Metal cation-transporting ATPase, ATP-binding domain	Cation_ATPase	267.1.1.3	

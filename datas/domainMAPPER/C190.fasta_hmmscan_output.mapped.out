@@ -1,0 +1,59 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 16:58:58.831752
+#  Input HMM: 
+#               C190.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C190.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:     53         Total Domains:      28
+#                                                        NC :   0 (0.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_D5V6Q3	3.00e-06	43-84		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A128EFD5	4.10e-06	78-96		alpha arrays	HTH	tri-helical	Mor_C	101.1.1.87	
+UniRef100_A0A329ZW13	8.70e-07	44-80		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A2N6FRK5	7.80e-06	25-58		extended segments	RNA polymerase PB1 C-terminal fragment	RNA polymerase PB1 C-terminal fragment	Flu_PB1_3rd	3078.1.1.1	
+UniRef100_A0A363D809	1.00e-05	44-85		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A847NSD8	2.40e-07	51-82		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A347TMU5	2.60e-06	43-84		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_G2HUB8	3.20e-06	43-81		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A377Q0I8	6.80e-06	15-55		alpha arrays	EF-hand	Type I dockerin domain	Dockerin_III	108.1.2.2	
+UniRef100_A0A2N1J416	5.90e-06	43-84		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A1V9V9P2	6.00e-06	69-86		few secondary structure elements	Rubredoxin-like	Rubredoxin-related	KOG2682	375.1.1.52	
+UniRef100_A0A2N6FYY6	8.20e-07	43-81		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A2S9SZZ6	4.60e-06	43-80		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_S3XY40	6.50e-06	19-62		alpha arrays	L-aspartase C-terminal domain-like	L-aspartase C-terminal domain-like	ASL_C2	4953.1.1.3	
+UniRef100_A0A4Q0ZPI1	4.00e-06	43-81		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A3D8HRP8	2.00e-06	66-102		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A6G5R469	2.90e-06	49-85		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A4Q1A2N6	3.70e-06	69-87		few secondary structure elements	Rubredoxin-like	Rubredoxin-related	KOG2682	375.1.1.52	
+UniRef100_A0A5B7X8E9	5.20e-06	69-86		few secondary structure elements	Rubredoxin-like	Rubredoxin-related	KOG2682	375.1.1.52	
+UniRef100_A0A5L4ZTA9	2.60e-06	44-99		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A2G1DEM6	9.50e-06	27-71		a+b two layers	Alpha-beta plaits	Dimeric alpha+beta barrel	Dabb	304.4.1.5	
+UniRef100_A0A2G1DEM6	8.10e-06	43-90		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A2G6R7K1	5.70e-06	33-78		a+b two layers	Glucose permease domain IIB-like	eIF1-like	EUF08383	306.3.1.4	
+UniRef100_M5IHA4	1.20e-06	48-79		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A7M1LGN0	5.90e-07	68-104		a/b three-layered sandwiches	Restriction endonuclease-like	Restriction endonuclease-like	ERCC4	2008.1.1.25	
+UniRef100_A0A4Q0YBD9	6.20e-07	49-100		a+b two layers	Alpha-beta plaits	ACT-like	ACT_4_1	304.8.1.94	
+UniRef100_A0A2G2HG50	2.70e-06	27-65		alpha arrays	HTH	winged	Mnd1	101.1.2.246	
+UniRef100_A0A6M8NHW2	1.20e-06	46-101		a+b two layers	Alpha-beta plaits	ACT-like	ACT_4_1	304.8.1.94	

@@ -1,0 +1,60 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:03:07.663535
+#  Input HMM: 
+#               C396.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C396.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:     62         Total Domains:      29
+#                                                        NC :   0 (0.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A433NKG6	1.70e-06	72-148		a+b three layers	Cytidine deaminase-like	Cytidine deaminase-like	PROCT	2492.1.1.13	
+UniRef100_A0A2U3JXY9	6.20e-07	30-74		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A856MMY5	1.40e-06	55-101		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A3N9VL67	1.70e-08	38-80		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_D8F5L5	7.50e-08	37-81		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A2T2RNK1	2.20e-06	51-117		a+b complex topology	alpha/beta-Hammerhead/Barrel-sandwich hybrid	Nicotinate/Quinolinate PRTase N-terminal domain-like	QRPTase_N_1	325.1.4.2	
+UniRef100_A0A6J4RF88	4.00e-06	37-80		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A2H2WZ68	1.10e-07	30-76		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A3D1PAW1	3.50e-07	30-90		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A367QWB6	9.40e-06	55-101		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A2I8AFK9	1.90e-07	54-101		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A654SMR3	1.00e-06	54-105		a+b two layers	Alpha-beta plaits	SP0830-like	DUF1697	304.121.1.1	
+UniRef100_A0A4Q5L5X7	6.60e-06	46-88		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A2W4RFL8	1.10e-08	37-81		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A2A2TE09	3.10e-06	54-90		a+b two layers	Alpha-lytic protease prodomain-like	Eukaryotic type KH-domain (KH-domain type I)	KOG3273	327.11.2.15	
+UniRef100_K9R0N1	1.30e-06	57-103		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A538KHX2	4.90e-06	56-79		a+b two layers	Glucose permease domain IIB-like	PH0987 N-terminal domain-like	CT_C_D_N	306.6.1.2	
+UniRef100_A0A6J4SR88	1.40e-09	33-78		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A0C2Q9N9	1.20e-06	55-101		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A2T3XN59	1.60e-07	37-81		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A3C0N2D1	8.10e-06	32-78		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A7X1PDX4	2.20e-07	24-74		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0ZAK8	7.90e-06	54-99		a+b two layers	Alpha-beta plaits	SP0830-like	DUF1697	304.121.1.1	
+UniRef100_A0A1Y6D822	2.10e-08	34-78		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A1Q4RTZ3	1.90e-07	31-78		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A844MCK3	8.40e-07	57-103		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_D7DWV0	2.00e-06	68-120		a+b two layers	Alpha-beta plaits	ACT-like	ACT	304.8.1.1	
+UniRef100_A0A7S6RCV5	2.30e-06	54-99		a+b two layers	Alpha-beta plaits	SP0830-like	DUF1697	304.121.1.1	
+UniRef100_A0A250KZI9	7.70e-09	34-79		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	

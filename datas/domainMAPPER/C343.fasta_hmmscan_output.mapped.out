@@ -1,0 +1,35 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:01:45.739526
+#  Input HMM: 
+#               C343.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C343.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:     19         Total Domains:       4
+#                                                        NC :   0 (0.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A844MAR0	9.70e-06	48-86		a+b two layers	dsRBD-like	Bacillus phage protein	EUF08408	330.5.1.2	
+UniRef100_A0A0C1NDZ5	9.30e-06	55-99		a+b complex topology	DNA methylase specificity domain	DNA methylase specificity domain	MmeI_S	4333.1.1.12	
+UniRef100_A0A4D9CHL7	1.70e-06	66-105		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A2N6K2R0	2.10e-06	65-105		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	

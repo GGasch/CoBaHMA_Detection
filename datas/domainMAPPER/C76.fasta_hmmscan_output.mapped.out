@@ -1,0 +1,42 @@
+#===========================================================================================
+#  DOMAIN MAPPER v3.0.2
+#  Johns Hopkins Univeristy - September 22nd, 2022
+#  Edgar Manriquez-Sandoval, M.S. - Dept. of Biophysics
+#  emanriq1@jhu.edu
+#  & 
+#  Stephen D. Fried, Ph.D. - Dept. of Chemistry
+#  sdfried@jhu.edu
+#===========================================================================================
+#  Excecuted on:
+#               2023-04-24 17:09:32.432949
+#  Input HMM: 
+#               C76.fasta_hmmscan_output.hmm.out
+#  Output:
+#               C76.fasta_hmmscan_output.mapped.out
+#  Options:
+#               Intra domain gap = 30
+#               Inter domain gap = 30
+#               overlap = 40
+#               E-value cutoff = 1.00e-05
+#  Domain Counts:
+#               Total Proteins:     81         Total Domains:      11
+#                                                        NC :   0 (0.00%)
+#                                                        CP :   0 (0.00%)
+#                                                        IS :   0 (0.00%)
+#  Property Definitions:
+#               CP = Circular Permutant Domain
+#               NC = Non-Contiguous Domain
+#               IS = InSertional Domain
+#===========================================================================================
+# Accession	E-Value	Residue Range	Property	Architecture	X-group	T-group	F-group	F-id
+UniRef100_A0A0S8A645	5.20e-09	38-79		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A419J5K7	5.60e-07	34-108		beta complex topology	PheT/TilS domain	PheT/TilS domain	B3_4	865.1.1.1	
+UniRef100_A0A1V5CH65	3.90e-06	25-86		a/b three-layered sandwiches	Rossmann-like	S-adenosyl-L-methionine-dependent methyltransferases	Methyltransf_24	2003.1.5.31	
+UniRef100_A0A6B8M6W2	9.40e-06	61-113		alpha bundles	Tetracyclin repressor-like, C-terminal domain	Tetracyclin repressor-like, C-terminal domain	TtgR_C	191.1.1.96	
+UniRef100_A0A1I2ZQL8	9.50e-06	31-63		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A7C2P3T3	9.10e-06	36-70		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A177E6F7	2.30e-06	27-111		a+b complex topology	Protein kinase/SAICAR synthase/ATP-grasp	Protein kinase	Pkinase_1	206.1.1.67	
+UniRef100_A0A2T5JWQ4	2.60e-07	31-65		a+b two layers	Alpha-beta plaits	HMA, heavy metal-associated domain	HMA	304.3.1.7	
+UniRef100_A0A4S5JEV9	8.20e-06	35-78		beta sandwiches	Glycosyl hydrolase domain-like	Glycosyl hydrolase domain	KOG1958	12.1.1.31	
+UniRef100_A0A6B8M237	6.10e-06	16-74		a/b barrels	TIM beta/alpha-barrel	TIM barrels	MR_MLE_C_1	2002.1.1.1056	
+UniRef100_A0A1G1H1H8	4.00e-06	39-103		alpha arrays	N-terminal helical domain in restriction-modification system methylation subunit-like	N-terminal helical domain in restriction-modification system methylation subunit	MmeI_N	3962.1.1.9	
