@@ -1,7 +1,5 @@
 # CoBaHMA_Detection
 
-**HERE ADD DETAILS FOR transitive search with HHBLIT...**
-
 ---
 
 Seq_Record_Fusion.py : a script to reduce an a3m file to remove redundant entry in it
@@ -142,3 +140,53 @@ We use [deepTMHMM](https://dtu.biolib.com/DeepTMHMM) to annotate transmembrane r
 ---
 
 Finally, we use [pCALF](https://github.com/K2SOHIGH/pcalf/tree/main) with default HMM profiles to detect and annotate calcyanin proteins. 
+
+
+
+# Supplementary datas: 
+
+Il y a 1) les fasta/msa/pdb du representant par communauté (sup data 3) et les orga modulaire par communauté (sup data 4). Du coup, pourrais tu inclure les fichiers suivants (il y a aussi tes deux fichiers tsv) dans un repertoire dédié (nommé par exemple SupData) sur GitHub, je donnerai alors comme référence le lien GitHub dans les suppléments et pourrai continuer la soumission du papier ainsi actualisé. Un grand merci pour ton aide! Et il y aurait aussi la table SI-1
+      
+- `SupplementaryData3_FASTA_MSA_AF2.zip`Archive including fasta, msa and pdb files for all representative sequences (community)
+- `SupplementaryData4_ModularOrganization.zip` Archive containing the modular organization of each community.
+- `SupplementaryData10_Community_desc.tsv` Table describing each community with:
+  - Community (Community identifier)
+  - Community Rep (The sequence representative of the community)
+  - Rep degree (The number of connexion involving the representative sequence)
+  - Community Size (The size of the community, i.e number of nodes)
+  - subgraph (The subgraph which the community belong)
+  - mean_seq_len (The mean sequence length in aa within the community)
+  - longest_seqs (The longest sequence of the community)
+  - longest_len (The maximum sequence length in aa within the community)
+  - shortest_seqs (The shortest sequence of the community)
+  - shortest_len (The minimum sequence length in aa within the community)
+  - IPRS (List of IPRs ID found associated to the community)
+  - IPRS_Functions (List of IPRs function associated to the community)
+  - DomainMapper_Ecod (List of ECOD associated to the community)
+  - DomainMapper_Functions (List of ECOD function associated to the community)
+- `SupplementaryData11_cobahma_annotation_taxo.tsv` Table summarizing the taxonomic lineage and the functionnal/structural annotation of all CoBaHMA sequences. One functionnal/structural definition per row.
+  - Accession (Uniprot accession) 
+  - E-Value (E-value of the functionnal/structural annotation)
+  - Residue Range (Feature start and stop-
+  - Property (Domain Property (NC, IS, CP), see [DomainMapper](https://github.com/FriedLabJHU/DomainMapper) for details)
+  - Architecture (ECOD Architecture, see [DomainMapper](https://github.com/FriedLabJHU/DomainMapper) for details)
+  - X-group (ECOD X-Group, see [DomainMapper](https://github.com/FriedLabJHU/DomainMapper) for details)
+  - T-group (ECOD T-Group, see [DomainMapper](https://github.com/FriedLabJHU/DomainMapper) for details)
+  - Desc (Functional description)
+  - Code (ECOD/IPR codes)
+  - Tool (Tool used for detection)
+  - Community (The community which the sequence belong)
+  - Community Size (The community size)
+  - Community Rep (The representative sequence of the community)
+  - Seq length (aa) (The sequence lenfth in residus)
+  - Taxonomy (The phylum which the sequence belong - less representated phyla are grouped under the label 'Other')
+  - Taxonomy detail (The phylum which the sequence belong)
+ 
+
+
+
+
+
+
+
+
